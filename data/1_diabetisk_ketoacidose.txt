@@ -1,0 +1,158 @@
+#1. Diabetisk ketoacidose
+ARDS – Acute respiratory distress syndrome BG – Blod glukose (Blodglukose anvendes synonymt for både blod og plasmaglukose) DKA – Diabetisk ketoacidose FFA – Free fatty acids (= frie fede syrer) GI-drop – Glukose-insulin-drop GIK-drop – Glukose-insulin-kalium-drop HH – Hyperosmolær hyperglykæmi KAD – Kateter á demeure
+
+## Definition
+Definition diabetisk ketoacidose
+
+Blodketon/3-hydroxybutyrat ≥ 3 mmol/l eller urinketon ≥ +2Metabolisk acidose (standard bikarbonat eller total CO2 < 18 mmol/l og/eller pH < 7.30)Hyperglykæmi (oftest BG > 15 mmol/l, ved kendt diabetes evt. lavere BG)
+
+## Behandling
+Behandlingen retter sig mod korrektion af acidosen, og det kan være nødvendigt at opretholde relativt højt BG med indgift af glukose for at tillade sufficient insulintilførsel. Behandlingen falder i tre faser:Fra diagnose til ophør af acidose (standard bikarbonat/total CO2 > 18 mmol/l)Fra ophør af acidose og blod-keton < 0,6 til patienten spiser som habitueltFra patienten er begyndt at spise som habitueltDet anbefales at registrere biokemiske fund, insulin og væskebehandling i særskilt skema for at sikre et umiddelbart og enkelt overblik, se [registreringsskema].1. FaseFra diagnose til ophør af acidose.To perifere venekatetre anvendes til infusion af insulin og væskeBlodglukose og blodketoner (eller urinketoner) målesNår diagnosen er stillet opstartes insulin- og væskebehandling efter nedenstående skema:InitialbehandlingFortsat behandling efter1. timeNår BG < 15 mmol/lHurtigtvirkende insulin (humant eller analogt)10 IE iv bolusSamtidig startes6 IE iv1,2 pr. time6 IE iv1,2 per time6 IE iv1,2 per time NaCl 0,9 %1.000 ml/1 time2. og 3. time: 500 ml/time, derefter i henhold til hydreringsgrad og nyrefunktion ca. 100 ml/timeStop NaCl Glukose 10 %00100 ml/timeJusteres så BG 10-15 mmol/lK-NaCl3 (51 mmol/l K+/103 mmol/l Na+)S-kalium·       < 3 mmol/l: 750 ml/time3-4 mmol/l: 500 ml/time4-5,5 mmol/l: 250 ml/time> 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·     < 3 mmol/l: 750 ml/time·     3-4 mmol/l: 500 ml/time·     4-5,5 mmol/l: 250 ml/time·     > 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·  < 3 mmol/l: 750 ml/time·  3-4 mmol/l: 500 ml/time·  4-5,5 mmol/l: 250 ml/time·  > 5,5 mmol/l: 0 ml/time, mål igen efter 1 time1: Insulindrop blandes med 100 IE hurtigtvirkende insulin (1 ml fra hætteglas) i 100 ml 0,9 % NaCl, infusionshastighed 6 ml/time sv.t. 6 IE/time 2: Afhængigt af lokale retningslinjer kan insulininfusion erstattes af iv. eller im.-administreret hurtigtvirkende bolus insulin i tilsvarende doser. 3Forsigtighed ved nyre insufficiens – se afsnittet Særlige forhold ved nyreinsufficiensBlodglukose, blodketoner eller urinketoner, vitale værdier og Glasgow Coma Scale (GCS) vurderes hyppigt, ofte f.eks. hver timeStandard bikarbonat/total CO2 i venøs prøve, p-kalium, p-natrium og p-kreatinin og evt. pH vurderes initielt hver 2. time, senere kan frekvensen mindskesVæskebalance vurderes hver 8. timeKontakt intensivafdeling på almindelige kriterier (bl.a. respirationssvigt, cirkulationssvigt, udtalt acidose [pH<7.0], og faldende/lavt bevidsthedsniveau [GCS]) og ved behov for udvidet monitorering eks. kendt nyresvigt, hjertesvigt.Ved kendt diabetes kan man vælge at fortsætte med vanlige basal insulin.Hos insulinpumpebehandlede patienter anbefales det at fjerne insulinpumpenSideløbende screenes for infektion og udløsende årsag, og antibiotika kan gives på vid indikation
+
+Bikarbonatinfusion er sædvanligvis ikke indiceret, men kan anvendes ved udtalt metabolisk acidose, dvs. pH < 6,9/HCO3–< 10 mmol/l, ved kritisk stort respirationsarbejde eller cirkulationssvigt, som vurderes at være pga. den metaboliske acidose. Anvend 50-100 ml (1 ml/kg) Natriumbikarbonat (1mmol/ml) intravenøst over 15-30 min. Kontrol af pH/standard bikarbonat/P-natrium 15 min efter indgift. Gentages om nødvendigt.
+Individuelle hensyn:
+Der bør tages hensyn til patientens vanlige insulinbehov. Personer med høj vægt, f.eks. over 100 kg, svært inficerede, steroidbehandlede og gravide har forventeligt et større insulinbehov, mens personer med vægt under 60 kg har et mindre behov. Insulindosis justeres hvis blodketoner (urinketoner) og bikarbonat ikke retter sig.
+Monitorering:
+Behandlingsmål er et jævnt fald i ketoner og en stigning i standard bikarbonat/total CO2 til normale værdier indenfor et døgn. Dette indebærer:
+
+Blodketon og standard bicarbonat/total CO2 bør bevæge sig mod normalområdet og det tilstræbes at normalisering finder sted indenfor ca. 12 timer.P-Kalium på 4-5 mmol/lFald i BG på 3 mmol/l/time til BG er mellem 10 og 15 mmol/l
+
+Ved meget høje blodglukoseværdier (> 33 mol/l) udregnes effekive plasma osmolaritet. Plasma osmolaritet over 320 mmol/kg indikerer hyperosmolært syndrom og hurtigt fald kan forårsage hjerneødem.
+
+### 2. Fase
+Fra ophør af acidose (pH > 7,30, blodketoner < 0,6 mmol/l eller standard bikarbonat/total CO2 > 18 mmol/l) til patienten er begyndt at spise som habituelt).
+Målet med fase 2 behandlingen er at sikre fortsat sufficient insulintilførsel, idet insulinbehovet stadig vil være højere end patientens vanlige behov.
+I henhold til lokale præferencer vælges mellem Glucose-insulin-kalium drop eller insulin i refrakte doser
+Glukose-insulin-kalium drop:
+
+Der opsættes Glukose-insulin-kalium (GIK) eller Glukose-insulin (GI) drop 50 ml/time sv.t. 2 IE/time (48 IE/døgn)BG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l.Ved behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l opsættes glukose 10 % i sidedrop, indløbshastigheden justeres så BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l gives supplerende hurtigtvirkende insulin sc, im eller iv
+
+GIK-drop: Glukose 10 %, 500 ml tilsat 20 mmol kalium og 20 IE hurtigtvirkende insulin
+GI-drop: Glukose 10 % 500 ml tilsat 20 IE hurtigtvirkende insulin. Anvendes ved p-kreatinin over øverste normalgrænse og/eller p-kalium over 4,5 mmol/l.
+Når GIK-droppet eller GI-droppet er løbet ind blandes et nyt, hvor det ud fra behovet for supplering med glukose 10 % i den foregående periode vurderes, om der skal tilsættes det samme antal IE hurtigtvirkende insulin. Er patientens vanlige insulindosis højere end dette, bør insulindosis i droppet og/eller indløbshastigheden øges. GIK/GI drop fortsættes til minimum 1 time efter opstart af subkutant insulin i 3. fase.
+Insulin i refrakte doser
+
+Der opsættes glukose 10%, 50 ml/timeInsulin 2 IE/time gives sc, im eller ivBG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l. Elektrolytter og blod- (eller urin-) ketoner og standard bikarbonat/total CO2 i veneprøve måles hver 8. timeVed behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l øges indløbshastigheden af glukosedrop således at BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l reduceres glukosedrop til 50ml/time og der gives supplerende insulin
+
+Gravide med præ-eksisterende diabetes behandles efter særskilt instruks, hvor glukoseinfusion og insulinbehandling gives separat.
+Hvis kriterierne for overgang til fase 3 er opfyldt ved afslutning af fase 1, kan man gå direkte fra fase 1 til 3.
+
+### 3. Fase
+Fase 3 starter i forbindelse med et måltid, når patienten er begyndt at spise som habituelt.Plasma-glukose måles 6-8 gange dagligt, insulin gives subkutant og der stiles mod blodglukose 5-10 mmol/lVed kendt diabetes genoptages vanlig insulin, evt. med suppleringsdosis (se lokal retningslinje), dette gælder også insulinpumpebehandlede patienter. GIK drop fortsætter til minimum 1 time efter første dosis af måltidsinsulin.Ved nykonstateret diabetes opstartes fast insulinbehandling, evt. suppleret med suppleringsdosis (efter lokal retningslinje) (se NBV Type 1 Diabetes Mellitus )Elektrolytter og standard bikarbonat/total CO2 måles dagligt.Blod-/urinketonstoffer måles hver 12 time.Peroralt kaliumtilskud ved behov til ikke nyreinsufficiente.
+
+Link til fuld NBV ketoacidose
+
+# 
+Definition diabetisk ketoacidose
+
+Blodketon/3-hydroxybutyrat ≥ 3 mmol/l eller urinketon ≥ +2Metabolisk acidose (standard bikarbonat eller total CO2 < 18 mmol/l og/eller pH < 7.30)Hyperglykæmi (oftest BG > 15 mmol/l, ved kendt diabetes evt. lavere BG)
+
+## Behandling
+Behandlingen retter sig mod korrektion af acidosen, og det kan være nødvendigt at opretholde relativt højt BG med indgift af glukose for at tillade sufficient insulintilførsel. Behandlingen falder i tre faser:Fra diagnose til ophør af acidose (standard bikarbonat/total CO2 > 18 mmol/l)Fra ophør af acidose og blod-keton < 0,6 til patienten spiser som habitueltFra patienten er begyndt at spise som habitueltDet anbefales at registrere biokemiske fund, insulin og væskebehandling i særskilt skema for at sikre et umiddelbart og enkelt overblik, se [registreringsskema].1. FaseFra diagnose til ophør af acidose.To perifere venekatetre anvendes til infusion af insulin og væskeBlodglukose og blodketoner (eller urinketoner) målesNår diagnosen er stillet opstartes insulin- og væskebehandling efter nedenstående skema:InitialbehandlingFortsat behandling efter1. timeNår BG < 15 mmol/lHurtigtvirkende insulin (humant eller analogt)10 IE iv bolusSamtidig startes6 IE iv1,2 pr. time6 IE iv1,2 per time6 IE iv1,2 per time NaCl 0,9 %1.000 ml/1 time2. og 3. time: 500 ml/time, derefter i henhold til hydreringsgrad og nyrefunktion ca. 100 ml/timeStop NaCl Glukose 10 %00100 ml/timeJusteres så BG 10-15 mmol/lK-NaCl3 (51 mmol/l K+/103 mmol/l Na+)S-kalium·       < 3 mmol/l: 750 ml/time3-4 mmol/l: 500 ml/time4-5,5 mmol/l: 250 ml/time> 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·     < 3 mmol/l: 750 ml/time·     3-4 mmol/l: 500 ml/time·     4-5,5 mmol/l: 250 ml/time·     > 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·  < 3 mmol/l: 750 ml/time·  3-4 mmol/l: 500 ml/time·  4-5,5 mmol/l: 250 ml/time·  > 5,5 mmol/l: 0 ml/time, mål igen efter 1 time1: Insulindrop blandes med 100 IE hurtigtvirkende insulin (1 ml fra hætteglas) i 100 ml 0,9 % NaCl, infusionshastighed 6 ml/time sv.t. 6 IE/time 2: Afhængigt af lokale retningslinjer kan insulininfusion erstattes af iv. eller im.-administreret hurtigtvirkende bolus insulin i tilsvarende doser. 3Forsigtighed ved nyre insufficiens – se afsnittet Særlige forhold ved nyreinsufficiensBlodglukose, blodketoner eller urinketoner, vitale værdier og Glasgow Coma Scale (GCS) vurderes hyppigt, ofte f.eks. hver timeStandard bikarbonat/total CO2 i venøs prøve, p-kalium, p-natrium og p-kreatinin og evt. pH vurderes initielt hver 2. time, senere kan frekvensen mindskesVæskebalance vurderes hver 8. timeKontakt intensivafdeling på almindelige kriterier (bl.a. respirationssvigt, cirkulationssvigt, udtalt acidose [pH<7.0], og faldende/lavt bevidsthedsniveau [GCS]) og ved behov for udvidet monitorering eks. kendt nyresvigt, hjertesvigt.Ved kendt diabetes kan man vælge at fortsætte med vanlige basal insulin.Hos insulinpumpebehandlede patienter anbefales det at fjerne insulinpumpenSideløbende screenes for infektion og udløsende årsag, og antibiotika kan gives på vid indikation
+
+Bikarbonatinfusion er sædvanligvis ikke indiceret, men kan anvendes ved udtalt metabolisk acidose, dvs. pH < 6,9/HCO3–< 10 mmol/l, ved kritisk stort respirationsarbejde eller cirkulationssvigt, som vurderes at være pga. den metaboliske acidose. Anvend 50-100 ml (1 ml/kg) Natriumbikarbonat (1mmol/ml) intravenøst over 15-30 min. Kontrol af pH/standard bikarbonat/P-natrium 15 min efter indgift. Gentages om nødvendigt.
+Individuelle hensyn:
+Der bør tages hensyn til patientens vanlige insulinbehov. Personer med høj vægt, f.eks. over 100 kg, svært inficerede, steroidbehandlede og gravide har forventeligt et større insulinbehov, mens personer med vægt under 60 kg har et mindre behov. Insulindosis justeres hvis blodketoner (urinketoner) og bikarbonat ikke retter sig.
+Monitorering:
+Behandlingsmål er et jævnt fald i ketoner og en stigning i standard bikarbonat/total CO2 til normale værdier indenfor et døgn. Dette indebærer:
+
+Blodketon og standard bicarbonat/total CO2 bør bevæge sig mod normalområdet og det tilstræbes at normalisering finder sted indenfor ca. 12 timer.P-Kalium på 4-5 mmol/lFald i BG på 3 mmol/l/time til BG er mellem 10 og 15 mmol/l
+
+Ved meget høje blodglukoseværdier (> 33 mol/l) udregnes effekive plasma osmolaritet. Plasma osmolaritet over 320 mmol/kg indikerer hyperosmolært syndrom og hurtigt fald kan forårsage hjerneødem.
+
+### 2. Fase
+Fra ophør af acidose (pH > 7,30, blodketoner < 0,6 mmol/l eller standard bikarbonat/total CO2 > 18 mmol/l) til patienten er begyndt at spise som habituelt).
+Målet med fase 2 behandlingen er at sikre fortsat sufficient insulintilførsel, idet insulinbehovet stadig vil være højere end patientens vanlige behov.
+I henhold til lokale præferencer vælges mellem Glucose-insulin-kalium drop eller insulin i refrakte doser
+Glukose-insulin-kalium drop:
+
+Der opsættes Glukose-insulin-kalium (GIK) eller Glukose-insulin (GI) drop 50 ml/time sv.t. 2 IE/time (48 IE/døgn)BG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l.Ved behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l opsættes glukose 10 % i sidedrop, indløbshastigheden justeres så BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l gives supplerende hurtigtvirkende insulin sc, im eller iv
+
+GIK-drop: Glukose 10 %, 500 ml tilsat 20 mmol kalium og 20 IE hurtigtvirkende insulin
+GI-drop: Glukose 10 % 500 ml tilsat 20 IE hurtigtvirkende insulin. Anvendes ved p-kreatinin over øverste normalgrænse og/eller p-kalium over 4,5 mmol/l.
+Når GIK-droppet eller GI-droppet er løbet ind blandes et nyt, hvor det ud fra behovet for supplering med glukose 10 % i den foregående periode vurderes, om der skal tilsættes det samme antal IE hurtigtvirkende insulin. Er patientens vanlige insulindosis højere end dette, bør insulindosis i droppet og/eller indløbshastigheden øges. GIK/GI drop fortsættes til minimum 1 time efter opstart af subkutant insulin i 3. fase.
+Insulin i refrakte doser
+
+Der opsættes glukose 10%, 50 ml/timeInsulin 2 IE/time gives sc, im eller ivBG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l. Elektrolytter og blod- (eller urin-) ketoner og standard bikarbonat/total CO2 i veneprøve måles hver 8. timeVed behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l øges indløbshastigheden af glukosedrop således at BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l reduceres glukosedrop til 50ml/time og der gives supplerende insulin
+
+Gravide med præ-eksisterende diabetes behandles efter særskilt instruks, hvor glukoseinfusion og insulinbehandling gives separat.
+Hvis kriterierne for overgang til fase 3 er opfyldt ved afslutning af fase 1, kan man gå direkte fra fase 1 til 3.
+
+### 3. Fase
+Fase 3 starter i forbindelse med et måltid, når patienten er begyndt at spise som habituelt.Plasma-glukose måles 6-8 gange dagligt, insulin gives subkutant og der stiles mod blodglukose 5-10 mmol/lVed kendt diabetes genoptages vanlig insulin, evt. med suppleringsdosis (se lokal retningslinje), dette gælder også insulinpumpebehandlede patienter. GIK drop fortsætter til minimum 1 time efter første dosis af måltidsinsulin.Ved nykonstateret diabetes opstartes fast insulinbehandling, evt. suppleret med suppleringsdosis (efter lokal retningslinje) (se NBV Type 1 Diabetes Mellitus )Elektrolytter og standard bikarbonat/total CO2 måles dagligt.Blod-/urinketonstoffer måles hver 12 time.Peroralt kaliumtilskud ved behov til ikke nyreinsufficiente.
+
+Link til fuld NBV ketoacidose
+
+# 
+Behandlingen retter sig mod korrektion af acidosen, og det kan være nødvendigt at opretholde relativt højt BG med indgift af glukose for at tillade sufficient insulintilførsel. Behandlingen falder i tre faser:Fra diagnose til ophør af acidose (standard bikarbonat/total CO2 > 18 mmol/l)Fra ophør af acidose og blod-keton < 0,6 til patienten spiser som habitueltFra patienten er begyndt at spise som habitueltDet anbefales at registrere biokemiske fund, insulin og væskebehandling i særskilt skema for at sikre et umiddelbart og enkelt overblik, se [registreringsskema].1. FaseFra diagnose til ophør af acidose.To perifere venekatetre anvendes til infusion af insulin og væskeBlodglukose og blodketoner (eller urinketoner) målesNår diagnosen er stillet opstartes insulin- og væskebehandling efter nedenstående skema:InitialbehandlingFortsat behandling efter1. timeNår BG < 15 mmol/lHurtigtvirkende insulin (humant eller analogt)10 IE iv bolusSamtidig startes6 IE iv1,2 pr. time6 IE iv1,2 per time6 IE iv1,2 per time NaCl 0,9 %1.000 ml/1 time2. og 3. time: 500 ml/time, derefter i henhold til hydreringsgrad og nyrefunktion ca. 100 ml/timeStop NaCl Glukose 10 %00100 ml/timeJusteres så BG 10-15 mmol/lK-NaCl3 (51 mmol/l K+/103 mmol/l Na+)S-kalium·       < 3 mmol/l: 750 ml/time3-4 mmol/l: 500 ml/time4-5,5 mmol/l: 250 ml/time> 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·     < 3 mmol/l: 750 ml/time·     3-4 mmol/l: 500 ml/time·     4-5,5 mmol/l: 250 ml/time·     > 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·  < 3 mmol/l: 750 ml/time·  3-4 mmol/l: 500 ml/time·  4-5,5 mmol/l: 250 ml/time·  > 5,5 mmol/l: 0 ml/time, mål igen efter 1 time1: Insulindrop blandes med 100 IE hurtigtvirkende insulin (1 ml fra hætteglas) i 100 ml 0,9 % NaCl, infusionshastighed 6 ml/time sv.t. 6 IE/time 2: Afhængigt af lokale retningslinjer kan insulininfusion erstattes af iv. eller im.-administreret hurtigtvirkende bolus insulin i tilsvarende doser. 3Forsigtighed ved nyre insufficiens – se afsnittet Særlige forhold ved nyreinsufficiensBlodglukose, blodketoner eller urinketoner, vitale værdier og Glasgow Coma Scale (GCS) vurderes hyppigt, ofte f.eks. hver timeStandard bikarbonat/total CO2 i venøs prøve, p-kalium, p-natrium og p-kreatinin og evt. pH vurderes initielt hver 2. time, senere kan frekvensen mindskesVæskebalance vurderes hver 8. timeKontakt intensivafdeling på almindelige kriterier (bl.a. respirationssvigt, cirkulationssvigt, udtalt acidose [pH<7.0], og faldende/lavt bevidsthedsniveau [GCS]) og ved behov for udvidet monitorering eks. kendt nyresvigt, hjertesvigt.Ved kendt diabetes kan man vælge at fortsætte med vanlige basal insulin.Hos insulinpumpebehandlede patienter anbefales det at fjerne insulinpumpenSideløbende screenes for infektion og udløsende årsag, og antibiotika kan gives på vid indikation
+
+Bikarbonatinfusion er sædvanligvis ikke indiceret, men kan anvendes ved udtalt metabolisk acidose, dvs. pH < 6,9/HCO3–< 10 mmol/l, ved kritisk stort respirationsarbejde eller cirkulationssvigt, som vurderes at være pga. den metaboliske acidose. Anvend 50-100 ml (1 ml/kg) Natriumbikarbonat (1mmol/ml) intravenøst over 15-30 min. Kontrol af pH/standard bikarbonat/P-natrium 15 min efter indgift. Gentages om nødvendigt.
+Individuelle hensyn:
+Der bør tages hensyn til patientens vanlige insulinbehov. Personer med høj vægt, f.eks. over 100 kg, svært inficerede, steroidbehandlede og gravide har forventeligt et større insulinbehov, mens personer med vægt under 60 kg har et mindre behov. Insulindosis justeres hvis blodketoner (urinketoner) og bikarbonat ikke retter sig.
+Monitorering:
+Behandlingsmål er et jævnt fald i ketoner og en stigning i standard bikarbonat/total CO2 til normale værdier indenfor et døgn. Dette indebærer:
+
+Blodketon og standard bicarbonat/total CO2 bør bevæge sig mod normalområdet og det tilstræbes at normalisering finder sted indenfor ca. 12 timer.P-Kalium på 4-5 mmol/lFald i BG på 3 mmol/l/time til BG er mellem 10 og 15 mmol/l
+
+Ved meget høje blodglukoseværdier (> 33 mol/l) udregnes effekive plasma osmolaritet. Plasma osmolaritet over 320 mmol/kg indikerer hyperosmolært syndrom og hurtigt fald kan forårsage hjerneødem.
+
+### 2. Fase
+Fra ophør af acidose (pH > 7,30, blodketoner < 0,6 mmol/l eller standard bikarbonat/total CO2 > 18 mmol/l) til patienten er begyndt at spise som habituelt).
+Målet med fase 2 behandlingen er at sikre fortsat sufficient insulintilførsel, idet insulinbehovet stadig vil være højere end patientens vanlige behov.
+I henhold til lokale præferencer vælges mellem Glucose-insulin-kalium drop eller insulin i refrakte doser
+Glukose-insulin-kalium drop:
+
+Der opsættes Glukose-insulin-kalium (GIK) eller Glukose-insulin (GI) drop 50 ml/time sv.t. 2 IE/time (48 IE/døgn)BG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l.Ved behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l opsættes glukose 10 % i sidedrop, indløbshastigheden justeres så BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l gives supplerende hurtigtvirkende insulin sc, im eller iv
+
+GIK-drop: Glukose 10 %, 500 ml tilsat 20 mmol kalium og 20 IE hurtigtvirkende insulin
+GI-drop: Glukose 10 % 500 ml tilsat 20 IE hurtigtvirkende insulin. Anvendes ved p-kreatinin over øverste normalgrænse og/eller p-kalium over 4,5 mmol/l.
+Når GIK-droppet eller GI-droppet er løbet ind blandes et nyt, hvor det ud fra behovet for supplering med glukose 10 % i den foregående periode vurderes, om der skal tilsættes det samme antal IE hurtigtvirkende insulin. Er patientens vanlige insulindosis højere end dette, bør insulindosis i droppet og/eller indløbshastigheden øges. GIK/GI drop fortsættes til minimum 1 time efter opstart af subkutant insulin i 3. fase.
+Insulin i refrakte doser
+
+Der opsættes glukose 10%, 50 ml/timeInsulin 2 IE/time gives sc, im eller ivBG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l. Elektrolytter og blod- (eller urin-) ketoner og standard bikarbonat/total CO2 i veneprøve måles hver 8. timeVed behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l øges indløbshastigheden af glukosedrop således at BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l reduceres glukosedrop til 50ml/time og der gives supplerende insulin
+
+Gravide med præ-eksisterende diabetes behandles efter særskilt instruks, hvor glukoseinfusion og insulinbehandling gives separat.
+Hvis kriterierne for overgang til fase 3 er opfyldt ved afslutning af fase 1, kan man gå direkte fra fase 1 til 3.
+
+### 3. Fase
+Fase 3 starter i forbindelse med et måltid, når patienten er begyndt at spise som habituelt.Plasma-glukose måles 6-8 gange dagligt, insulin gives subkutant og der stiles mod blodglukose 5-10 mmol/lVed kendt diabetes genoptages vanlig insulin, evt. med suppleringsdosis (se lokal retningslinje), dette gælder også insulinpumpebehandlede patienter. GIK drop fortsætter til minimum 1 time efter første dosis af måltidsinsulin.Ved nykonstateret diabetes opstartes fast insulinbehandling, evt. suppleret med suppleringsdosis (efter lokal retningslinje) (se NBV Type 1 Diabetes Mellitus )Elektrolytter og standard bikarbonat/total CO2 måles dagligt.Blod-/urinketonstoffer måles hver 12 time.Peroralt kaliumtilskud ved behov til ikke nyreinsufficiente.
+
+Link til fuld NBV ketoacidose
+
+# 
+Fra diagnose til ophør af acidose.
+
+To perifere venekatetre anvendes til infusion af insulin og væskeBlodglukose og blodketoner (eller urinketoner) målesNår diagnosen er stillet opstartes insulin- og væskebehandling efter nedenstående skema:
+
+InitialbehandlingFortsat behandling efter1. timeNår BG < 15 mmol/lHurtigtvirkende insulin (humant eller analogt)10 IE iv bolusSamtidig startes6 IE iv1,2 pr. time6 IE iv1,2 per time6 IE iv1,2 per time NaCl 0,9 %1.000 ml/1 time2. og 3. time: 500 ml/time, derefter i henhold til hydreringsgrad og nyrefunktion ca. 100 ml/timeStop NaCl Glukose 10 %00100 ml/timeJusteres så BG 10-15 mmol/lK-NaCl3 (51 mmol/l K+/103 mmol/l Na+)S-kalium·       < 3 mmol/l: 750 ml/time3-4 mmol/l: 500 ml/time4-5,5 mmol/l: 250 ml/time> 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·     < 3 mmol/l: 750 ml/time·     3-4 mmol/l: 500 ml/time·     4-5,5 mmol/l: 250 ml/time·     > 5,5 mmol/l: 0 ml/time, mål igen efter 1 timeS-kalium·  < 3 mmol/l: 750 ml/time·  3-4 mmol/l: 500 ml/time·  4-5,5 mmol/l: 250 ml/time·  > 5,5 mmol/l: 0 ml/time, mål igen efter 1 time
+
+1: Insulindrop blandes med 100 IE hurtigtvirkende insulin (1 ml fra hætteglas) i 100 ml 0,9 % NaCl, infusionshastighed 6 ml/time sv.t. 6 IE/time 2: Afhængigt af lokale retningslinjer kan insulininfusion erstattes af iv. eller im.-administreret hurtigtvirkende bolus insulin i tilsvarende doser. 3Forsigtighed ved nyre insufficiens – se afsnittet Særlige forhold ved nyreinsufficiens
+
+Fra ophør af acidose (pH > 7,30, blodketoner < 0,6 mmol/l eller standard bikarbonat/total CO2 > 18 mmol/l) til patienten er begyndt at spise som habituelt).
+Målet med fase 2 behandlingen er at sikre fortsat sufficient insulintilførsel, idet insulinbehovet stadig vil være højere end patientens vanlige behov.
+I henhold til lokale præferencer vælges mellem Glucose-insulin-kalium drop eller insulin i refrakte doser
+Glukose-insulin-kalium drop:
+
+Der opsættes Glukose-insulin-kalium (GIK) eller Glukose-insulin (GI) drop 50 ml/time sv.t. 2 IE/time (48 IE/døgn)BG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l.Ved behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l opsættes glukose 10 % i sidedrop, indløbshastigheden justeres så BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l gives supplerende hurtigtvirkende insulin sc, im eller iv
+
+GIK-drop: Glukose 10 %, 500 ml tilsat 20 mmol kalium og 20 IE hurtigtvirkende insulin
+GI-drop: Glukose 10 % 500 ml tilsat 20 IE hurtigtvirkende insulin. Anvendes ved p-kreatinin over øverste normalgrænse og/eller p-kalium over 4,5 mmol/l.
+Når GIK-droppet eller GI-droppet er løbet ind blandes et nyt, hvor det ud fra behovet for supplering med glukose 10 % i den foregående periode vurderes, om der skal tilsættes det samme antal IE hurtigtvirkende insulin. Er patientens vanlige insulindosis højere end dette, bør insulindosis i droppet og/eller indløbshastigheden øges. GIK/GI drop fortsættes til minimum 1 time efter opstart af subkutant insulin i 3. fase.
+Insulin i refrakte doser
+
+Der opsættes glukose 10%, 50 ml/timeInsulin 2 IE/time gives sc, im eller ivBG måles 6-8 gange/døgn, målet er BG 10-15 mmol/l. Elektrolytter og blod- (eller urin-) ketoner og standard bikarbonat/total CO2 i veneprøve måles hver 8. timeVed behov for supplerede væske gives NaCl eller KNaCl efter individuel vurderingVed BG < 10 mmol/l øges indløbshastigheden af glukosedrop således at BG er 10-15 mmol/lVed BG vedvarende > 15 mmol/l reduceres glukosedrop til 50ml/time og der gives supplerende insulin
+
+Gravide med præ-eksisterende diabetes behandles efter særskilt instruks, hvor glukoseinfusion og insulinbehandling gives separat.
+Hvis kriterierne for overgang til fase 3 er opfyldt ved afslutning af fase 1, kan man gå direkte fra fase 1 til 3.
+
+### 3. Fase
+Fase 3 starter i forbindelse med et måltid, når patienten er begyndt at spise som habituelt.Plasma-glukose måles 6-8 gange dagligt, insulin gives subkutant og der stiles mod blodglukose 5-10 mmol/lVed kendt diabetes genoptages vanlig insulin, evt. med suppleringsdosis (se lokal retningslinje), dette gælder også insulinpumpebehandlede patienter. GIK drop fortsætter til minimum 1 time efter første dosis af måltidsinsulin.Ved nykonstateret diabetes opstartes fast insulinbehandling, evt. suppleret med suppleringsdosis (efter lokal retningslinje) (se NBV Type 1 Diabetes Mellitus )Elektrolytter og standard bikarbonat/total CO2 måles dagligt.Blod-/urinketonstoffer måles hver 12 time.Peroralt kaliumtilskud ved behov til ikke nyreinsufficiente.
+
+Link til fuld NBV ketoacidose
+
+# 
+Fase 3 starter i forbindelse med et måltid, når patienten er begyndt at spise som habituelt.Plasma-glukose måles 6-8 gange dagligt, insulin gives subkutant og der stiles mod blodglukose 5-10 mmol/lVed kendt diabetes genoptages vanlig insulin, evt. med suppleringsdosis (se lokal retningslinje), dette gælder også insulinpumpebehandlede patienter. GIK drop fortsætter til minimum 1 time efter første dosis af måltidsinsulin.Ved nykonstateret diabetes opstartes fast insulinbehandling, evt. suppleret med suppleringsdosis (efter lokal retningslinje) (se NBV Type 1 Diabetes Mellitus )Elektrolytter og standard bikarbonat/total CO2 måles dagligt.Blod-/urinketonstoffer måles hver 12 time.Peroralt kaliumtilskud ved behov til ikke nyreinsufficiente.
+
+Link til fuld NBV ketoacidose
+
+# 
