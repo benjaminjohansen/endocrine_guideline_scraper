@@ -1,0 +1,800 @@
+#6. Diabetes og kirurgi
+Denne behandlingsvejledning omhandler behandlingen af alle typer diabetespatienter over 18 år, der skal faste i tilknytning til operative indgreb og elektive procedurer. Med undtagelse af Diabetes og graviditet (LINK til NBV). Vejledningen dækker det døgn patienten faster og opereres.
+(Link til afsnit ”akutte operationer”)
+
+## Diagnosekoder
+E.10.0-9E.11.0-9E.12.0-9E.13.0-9E.14.0-9
+
+## Insulintyper
+Der skelnes i denne behandlingsvejledning mellem følgende insulintyper: https://pro.medicin.dk/Laegemiddelgrupper/Grupper/33000
+
+Hurtigtvirkende insulin (humant og analoger):Actrapid®Humulin®RegularInsuman®Rapid SolostarApidra®Humalog®NovoRapid®Fiasp®Insulin aspart “Sanofi”®Intermediært virkende insulinHumulin®NPHInsulatard®Langtidsvirkende insulinLantus®Tresiba®Toujeo®Levemir®Semglee®Abasaglar®KwikPenKombination af hurtigt- og langtidsvirkende insulin (mix-insulin) (humant og analoger)NovoMix®Mixtard®  30Humalog®Mix25 KwikPenRyzodeg®Kombination af langtidsvirkende insulin og GLP-1 receptor agonistXultophy®
+
+## Forekomst
+Op imod 10-20% af kirurgiske patienter har diabetes.
+
+## Ætiologi
+Fasteperioden i tilknytning til operative indgreb inducerer en katabolisk tilstand, hvilket medfører stigning i sekretionen af de katabole- og hæmning af de anabole hormoner specielt insulin. Dette kan føre til hyperglykæmi.
+Tilstande som yderligere øger behovet for insulin omfatter bl.a.:
+
+OvervægtSystemisk inflammation herunder infektionBehandling med glukocorticoidAkut kirurgi
+
+## Præoperative oplysninger
+Henvisende læge og/eller afdelingen, der er ansvarlig for operationen, bør sikre at følgende oplysninger foreligger forud for indgreb på en patient med diabetes:
+
+Diabetes typeSendiabetiske komplikationer og anden komorbiditetOpdateret fælles medicinkort (FMK)Objektive mål og værdier:HbA1CBMIHgb, Na, K, kreatinin, eGFREKG
+
+## Præoperativ udredning
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+E.10.0-9E.11.0-9E.12.0-9E.13.0-9E.14.0-9
+
+## Insulintyper
+Der skelnes i denne behandlingsvejledning mellem følgende insulintyper: https://pro.medicin.dk/Laegemiddelgrupper/Grupper/33000
+
+Hurtigtvirkende insulin (humant og analoger):Actrapid®Humulin®RegularInsuman®Rapid SolostarApidra®Humalog®NovoRapid®Fiasp®Insulin aspart “Sanofi”®Intermediært virkende insulinHumulin®NPHInsulatard®Langtidsvirkende insulinLantus®Tresiba®Toujeo®Levemir®Semglee®Abasaglar®KwikPenKombination af hurtigt- og langtidsvirkende insulin (mix-insulin) (humant og analoger)NovoMix®Mixtard®  30Humalog®Mix25 KwikPenRyzodeg®Kombination af langtidsvirkende insulin og GLP-1 receptor agonistXultophy®
+
+## Forekomst
+Op imod 10-20% af kirurgiske patienter har diabetes.
+
+## Ætiologi
+Fasteperioden i tilknytning til operative indgreb inducerer en katabolisk tilstand, hvilket medfører stigning i sekretionen af de katabole- og hæmning af de anabole hormoner specielt insulin. Dette kan føre til hyperglykæmi.
+Tilstande som yderligere øger behovet for insulin omfatter bl.a.:
+
+OvervægtSystemisk inflammation herunder infektionBehandling med glukocorticoidAkut kirurgi
+
+## Præoperative oplysninger
+Henvisende læge og/eller afdelingen, der er ansvarlig for operationen, bør sikre at følgende oplysninger foreligger forud for indgreb på en patient med diabetes:
+
+Diabetes typeSendiabetiske komplikationer og anden komorbiditetOpdateret fælles medicinkort (FMK)Objektive mål og værdier:HbA1CBMIHgb, Na, K, kreatinin, eGFREKG
+
+## Præoperativ udredning
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Der skelnes i denne behandlingsvejledning mellem følgende insulintyper: https://pro.medicin.dk/Laegemiddelgrupper/Grupper/33000
+
+Hurtigtvirkende insulin (humant og analoger):Actrapid®Humulin®RegularInsuman®Rapid SolostarApidra®Humalog®NovoRapid®Fiasp®Insulin aspart “Sanofi”®Intermediært virkende insulinHumulin®NPHInsulatard®Langtidsvirkende insulinLantus®Tresiba®Toujeo®Levemir®Semglee®Abasaglar®KwikPenKombination af hurtigt- og langtidsvirkende insulin (mix-insulin) (humant og analoger)NovoMix®Mixtard®  30Humalog®Mix25 KwikPenRyzodeg®Kombination af langtidsvirkende insulin og GLP-1 receptor agonistXultophy®
+
+## Forekomst
+Op imod 10-20% af kirurgiske patienter har diabetes.
+
+## Ætiologi
+Fasteperioden i tilknytning til operative indgreb inducerer en katabolisk tilstand, hvilket medfører stigning i sekretionen af de katabole- og hæmning af de anabole hormoner specielt insulin. Dette kan føre til hyperglykæmi.
+Tilstande som yderligere øger behovet for insulin omfatter bl.a.:
+
+OvervægtSystemisk inflammation herunder infektionBehandling med glukocorticoidAkut kirurgi
+
+## Præoperative oplysninger
+Henvisende læge og/eller afdelingen, der er ansvarlig for operationen, bør sikre at følgende oplysninger foreligger forud for indgreb på en patient med diabetes:
+
+Diabetes typeSendiabetiske komplikationer og anden komorbiditetOpdateret fælles medicinkort (FMK)Objektive mål og værdier:HbA1CBMIHgb, Na, K, kreatinin, eGFREKG
+
+## Præoperativ udredning
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Op imod 10-20% af kirurgiske patienter har diabetes.
+
+## Ætiologi
+Fasteperioden i tilknytning til operative indgreb inducerer en katabolisk tilstand, hvilket medfører stigning i sekretionen af de katabole- og hæmning af de anabole hormoner specielt insulin. Dette kan føre til hyperglykæmi.
+Tilstande som yderligere øger behovet for insulin omfatter bl.a.:
+
+OvervægtSystemisk inflammation herunder infektionBehandling med glukocorticoidAkut kirurgi
+
+## Præoperative oplysninger
+Henvisende læge og/eller afdelingen, der er ansvarlig for operationen, bør sikre at følgende oplysninger foreligger forud for indgreb på en patient med diabetes:
+
+Diabetes typeSendiabetiske komplikationer og anden komorbiditetOpdateret fælles medicinkort (FMK)Objektive mål og værdier:HbA1CBMIHgb, Na, K, kreatinin, eGFREKG
+
+## Præoperativ udredning
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Fasteperioden i tilknytning til operative indgreb inducerer en katabolisk tilstand, hvilket medfører stigning i sekretionen af de katabole- og hæmning af de anabole hormoner specielt insulin. Dette kan føre til hyperglykæmi.
+Tilstande som yderligere øger behovet for insulin omfatter bl.a.:
+
+OvervægtSystemisk inflammation herunder infektionBehandling med glukocorticoidAkut kirurgi
+
+## Præoperative oplysninger
+Henvisende læge og/eller afdelingen, der er ansvarlig for operationen, bør sikre at følgende oplysninger foreligger forud for indgreb på en patient med diabetes:
+
+Diabetes typeSendiabetiske komplikationer og anden komorbiditetOpdateret fælles medicinkort (FMK)Objektive mål og værdier:HbA1CBMIHgb, Na, K, kreatinin, eGFREKG
+
+## Præoperativ udredning
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Henvisende læge og/eller afdelingen, der er ansvarlig for operationen, bør sikre at følgende oplysninger foreligger forud for indgreb på en patient med diabetes:
+
+Diabetes typeSendiabetiske komplikationer og anden komorbiditetOpdateret fælles medicinkort (FMK)Objektive mål og værdier:HbA1CBMIHgb, Na, K, kreatinin, eGFREKG
+
+## Præoperativ udredning
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Diabetes patienter bør betragtes som risikopatienter.
+Om muligt foretages en særlig præoperativ vurdering, hvor der specielt tages stilling til:
+
+Glykæmisk status. Det anbefales at patientens diabetesbehandler forud for henvisning til elektiv kirurgi tager stilling til regulation ud fra HbA1C, der optimalt ikke børe være mere end 3 måneder gammel Ved dårlig glykæmisk kontrol med HbA1C > 70 mmol/mol bør optimering af den glykæmiske behandling forsøges.Identifikation af betydende diabetiske komplikationer og komorbiditeter, og evt. optimering af behandling forud for indgrebet.Planlægning af indlæggelsesforløbet, herunder indlæggelsestidspunkt, operationstidspunkt, den perioperative medicinske diabetes behandling, forventet længde af indlæggelsen og evt. specielle tiltag i forbindelse med udskrivelse.Særligt vedrørende patienter med insulinpumpe:Bed patienten skifte infusionssæt senest dagen før operation, med henblik på at sikre, at nålen er velfungerende.Patienten skal sørge for at der er rigeligt insulin i pumpens reservoir, så den ikke løber tør på OP-dagen.Bed patienten medbringe et ekstra infusionssæt og pumpeinsulin.Spørg om patienten også har kontinuerlig glukosemåler hvis resultat vises på pumpen (noteres i journal).Overvej om der er særlige operative ønsker vedrørende placering af nål og evt. sender til glukosemåling (oftest er de placeret fortil på abdomen).
+
+## Behandling
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Det overordnede behandlingsmål er et blodsukkerniveau under indgrebet på 6-10 mmol/l.
+Generelle retningslinjer:
+
+Det bør tilstræbes at patienter med diabetes kommer på operationsprogrammet som første patient.Blodsukker bør måles minimum én gang i timen.Den glykæmiske behandling tages som vanligt dagen inden indgrebet/operationen.
+
+Patienter med en planlagt kort faste (kun et måltid springes over, faste maksimalt ca. 12 timer) kan behandles efter to forskellige regimer:
+
+Pn insulin regime med kontinuerlig glukoseinfusionKontinuerlig insulin og glukoseinfusion (GI(K) drop)
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks. Overgang til vanlig insulin kan være udfordrende ved valg af kontinuerlig insulin og glukoseinfusion regimet.
+
+### Pn Insulinregimet
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Pn insulinregime:Om morgenen på operationsdagen påbegyndes isoton glukose (5%), 100 ml/time i.v. på infusionspumpe (alternativt glukose 10%, 50 ml/time). Patienter som behandles med langtidsvirkende insulin enten alene eller suppleret med måltidsinsulinFortsætter med vanlig dosis og injektionstidspunkt af langtidsvirkende insulin.Patienter i behandling med mix-insulin og/eller anden behandling indeholdende insulin Ved behandling med mix-insulin: giv langtidsvirkende insulin svarende til 50% af den totale dosis mix insulin pt. må undlade pga operationen.Ved langtidsvirkende insulin kombineret med GLP1 analog: Giv samme antal IE langsomtvirkende insulin som patienten plejer at få i kombinationspræparatet.Patienter i behandling med insulinpumpeFortsætter med uændret basalrate, men pauserer med bolusinsulin.Patienter som behandles med perorale antidiabetika og/eller GLP1 analog, samt patienter med diætbehandlet diabetes.Udelad af peroral antidiabetika og GLP1 analog på operationsdagen.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l  Fordobles glukoseinfusionshastigheden.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen. Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og at pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time. Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandling:Når patienten er vågen og kan spise seponeres i.v. glukose, og patienten overgår til vanligt behandlingsregime. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Kontinuerlig glukose- og insulininfusion (GI(K) drop)
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Kontinuerlig glukose- og insulininfusion (GI(K) drop):Om morgenen på operationsdagen undlades al vanlig antidiabetisk behandling. Peroral antidiabetika og GLP1 bør pauseres hele dagen for operation. OBS – eventuel insulinpumpe pauseres først, når GI(K) drop er tilsluttet.Ved anæstesistart før kl. 9.15 indledes behandlingen på operationsgangen ellers på afdelingen. Behandlingen fortsætter indtil patienten kan spise et fuldt måltid.Glukose insulin infusion Kan udføres på flere måder, vores anbefaling er:500 ml 10% glukose (100mg/ml) tilsættes 16 IE hurtigtvirkende insulin. Infusionshastighed 50ml/time.Der måles blodsukker en gang i timen.Ved blodsukker over 10 mmol/l suppleres med hurtigtvirkende insulin gerne iv:BS 10-11,9 mmol/l: giv 4 IEBS 12-16 mmol/l: giv 6 IEBS > 16 mmol/l: giv 8 IEHvis hurtigtvirkende insulin gives subkutant i stedet for iv, bør der gå 2-3 timer mellem supplerende subkutan insulin.Særlige forhold:1.     Ved BS < 6 mmol/l opsættes sidedrop med 500 ml 10 % glukose (100 mg/ml), infusionshastighed 25 ml/time.2.     Kalium uden for referenceniveau3.     Uræmi/dialyse4.     BMI > 35, sepsis eller steroidbehandling5.     Patienter i behandling med over 100IE insulin dagligt6.     Sectio (LINK til NBV)7.     Håndtering af insulinpumpe peroperativt: Noter hvor nål til insulin indgift og evt. sensor til glukosemåling er placeret på kroppen, Placer pumpen så slangen ikke kinker, ikke bliver udsat for tryk og så pumpen ikke falder på gulvet under forflytning. Glukosemåling på pumpen kan være usikker og må ikke danne grundlag for klinisk beslutning. Mål sædvanlig kapillærglukose hver time.Punkt 2, 3 og 4 behandles efter lokal instruks. Punkt 5: anbefaler rådgivning ved lokal endokrinolog.Overgang til vanlig behandlingI forbindelse med første måltid genoptages vanlig antidiabetisk behandling. Der skal gives 4-6IE hurtigtvirkende insulin 1 time før GI (K) droppet seponeres. Patienter der får langtidsvirkende insulin kan tage halvdelen af vanlig døgndosis, når det første måltid spises. Nogle patienter kan efterfølgende have behov for supplerende hurtigvirkende insulin i henhold til ovenstående skema. Blodsukker måles hver 3-4 time indtil næste dag.
+
+### Separate infusioner af insulin og glukose
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Ved længerevarende, komplicerede eller akutte indgreb behandles typisk med i.v. insulin i drop. Kan også overvejes hos dysregulerede patienter. Der kan behandles efter to forskellige regimer:
+
+Variabel insulininfusionVariabel glukoseinfusion
+
+Der foreligger ikke evidens for hvilket behandlingsregime, der bedst opfylder behandlingsmålet og behandling kan vælges efter lokal instruks.
+
+### Variabel insulininfusion
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Variabel insulininfusion:Der opsættes i.v. drop med isoton glukose (5%), 100 ml/time på infusionspumpe (eller glukose 10%, 50 ml/time).Der måles blodsukker minimum en gang i timen.I 100 ml isoton NaCl blandes 100 IE hurtigtvirkende insulin.Dette giver en insulinkoncentration på 1 IE/ ml.Der anvendes følgende infusionshastighed af insulinblandingen på pumpe:Ved BS <4,0: pause (maks. 30 min.)Ved BS 4,0-7,0: 1 ml/timeVed BS 7,1-9,0: 2 ml/timeVed BS 9,1-11,0: 3 ml/timeVed BS 11,1-14,0: 4 ml/timeVed BS 14,1-17,0: 5 ml/timeVed BS 17,1-20,0: 6 ml/timeVed BS>20: Kontakt lokalt diabetes specialist team.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten er i stand til at spise selv, og patienten går tilbage på vanligt behandlingsregime fra det tidspunkt. Blodsukker måles herefter hver 3-4 time indtil næste dag.
+
+### Variabel glukoseinfusion
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Variabel glukoseinfusion:Der opsættes intravenøs infusion med 50 IE hurtigvirkende insulin i 50 ml NaCl.Infusionshastighed 1.5 ml/time = 1.5 IE/time.Der måles blodsukker minimum en gang i timen.Der opsættes intravenøs infusion af 50 ml 50% glukose (500mg/l) i central vene, infusionshastighed 10ml/time = 5g glukose/time.Herefter styres blodsukker ved at ændre glukosetilførslen uden at ændre insulintilførslen, dog pauseres insulin i 30 minutter ved blodsukker under 5 mmol/l, og insulinindgiften øges ved blodsukker over 10 mmol.Kalium måles forud for indgrebet og behandles efter lokal instruks.Insulininfusionen seponeres når patienten enten kan håndteres med anden intravenøs behandling eller kan spise selv og genoptage vanlig diabetesbehandling.
+
+Håndtering af præoperativ hyperglykæmi: 
+Ved blodsukker over 12 mmol/mol samt symptomer på ketoacidose eller ved blodsukker over 20 på operationsdagen:
+
+Kontroller ketonniveau (serum β-hydrobuturat eller urinketoner)Er β-hydrobuturat > 3mmol/l eller urinketoner over ”+++” kontaktes lokalt diabetes specialist team samt tages a-punktur.Er β-buturat < 3mmol/l eller urinketoner under ”+++” gives hurtigtvirkende insulin iv eller subkutant:
+
+6 IE ved blodsukker på 12-16 mmol/l
+8 IE ved blodsukker over 16,1 mmol/l
+Hvis blodsukker efter 1 time er faldet til under 12 mmol/l kan planlagt behandling med pn insulinregime eller GI/GIK drop initieres. Alternativt konverteres til intravenøst insulinregime.
+
+## Akutte operationer
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Få overblik over status med blodsukker, A-punktur, elektrolytter og urin- og/eller blod-ketonmåling.
+Ved normale syre-baseforhold behandles patienten som ved elektiv kirurgi.
+Ved hyperglykæmi, væske-elektrolytforstyrrelser og ketoacidose korrigeres med hurtigtvirkende insulin, isoton NaCl og eventuelt kalium i henhold til lokal instruks om behandling af hyperglykæmi eller ketoacidose / non-ketotisk hyperosmolært koma.
+Der rekvireres medicinsk tilsyn.
+Ved uopsættelig kirurgi korrigeres blodsukker, væske-elektrolytforstyrrelser og ketoacidose peroperativt.
+
+### Referencer
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Standards of Medical Care in Diabetes, Diabetes Care 2021, January 01 2021; volume 44 issue Supplement 1
+UpToDate, Perioperative management of diabetes mellitus, 2021
+
+## Tovholder
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+
+Liselotte Fisker
+Arbejdsgruppen, øvrige
+Christina Sivebæk Klaus W. Hansen Sine Knorr Michael Røder Nalini Velmurugan Annelotte Philipsen Elisabeth B. Stougaard
+Oprettet: 2012 Seneste revision: 2021 Næste revision: 2024
+

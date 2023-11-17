@@ -1,0 +1,1350 @@
+#1. Type 1 Diabetes
+Diagnosen T1D mistænkes typisk på baggrund af højt blodglukose (BG) (> 11 mmol/L) og kliniske symptomer på hyperglykæmi, oftest hos en yngre patient. Diagnosen bekræftes ved måling af HbA1c ≥ 48 mmol/mol.
+Symptomerne ved diabetesdebut kan vise sig både med en kort sygdomsvarighed på en til fire uger eller en langsommere udviklende proces, der kan mistolkes som type 2 diabetes (T2D). Desuden kan for eksempel Maturity-Onset Diabetes of the Young (MODY), fejldiagnosticeres som T1D. Den kliniske præsentation varierer, men den klassiske triade af tørst og polydipsi, polyuri, og vægttab er almindelige symptomer på T1D.
+Differentiering af T1D fra T2D 
+Ved debuten er den afgørende kliniske problemstilling dog ikke hvilken type af diabetes, som der er tale om, men om der er behov for insulin her og nu.
+Det kan i nogle tilfælde være svært eller umuligt at afgøre om en voksen person med nyligt diagnosticeret diabetes har T1D. Eksempler på dette kunne være en ældre voksen med lavt eller normalt BMI eller ung voksen med et forhøjet BMI.
+Intet enkelt klinisk træk bekræfter isoleret set T1D, men følgende kliniske karakteristika kan tale for diagnosen:
+
+Yngre alder ved diagnosen (<35 år)Lav til normal BMI (<25 kg/m2)Ketoacidose ved debut
+
+Den stærke association mellem T2D forekomst og alder betyder, at selv “klassiske” træk ved T1D kan have en begrænset prædiktiv værdi hos ældre voksne, fordi type 2 diabetes i denne aldersgruppe er så almindelig. Hurtig progression til insulinbehandling (<3 år) tyder dog stærkt på T1D i enhver alder.
+Latent Autoimmune Diabetes of Adults (LADA) kan anvendes som en betegnelse for personer med debut af T1D i voksenalderen, hvor der ses et langsommere tab af endogen insulinproduktion.
+Udredning af voksen med mistænkt T1D
+Figur 1 viser et flowchart over et forslag til udredning ved klinisk mistanke om T1D (1).
+
+Måling af autoantistoffer ved diagnose anbefales som den primære undersøgelse af en voksen med mistænkt T1D. Glutamatdecarboxylase-antistof (GAD65) anbefales som den primære. Hvis GAD65 er negativ anbefales, om muligt, måling af islet tyrosine phosphatase 2 (IA2) og zinc transporter 8 (ZNT8)).
+Klinisk mistanke om T1D kombineret med tilstedeværelsen af et eller flere autoantistoffer er en meget stærk prædiktor for hurtig progression og svær insulinmangel (Et højere niveau af autoantistoffer øger sandsynligheden for at der er tale om T1D). Falsk positiv GAD65 autoantistoffer ses hos voksne uden autoimmun diabetes (oftest et lavt niveau), hvorfor GAD65 kun bør måles hos dem der mistænkes for at have T1D..
+Fraværet af autoantistoffer udelukker ikke T1D, da ca. 5-10 % af kaukasere med nyopstået T1D har negative autoantistoffer. Desuden kan autoantistoffer forsvinde over tid. Hos personer under 35 år med mistænkt T1D og fravær af autoantistoffer er T1D stadig den mest sandsynlige diagnose, især hvis der ikke er kliniske træk, der indikerer T2D eller MODY.
+Måling af C-peptid
+Måling af C-peptid anbefales ikke målt rutinemæssigt ved diagnosetidspunktet.
+C-peptid kan måles efter ca. 3 års diabetesvarighed, hvis der er usikkerhed om diagnosen. Her anbefales måling af C-peptid (med samtidig plasma glukose) indenfor 5 timer efter et måltid.
+Vedvarende C-peptid >600 pmol/L (ikke fastende) tyder stærkt på T2D, og personer med C-peptid over denne grænse er ofte i stand til at erstatte insulin med anden behandling. Lavt (≤200 pmol/L) eller fraværende C-peptid bekræfter diagnosen T1D.
+Differentiering af T1D fra monogen diabetes 
+Molekylær genetisk testning for monogenetisk neonatal diabetes bør overvejes hos alle personer med T1D, uanset nuværende alder, som fik diabetesdiagnosen før 6 måneders alderen.
+Monogenetisk diabetes bør desuden mistænkes hos dem med en eller flere af de følgende karakteristika: alder ved diagnose <35 år, HbA1c <58 mmol/mol (7,5%) ved diagnose, en forælder med diabetes, og specielle træk (f.eks. nyrecyster, delvis lipodystrofi, maternelt nedarvet døvhed, svær insulinresistens med fravær af fedme).  MODY risikoberegner: https://www.diabetesgenes.org/exeter-diabetes-app/ModyCalculator
+Molekylær genetisk testning er kun indiceret ved negative antistoffer og et ikke-fastende C-peptid på >200pmol.
+Se desuden monogenisk diabetes NBV.
+
+## Behandling
+Den medicinske behandling af patienter med T1D omfatter glukose-, blodtryks- og lipid-sænkende behandling med det formål at forebygge akutte komplikationer og diabetiske senkomplikationer (1-3).
+Link til Patienten med nykonstateret T1D
+
+## 1. Glukosesænkende behandling
+Ved T1D er egenproduktionen af insulin hos de fleste ophørt, og behandlingen er derfor insulinsubstitution, som tilstræbes at være så nærfysiologisk som mulig. I praksis opnås dette ved basal-bolus behandling med en kombination af langsomt- og hurtigtvirkende insulin administreret med pen eller ved insulinpumpebehandling. Den overordnede behandlingseffekt vurderes ved måling af HbA1c, som er associeret med risikoen for udvikling af senkomplikationer, mens den daglige effekt og behandlingskvalitet vurderes ud fra målinger af blod- eller vævsglukose, primært ved brug af kontinuerlig glukosemonitorering eller ved selvmålte BG-niveauer.
+1.1 Glykæmiske behandlingsmål (Tabel 1):
+Tabel 1: Glykæmiske behandlingsmål:
+
+ Ukompliceret patientKompliceret patientHbA1c<53 mmol/mol<58-64 mmol/molPræprandiale BG/SG4-7 mmol/l5-8 mmol/lPostprandiale BG/SG<10 mmol/l<12 mmol/lBG/SG ved sengetid5-8 mmol/l5-8 mmol/lCGM/isCGM data–        Tid i målområde (3,9-10 mmol/l)>70%>50%–        Tid under 3,9 mmol/l<4%<1%–        Tid under 3,0 mmol/l<1%–        Tid over 10 mmol/l<25%–        Tid over 13,9 mmol/l<5%<10%–        Variationskoefficient (CV)<36%<36%BG: blodglukose, SG: sensorglukose
+
+Traditionelt har det primære behandlingsmål ved T1D været defineret ved HbA1c. Da anvendelsen af sensorbaseret glukosemålingsteknologi (kontinuerlige glukose målere (CGM) og intermitterende scannede CGM (isCGM) er steget markant inkluderes nu – sidestillet med HbA1c – andre glykæmiske mål. Selvom disse er mindre veldokumenterede ift. forebyggelse af senkomplikationer, er de relevante for hverdagen med diabetes og tillader i højere grad konsultationer uden fremmøde eller forudgående blodprøver.
+Både BG-målinger og sensormålinger bør evalueres løbende af patienten og ved konsultationer anbefales dataupload for en fælles vurdering med behandler.
+Mål for HbA1c:
+Behandlingsmålet vil for de fleste patienter med T1D være HbA1c ≤ 53 mmol/mol (1, 2).
+HbA1c er den primære prædiktor for udvikling og forværring af komplikationer, og sænkning af HbA1c reducerer risikoen for senere mikro- og makrovaskulære komplikationer. HbA1c giver ingen oplysninger om glykæmiske udsving og er desuden afhængig af en række faktorer såsom erythrocytlevetid m.m. HbA1c skal derfor altid vurderes i sammenhæng med sensorværdier eller patientens egne BG-målinger.
+Mål for BG:
+Behandlingsmålet vil for de fleste patienter være præprandielt BG mellem 4 og 7 mmol/l og et postprandielt BG under 10 mmol/L (1, 2)
+For patienter, der er i behandling med multiple insulin injektioner eller insulinpumpe anbefales generelt måling af BG før alle hovedmåltider så måltidsinsulindosis kan tilpasses BG niveau og kulhydratindtag.  Desuden BG-måling før sengetid, før, under og efter fysisk aktivitet, før bilkørsel (for at forebygge og opdage hypoglykæmi) og ved symptomer på hypoglykæmi. Postprandielle BG-målinger 1-2 timer efter måltidet anbefales, hvis præprandielle BG-værdier er inden for behandlingsmålet, men HbA1c fortsat er for høj.
+Behovet for måling af BG er individuelt og afhænger af variationen i patientens livsstil. Dog anbefales minimum 4 målinger dagligt, men erfaringsmæssigt er 6-12 daglige målinger ofte nødvendigt for at nå behandlingsmålet.
+Sensorbaseret glukosemåling (CGM/isCGM) Link til CGM NBV
+Bør tilbydes alle, som er motiverede, og som vil bruge CGM dagligt. Internationalt er der sat standarder for optimale værdier ved anvendelsen af CGM (tabel 1)8. Ud over tid i målområderne bidrager en vurdering af gennemsnits sensorglukose og variabiliteten (SD og variationskoefficienten CV) til den fulde forståelse af glukosedata.
+Ketoner i blod
+Måling af β-hydroxy-butyrat i blodet kan gennemføres som hjemmemålinger i tilfælde hvor begyndende ketoacidose mistænkes (f.eks. BG>15 og samtidig interkurrent sygdom).
+I ikke fastende tilstand er β-hydroxy-butyrat i blodet < 0,6 mmol/L.
+1.2 Insulin
+For at imødekomme det fysiologiske insulinbehov er standardbehandlingen basal-bolus regime bestående af 1-2 doser langtidsvirkende insulinanalog dagligt afhængig af typen og hurtigvirkende insulinanalog til hovedmåltider og evt. mellemmåltider eller korrektion, dvs. typisk 3-5 gange dagligt.
+
+Basalinsulindosis vil ofte være konstant fra dag til dag og bør ved normal kost ikke overstige 50% af døgndosis.Bolusinsulin anbefales justeret til hvert enkelt måltid baseret på kulhydrattælling og præprandielt BG.
+
+Patienter med reduceret egenomsorg kan undtagelsesvis behandles med et simplere regime (blandingsinsulin 2-3 gange daglig eller basalinsulin én gang dagligt).
+Hos motiverede personer kan insulinpumpe anvendes, hvor der udelukkende anvendes hurtigtvirkende og ultrahurtigtvirkende insulinanaloger. Der foreligger særlige kriterier for hvornår insulinpumpebehandling kan tilbydes. Insulinpumpebehandling kan tilbydes ved:
+
+Udtalt dawn-fænomenHypoglykæmi unawarenessUtilfredsstillende glykæmisk regulation trods forsøg på optimeringMange tilfælde med hypoglykæmi trods forsøg på optimeringUdtalt stikkeangst hos børn
+
+Anvendes der samtidig CGM af en type der kan kobles til insulinpumpen, vil de fleste sensorintegrerede insulinpumper have en form for automatisering af insulinafgivelsen. Den simpleste er at basalraten stopper, før en selvdefineret lav sensorglukoseværdi forudsiges. De mest avancerede (hybrid closed-loop systemer) øger og reducerer basalinfusionen med korte intervaller og giver automatiseret bolus ved behov.
+For alle insulinpumpetyper gælder, at patienten skal anvende kulhydrattælling og give måltidsinsulin udregnet af pumpen.
+Insulintyper
+Risikoen ved intensiv insulinbehandling er forekomst af hypoglykæmi, som er lavere ved anvendelse af insulinanaloger i forhold til human insulin. Særligt insulin degludec og insulin glargin U300 kan nedsætte risikoen for – især natlig – hypoglykæmi. Har patienten tilbøjelighed til store postprandiale glukosestigninger på grund af for sen virkning af måltidsinsulin kan der forsøges med et ultrahurtigt virkende insulinanalog:
+
+ InsulinTid til virkningVirkningsvarighedHurtigtvirkende insulinUltrahurtigvirkende insulinanalog Insulin Fiasp≈ 10 minutter ≈ 3½ timeHurtigtvirkende insulinanaloger*Insulin aspart (Insulin aspart “Sanofi”, NovoRapid®)Insulin glulisin (Apidra®)Insulin lispro (Humalog®) ≈ 15 minutter ≈ 4 timer Hurtigtvirkende human insulin Actrapid®Humulin® RegularInsuman® Rapid≈ 30 minutter. ≈ 8 timerLangtidsvirkendeinsulinLangtidsvirkende insulinanaloger* Insulin glargin U100 (Abasaglar®, Semglee®, Lantus®)Insulin detemir (Levemir®)Insulin degludec (Tresiba®)Insulin glargin U300 (Toujeo®) ≈ 4 timer≈ 24 timer> 42 timer for insulin degludec≈ 36 timer for insulin glargin U300Intermediært virkende human insulin Insulin NPH (Humulin® NPH, Insulatard®) ≈ 1,5 timer Op til 24 timerBlandingsinsulin** Kombination af hurtigt- og intermediært/langtidsvirkende insulinInsulin aspart og insulin aspart protamin (NovoMix®)Insulin og insulin NPH (Mixtard® 30)Insulin lispro og insulin lispro protamin (Humalog Mix25®)Insulin aspart og insulin degludec (Ryzodeg®)≈ 15 minutter Afhængig af type af langtidsvirkende insulin
+
+* Er førstevalg til T1D
+** Bør kun undtagelsesvist benyttes til T1D
+1.3 Faktorer, som påvirker effekten af insulinbehandling
+Insulinbehandlingen påvirkes af en lang række forskellige faktorer, som gør det vanskeligt at opnå ensartede glukoseprofiler fra dag til dag, herunder:
+
+InjektionsteknikMåltidssammensætning (forholdet mellem kulhydrater, fedt og protein)VentrikeltømningshastighedFysisk aktivitetPsykisk stressInterkurrent sygdom med feberStørre vægttab
+
+Selv ved standardiserede injektionsomstændigheder er der betydelig variation i effekten af en insulininjektion.
+1.4 Kost
+Kostbehandling for personer med T1D følger de internationale guidelines fra, Diabetes Nutrition Study Group (DNSG) under European Association of Study of Diabetes (EASD) og the American Diabetes Association (ADA) (4).
+Det anbefales at personer med T1D vejledes af klinisk diætist med speciale i diabetes for at lære at håndtere maden i livet med diabetes.
+Overordnede mål for kostbehandlingen
+At medvirke til: – HbA1c og Time-in-range indenfor det individuelt aftalte målområde. – Kropsvægt indenfor anbefalet BMI referenceområde (18,5-25,0 kg/m2) – Normalisering af lipidprofil – Normalisering af blodtrykket – Undgå eller minimere antallet af hypoglykæmiske episoder
+Specifikke mål for kostbehandlingen – At patienten opnår kendskab og forståelse for overordnede diabetes kostprincipper – At patienten opnår størst mulig livskvalitet, herunder at anbefalinger og eventuelle restriktioner og begrænsninger i kosten sker på baggrund af videnskabelig evidens.
+Dosering af måltidsinsulin Målet for kostbehandlingen er at opnå tryghed i håndtering af insulindosering i forhold til indtaget af forskellige fødevarer og måltider ud fra principper i kulhydrattælling.
+Patienter, som uddannes i at justere deres hurtigvirkende analog insulindosis, så det matcher deres indtag primært af kulhydrater i et måltid (jf. kulhydrattællingsmetoden), vil kunne opnå en øget frihed og mulighed for variation i indholdet og antallet af dagens måltider samt forbedret glykæmisk kontrol.
+Kulhydrattælling kan inddeles i to niveauer. Uddannelse heri afhænger af diabetestype, patientens motivation, kompetencer og muligheder for at udvikle sine færdigheder indenfor området:
+
+Basal Kulhydrattælling: Fokus på mængder og typer af kulhydrat, at få en forståelse for kulhydratmængder ift. måltidsinsulin.Udvidet kulhydrattælling: bygger videre på principperne i basal kulhydrattælling. Her arbejdes med dosering af måltidsinsulin ud fra kulhydratratio (g kulhydrat per IE insulin) og insulinfølsomhed (PG-reduktion (mmol/l) per IE insulin). Enten udregnet ved 500- (kulhydratratio (gram kulhydrat per enhed insulin) = 500/total daglig insulindosis) og 100-reglen (insulinfølsomhed (blodglukosefald ved én enhed insulin) = 100/total daglig insulindosis) eller ved individuelle udregninger på baggrund af registreringsskemaer.
+
+Kulhydrattællingsværktøjer: Diabetes Foreningens app ”Kulhydrattælling” kan anvendes eller beregne ud fra varedeklarationer. Arbejder patienten med udvidet kulhydrattælling kan bolusberegner-app anvendes; f.eks. Hedia eller MyLife/MySugar.
+Kulhydrattælling er en forudsætning for behandling med insulinpumpe. Personer i behandling med insulinpumpe skal indtaste antal gram kulhydrat i insulinpumpens bolusberegner for at få forslag til bolusdosering.
+Udover kulhydratkvantitet er det vigtigt at have fokus på kulhydratkvalitet ift. postprandielle BG-stigninger og timing af måltidsinsulin. Der vejledes i glykæmisk indeks der er et udtryk for hvor stor glukosestigning der ses efter indtag af et fødemiddel. I de fleste situationer anbefales det at tage måltidsinsulin 10-15 min før måltidet. Indtages kulhydrater med højt glykæmisk indeks anbefales det at måltidsinsulinen tages 20-30 min før måltidet. Har måltidet et højt indhold af fedt og protein i kombination med kulhydrat (såsom ved pizza), kan der være behov for at måltidsinsulin deles i 2 (70 % med det samme og 30 % efter 2 timer) eller at der tages en kombineret bolus (pumpebehandlede).
+Særlige kostformer
+Low-carb og very low-carb: Low-carb definers som <45 E% kulhydrat. Very-low-carb (populært også kaldet ”keto diæt”) defineres som <50 g kulhydrat/dag. ADA angiver mulige fordele i forhold til reduktion af udsving i PG ved low-carb, men der er ikke nok evidens til at det indgår i anbefalingerne. Very-low-carb anbefales ikke grundet risiko for DKA. Low-carb frarådes ved nyresygdom, børn, gravide, ammende og forstyrret spisning.
+1.5 Fysisk aktivitet
+Regelmæssig fysisk aktivitet forbedrer helbred, glykæmisk kontrol og kropssammensætning ved T1D og anbefales som en integreret del af behandlingen. Fysisk aktivitet synes også at nedsætte diabetes-relateret komorbiditet og kardiovaskulære risikofaktorer (5).
+Det er vigtigt at patienter får detaljeret vejledning i, hvilken indflydelse den fysiske aktivitet har på BG og hvordan kost og insulin kan justeres for at undgå hypo- og hyperglykæmi under og efter fysisk aktivitet.
+Som behandler er nogle af de vigtigste budskaber til patienterne, at de før træning skal gøre sig overvejelser om 1) type og varighed af fysisk aktivitet, 2) start-BG, 3) kulhydrater og insulin
+Intensitet og BG
+Ved kontinuerlig aerob træning forventes BG at falde, ved kombineret træning (såsom f.eks. boldspil) forventes BG at ligge stabilt og ved hård anaerob træning, forventes BG at stige. Ved anaerob træning anbefales derfor et start-BG mellem 5 og 7 mmol/l og ved aerob træning et BG mellem 7 og 10 mmol/l. Måles et BG over 15 mmol/l, bør man overveje at tage insulin, evt. måle ketoner og evt. skære ned på aktiviteten. Ligger BG under henholdsvis 5 og 7 mmol/l forud anaerob og aerob træning, indtages 10-20 g kulhydrat inden træningen påbegyndes (afvent BG-stigning).
+Kulhydrater og insulin
+I forbindelse med træning vil der typisk være behov for henholdsvis 10-30 eller 30-60 g kulhydrat per time, afhængig af, om der er lidt eller meget aktivt insulin i kroppen. Ved kontinuerlig træning over en times varighed, vil der være et stigende kulhydratbehov.
+Kulhydrater inden træning kan modvirke hypoglykæmi, men bolusinsulin tæt på træning bør enten nedjusteres eller udelades. Ved måltider indenfor 2 timer inden træning, anbefales det at nedsætte måltidsinsulin med 25-75 procent, afhængig af intensitet og varighed af træning.
+Ved pumpebrugere anbefales en 50-80 % reduktion i basalrate op til 2 timer forud for og under træning, i nogle sammenhænge kan der være behov helt at stoppe pumpen ved træningsstart (obs: pumpen må ikke stoppes i mere end 2 timer).
+Efter en længere træning anbefales et måltid (indenfor 90 minutter) med 1-1,2 g kulhydrater/kg legemsvægt sammen med 50 % reduceret måltidsbolus. For at reducere risikoen for natlig hypoglykæmi ved træning sidst på dagen, kan en 20 % reduktion i basalinsulin eller en snack (10-20 g komplekse KH) ved sengetid uden insulin overvejes.
+Ved neuropati skal der rådgives om hensigtsmæssigt fodtøj og fod inspektion og vægtbærende træning bør undgås ved fodsår. Hård fysisk aktivitet ved proliferativ retinopati eller udtalt nonproliferativ retinopati kan være kontraindiceret pga. risiko for blødning eller retina løsning.
+
+ Antihypertensiv behandling
+
+Reproducerbarheden af enkelt-målinger af blodtryk er ringe, og det er derfor vigtigt at supplere med døgn- eller hjemme-blodtryksmåling, for at sikre en pålidelig fastlæggelse af niveauet og for at undgå overbehandling af patienter med white-coat hypertension (6).
+2.1 Behandlingsmål
+
+Blodtryk <130/80 mmHgDet generelle behandlingsmål for blodtrykket ved T1D målt ved konsultations-, hjemme- og døgnblodtryksmålinger. Blodtryk <140/85 mmHgVærdier op til 140/85 accepteres ved yngre patienter (<40 år) med normoalbuminuri og en meget lav kardiovaskulær risiko, ligesom de højere BT-værdier kan accepteres ved iskæmisk hjertesygdom, langvarig diabetes, høj biologisk alder og behandlingsresistens for at undgå bivirkninger.
+
+2.2 Behandlingsvalg
+Er blodtrykket mere end 150/90 mmHg initialt, kan behandlingen indledes med både 1. og 2. valg i kombination.
+
+ valg: AT2-receptorantagonist (ARB) eller ACE-hæmmer (ACE-I)
+
+Vær opmærksom på:
+
+Kalium og eGFR kontrolleres 3-4 uger efter behandlingsstart og ved dosisændring af ARB eller ACE-hæmmere.Ved behandlingsstart med ARB eller ACE-I ses ofte fald i eGFR og et fald på op til 30 % kan accepteres.
+
+ og 3. valg: Calciumantagonist eller thiazid-diuretikum
+
+Vær opmærksom på:
+
+eGFR, natrium og kalium kontrolleres 3-4 uger efter start af thiazid-diuretikum
+
+ og 5. valg: Beta-blokker, aldosteron-antagonist eller alfa-beta-blokker
+
+Vær opmærksom på:
+
+Ved anvendelse af aldosteron-antagonist kontrolleres eGFR, natrium og kalium før start, efter 1 måned og herefter 1-2 gange årligt.
+
+ valg: Moxonidin eller alfa-blokker
+
+Vær opmærksom på:
+
+Ved anvendelse af moxonidin måles eGFR før start med henblik på dosisjustering.
+
+Behandling med mere end 4-5 lægemidler vil ofte være en endokrinologisk, nefrologisk eller kardiologisk speciallægeopgave.
+
+ Lipidsænkende behandling
+
+Evidensen for lipidsænkende behandling ved T1D er begrænset og der anbefales en individualiseret tilgang baseret på risikoprofil.
+Det anbefales derfor at lave en individuel vurdering af den absolutte risiko forud for opstart af behandling (www.sdcc.dk/T1riskengine). Der anbefales statinbehandling ved medium (10-20%) eller høj (>20%) 10 års risiko for at udvikle hjertekarsygdom.
+3.1 Behandlingsmål
+
+LDL-kolesterol <2,6 mmol/l og mindst 50% reduktion fra udgangsniveau–   Medium (10-20%) 10 års risiko for at udvikle hjertekarsygdom.LDL-kolesterol <1,8 mmol/l og mindst 50% reduktion fra udgangsniveau –   Kendt hjertekarsygdom (iskæmisk hjertesygdom, cerebral iskæmi, perifer arteriel insufficiens)–   Høj (>20%) 10 års risiko for at udvikle hjertekarsygdom–   Moderat til svært forhøjet albuminuri–   Flere risikofaktorer som hypertension, rygning og arvelig dispositionLDL-kolesterol < 1,4 mmol/l og mindst 50 % reduktion fra udgangsniveau–   Patienter med dokumenteret iskæmisk hjertesygdom.
+
+3.2 Behandlingsvalg
+Begynd behandling med atorvastatin 40 mg dagligt eller rosuvastatin 20 mg dagligt.
+Atorvastatin og rosuvastatin kan øges til henholdsvis 80 mg og 40 mg ved behov for yderligere effekt. Ved diabetes og samtidig iskæmisk hjertesygdom anbefales det at behandle med maksimal dosis. Til patienter med nedsat eGFR anbefales primært atorvastatin.
+Bivirkninger til statinbehandling
+Forekomsten af bivirkninger til statinbehandling er meget lav. Myopati forekommer på placebo-niveau. Et nyligt studie viste, at patienter der var statin-intolerante ikke havde flere bivirkninger på behandling end på placebo (7).
+Ved muskelsmerter (myalgi) uden klinisk betydningsfuld muskelenzymstigning anbefales der derfor behandlingsforsøg med flere forskellige statiner (mindst 3) og i reducerede doser, inden man kan tale om reel statin-intolerans. I enkelte tilfælde med vedvarende symptomer kan man opnå et acceptabelt resultat med lave doser atorvastatin eller rosuvastatin nogle få gange om ugen.
+3.3 Øvrige behandlinger:
+Ezetemibe: 
+Kan tilføjes hvis der er behov for supplerende behandling for at nå behandlingsmålet. Kan desuden anvendes til patienter der er veldokumenteret statin-intolerante.
+PCSK9 inhibitorer: 
+Kan overvejes ved:
+
+LDL-kolesterol >3,0 mmol/l trods maksimal tolereret lipidsænkende behandling og diabetes med albuminuriLDL-kolesterol >2,6 mmol/l trods maksimal tolereret lipidsænkende behandling og diabetes med iskæmisk hjertesygdom, perifer arteriel sygdom eller iskæmisk apopleksi/TCI.
+
+Der vil være en gruppe af patienter som ikke har nået deres behandlingsmål, men som ikke vil opfylde kriterierne for PCSK-9-hæmmer behandling.
+Behandling med PCSK-9-hæmmere er specialistbehandling, og kan iværksættes via henvisning til specialafdeling i kardiologi eller endokrinologi, hvorfra medicinen udleveres.
+3.4 Monitorering:
+Lipidprofil bestemmes før opstart af behandling. Herefter anbefales kontrol af lipid profil én gang årligt for at monitorere virkning og compliance.
+
+ Antitrombotisk behandling
+
+Der anbefales ikke rutinemæssig primær profylakse med acetylsalicylsyre (ASA) ved T1D, idet risikoen for bivirkninger, f.eks. blødning fra mave-tarmkanalen, anses for at være betydelig (8).
+
+Behandling med acetylsalicylsyre 75 mg/dag bør tilbydes diabetespatienter med:–   Kendt hjertekarsygdom (iskæmisk hjertesygdom, cerebral iskæmi, perifer arteriel insufficiens)–   Diabetisk nyresygdom (Svært forhøjet albuminuri (ACR > 300 mg/g) med eller uden nedsat eGFR)Behandling med acetylsalicylsyre 75 mg/dag kan overvejes til diabetespatienter med:–   Høj (>20%) 10 års risiko for at udvikle hjertekarsygdom (www.sdcc.dk/T1riskengine)–   Moderat albuminuri (ACR 30-300 mg/g)–   Flere risikofaktorer som hypertension, rygning og arvelig disposition
+
+Clopidogrel kan anvendes som alternativ, hvis acetylsalicylsyre ikke tåles.
+Akutte komplikationer til diabetes
+
+ Hypoglykæmi
+
+Hypoglykæmi er den væsentligste begrænsende faktor for opnåelse af optimal glykæmisk kontrol ved T1D. Der skelnes mellem 2 niveauer af hypoglykæmi: Klinisk signifikant hypoglykæmi ved PG < 3 mmol/l og en alarmværdi: PG <3,9 mmol/l. Klinisk skelnes desuden mellem:
+
+Asymptomatisk hypoglykæmiInsulinfølingerSvær hypoglykæmi (insulintilfælde/insulinshock)
+
+Hyppigt forekommende asymptomatisk hypoglykæmi kan have betydning for svækkelse af varslingssymptomerne (hypoglykæmi-unawareness). Insulinfølinger håndteres af patienten selv, men er generende og kan bidrage til glykæmisk instabilitet og kompliansproblemer. Ved svær hypoglykæmi er patienten afhængig af hjælp fra andre, og alvorlige insulintilfælde kan medføre langvarig dysregulation på grund af angst eller bekymring for nye tilfælde. Insulintilfælde kan desuden medføre ulykker og restriktioner i forhold til erhvervelse og opretholdelse af kørekort.
+De væsentligste risikofaktorer for insulintilfælde er tidligere insulintilfælde og unawareness. Hypoglykæmi-awareness svækkes hos mange med årene (irreversibelt), men kan også svækkes reversibelt ved for stram glykæmisk kontrol eller udsættelse for hyppige hypoglykæmiske episoder.
+1.1 Symptomer
+Bleghed, sveden, rysten, hjertebanken, sultfornemmelse, uro, koncentrationsbesvær, irritation, træthed, syns- og føleforstyrrelser, kramper, bevidstløshed.
+1.2 Akut behandling af hypoglykæmi
+BG er typisk < 4 mmol/l
+Mild hypoglykæmi
+
+10-15 g hurtigt resorberbart kulhydrat i form af f.eks. juice (100-150 ml) eller druesukkertabletter (3-4 tbl.). Hvis ikke et måltid er nært forestående kan suppleres med samme mængde langsomt resorberbart kulhydrat, f.eks. 1 skive rugbrød.
+
+Alvorlig hypoglykæmi
+Vågen/halvvågen patient med evne til at synke:
+
+Hurtigtvirkende kulhydrater som f.eks. druesukker svarende til 20-25 g glukose eller 200-250 ml frugtjuice svarende til 20-25 g kulhydrat per os. Af hensyn til håndterbarhed gerne druesukker i tabletform og juice som brikker. I nogle tilfælde kan der være brug for større mængder af kulhydrat.Retter patienten sig inden for 10-15 minutter, gives langsomt resorberbart kulhydrat peroralt, f.eks. en skive rugbrød sv.t. 10-20 g kulhydrat.Retter patienten sig ikke, behandles som nedenfor.
+
+Svært bevidsthedspåvirket patient:
+
+50-100 ml 10-20 % glukose (= 10-20 g glukose) eller evt. isoton glukose intravenøst i en stor underarmsvene.Alternativt 1 mg glukagon (GlucaGen®) intramuskulært, såfremt intravenøs adgang ikke kan etableres (virker dog ikke hos patienter med sparsomme hepatiske glykogendepoter som f.eks. hos alkoholikere eller efter ekstrem sportsudøvelse).Retter patienten sig, gives langsomt resorberbart kulhydrat peroralt, f.eks. brød. Retter patienten sig ikke, fortsættes med infusion af 10 % glukose.Ved vedvarende uklarhed overvejes andre årsager hertil.
+
+Observation
+Patienter med insulininduceret hypoglykæmi kan normalt udskrives efter nogle timers recidivfri observation, såfremt egenomsorg og/eller netværk er i orden. Dog skal man være opmærksom på risikoen for recidiv som ofte ses f.eks. ved injektionsinfiltrater. I sådanne tilfælde må patienten indlægges til observation.
+1.3 Forebyggelse af hypoglykæmi
+Forudsætningen for at kunne forebygge hypoglykæmi er en løbende dialog med patienten om forekomsten af hypoglykæmi i dagligdagen.
+1.4 Registrering af hypoglykæmi
+Forekomsten af hypoglykæmi bør monitoreres hos alle patienter med T1D:
+
+Antal insulintilfælde (siden sidst): vurderes ved hver rutinekontrolAktuel frekvens af insulinfølinger per uge: vurderes ved hver rutinekontrolAsymptomatisk hypoglykæmi: vurderes jævnligt ud fra CGM downloads eller hjemme- BG målinger (Selfmonitoring of Blood Glucose – SMBG)
+
+1.5 Registrering af hypoglykæmi-awareness
+Hypoglykæmi-awareness estimeres jævnligt, f.eks. ved årsstatus ved et simpelt screeningsspørgsmål (9):
+”Kan du mærke, når dit blodsukker er lavt” med 4 svar muligheder:
+
+”Altid” = normal awareness”Oftest” = intermediær awareness”Sjældent” = unawareness”Aldrig” = unawareness
+
+1.6 Intervention mod hypoglykæmi
+Uacceptabel forekomst af hypoglykæmi bør give anledning til kritisk revurdering af alle aspekter af diabetesbehandlingen, og der bør være mulighed for forløb med specifikt fokus på hypoglykæmi. Forekomst af hyppig asymptomatisk hypoglykæmi med BG < 3mmol/l er forbundet med øget risiko for alvorlig hypoglykæmi (nedsat awareness).
+
+Er insulindoseringen hensigtsmæssig?Er insulinregimet hensigtsmæssigt?Er det glykæmiske mål hensigtsmæssigt?Er patientens oplæring i egenbehandling i orden (injektionsteknik, injektionsinfiltrater)?Er livsstilen hensigtsmæssig (måltidsmønster, motion, rusmidler, CGM eller tilstrækkeligt antal BG målinger per dag, korrektionsadfærd m.m.)?Nyopstået konkurrerende tilstand (malign sygdom, anoreksi, demens, hjertesvigt, binyreinsufficiens m.m.)?
+
+På baggrund af denne vurdering tilrettelægges selve interventionen som omfatter brug af alle relevante undervisnings-, monitorerings- og behandlingsmæssige modaliteter. Ved hypoglykæmi unawareness bør der tilbydes kunstig awareness i form af CGM system med alarmfunktion og evt. optimal nærfysiologisk insulinbehandling i form af hybrid closed loop system.
+
+ Indlagte med diabetes:
+
+Link NBV for Indlagte med diabetes
+Ved behov for faste: Link NBV for Diabetes og kirurgi.
+
+ Diabetisk ketoacidose
+
+## Senkomplikationer
+ Diabetisk nyresygdom
+
+Diabetisk nyresygdom er årsag til 20-25% af tilfælde med terminalt nyresvigt (ESRD) i Danmark. Tilstanden er kompliceret med høj kardiovaskulær morbiditet, generende neuropati, blindhed og gangræn. Forebyggelse, screening og tidlig behandling er derfor afgørende.
+1.1 Screening
+Alle diabetespatienter bør undersøges årligt for urin-albumin udskillelse (kvantitativt). Det anbefales at der anvendes urin albumin/kreatinin ratio (UACR) på morgenurin. Ved førstegangsdiagnose af forhøjet albuminuri (UACR > 30 mg/g), undersøges urinen for infektion og hæmaturi, og undersøgelsen gentages på grund af intraindividuel dag-til-dag variation på ca. 30-40%. P-kreatinin og elektrolytter bestemmes ligeledes årligt ved alle diabetespatienter.
+Når undersøgelsesresultatet foreligger, klassificeres patienten som følger:
+
+Normal til let forhøjet albuminuri med UACR < 30 mg/gModerat forhøjet albuminuri med UACR 30-300 mg/g (tidligere benævnt mikroalbuminuri)Svært forhøjet albuminuri med UACR > 300 mg/g (tidligere benævnt makroalbuminuri)
+
+Ved fravær af retinopati, ved hæmaturi eller ved atypisk aggressivt forløb overvejes anden årsag til nyresygdommen.
+1.2 Undersøgelser ved diabetisk nyresygdom
+Vurdering af nyrefunktion årligt (P-kreatinin og eGFR). Er P-kreatinin > 200 μmol/l og/eller eGFR < 40 ml/min/1.73 m2 bestemmes hæmoglobin, P-carbamid, S-albumin, S-ioniseret calcium, S-fosfat og PTH 1 x årligt.
+1.3 Behandling
+Ved moderat forhøjet albuminuri (ACR 30-300 mg/g) gælder følgende anbefalinger:
+
+Optimering af glykæmisk kontrol. Målet er som i øvrigt: HbA1c < 53mmol/mol.Opstart af ACE-hæmmer / AT 2-receptorantagonist, også hos normotensive.Optimering af blodtryk (behandlingsmål: BT<130/80).På grund af forhøjet risiko for hjertekarsygdom anbefales statin og acetylsalicylsyre. Specifikke data for patienter med albuminuri er dog begrænsede.
+
+Ved svært forhøjet albuminuri (urin ACR > 300 mg/g) gælder desuden:
+
+Kostændringer: Der tilstræbes en kost med lavt saltindhold (Natrium-udskillelse < 100 mmol/24t). Der stiles mod et indhold af protein i kosten på 0,8 g/kg legemsvægt per døgn.
+
+I modsætning til type 2 diabetes, foreligger der ikke dokumentation for en positiv effekt af tillæg af SGLT-2 hæmmere eller finerenone ved type 1 diabetes.
+1.4 Henvisning til nefrologisk afdeling
+Henvisning til nefrolog skal overvejes ved ukontrolleret hypertension, nefrotisk syndrom (proteinuri > 3,5 g/døgn og ødemer), hurtig progression (fald i eGFR> 5 ml/min/år, og senest ved eGFR < 30 ml/min. mhp. tidlig intervention mod forstyrrelser i calcium-fosfat stofskiftet og anæmi. Patienterne skal have god tid til at lære om diæt- og andre livsstilsmæssige forventninger til livet som patient med terminal nyreinsufficiens. De skal udredes med henblik på muligheder for transplantation, eventuelt udrede levende donorer, undervises i valgmuligheder omkring dialyseformer og få etableret dialyseadgange.
+
+ Retinopati
+
+Se ”National retningslinje for screening for diabetisk retinopati” https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdf
+
+ Neuropati
+
+Se særskilt NBV link
+
+ Kardiovaskulær sygdom
+
+Hos alle voksne patienter med diabetes anbefales EKG på diagnosetidspunktet. Der anbefales årlig anamnese med henblik på kardiovaskulære symptomer (primært dyspnø og ubehag i brystet), samt EKG ved kardiovaskulære symptomer. Ved mistanke om hjerteinsufficiens bør dette primært vurderes med ekkokardiografi, men kan evt. udelukkes med fund af normalt BNP/NTproBNP niveau. Ved kardiovaskulære symptomer henvises til hjerteafdeling eller kardiolog med henblik på nærmere undersøgelse, der kan omfatte ekkokardiografi, myokardiescintigrafi, hjerte-CT eller koronararteriografi.
+
+ Diabetisk fodsygdom
+
+Se særskilt NBV. link
+
+##  Særlige behandlingsbehov
+ Patienten med nykonstateret T1D
+
+Efter at diagnosen T1D er stillet, er det i den akutte fase vigtigt at udelukke ketoacidose Link til DKA NBV. Såfremt ketoacidose kan afkræftes og/eller patienten har overstået den akutte fase af ketoacidosen, påbegyndes insulinbehandling ved at initiere fast insulinregime. Hvis patienten er fastende eller ikke kan spise og drikke, vil det være indiceret med supplerende glukoseinfusion. (Link NBV for Diabetes og kirurgi).
+1.1 Påbegyndelse af insulinbehandling
+Patienten med nykonstateret T1D påbegynder typisk insulin svarende til 0,3 IE/kg. Denne dosis deles typisk op i halvdelen som langtidsvirkende insulin til aftensmåltidet eller sengetid, mens den anden halvdel fordeles over tre doser hurtigtvirkende insulin før hvert hovedmåltid. Der suppleres med hurtigtvirkende insulin efter behov jf. afsnit om hyperglykæmi.
+Patienter kan efter opstart af insulin behandling opleve reduceret eller evt. helt ophørt insulinbehov som udtryk for delvist bevaret egenproduktion (remissions-fase). Det er vigtigt at oplyse patienterne om at dette er forbigående, at BG-monitorering bør fortsætte og at der altid på længere sigt bliver behov for eksogent tilført insulin. På baggrund af målte BG og mængden af supplerende insulin justeres insulinbehandlingen løbende. Generelt gælder, at den langtidsvirkende insulin ikke justeres hyppigere end hver 3. døgn, grundet den lange halveringstid og dag-til-dag variation. Det er afgørende, at justering af insulinbehandlingen, foregår samtidig med en vurdering, justering og undervisning i patientens kostindtag.
+1.2 Mål for behandling
+Ved en patient med nyopdaget T1D stiles der mod et BG på 7-12 mmol/L præprandialt i den første periode, idet man gradvist kan tilnærme sig de generelle behandlingsmål. Mere eller mindre stramme behandlingsmål kan være relevant for den enkelte person. Ved meget svær dysregulation vil en for hurtig normalisering medføre risiko for akut neuropati og retinopati.
+
+ Transition
+
+Transition er en planlagt og struktureret overgang fra behandling i pædiatrisk til voksen endokrinologisk regi. Formålet med transitionen er at sikre den unge selv over tid får øget forståelse af T1D, kompetence til at handle på diabetesbehandlingen og gradvist overtager ansvaret for egenomsorg uden behov for væsentlig støtte fra forældre/pårørende. Under transitionen sikres fortsat god glykæmisk kontrol og der foretages screening for sendiabetiske komplikationer, psykosociale- og spisemæssige forstyrrelser i overgangen. Transitions/unge-klinikker er oprettet/er under oprettelse regionalt og der henvises til lokale retningslinjer fra disse.
+
+ T1D og kørekort
+
+Generelle krav til helbred og førlighed ved ansøgning om/fornyelse af kørekort gælder også for personer med T1D med særlig opmærksomhed på hypoglykæmi og tilstedeværelsen af betydende diabetes senkomplikationer.
+Generel helbredsattest (”kørekortsattest”) udfyldes altid ved den praktiserende læge.
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” vil i nogle tilfælde skulle udfyldes og da altid af den diabetesbehandlingsansvarlige læge. Attesten findes her: https://stps.dk/~/media/601159C3313240E9BA67276CE537D5DB.ashx
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” er ikke nødvendig ved ”stabil” sygdom og/eller fravær af diabetes senkomplikationer, hvis der søges om ”lille kørekort” = gruppe 1 kørekort = A (Motorcykel) + B (Alm.bil).
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” skal medsendes kørekortsansøgning for at få udstedt/fornyet ”lille kørekort” hvis der er ”ustabil” sygdom og/eller betydende diabetes senkomplikationer og altid ved ansøgning om ”stort kørekort” = gruppe 2 kørekort = C (Lastbil) + D (Bus, mere end 8 siddepladser) + E (stor anhænger).
+Ansøgeren må ikke have nedsat erkendelse af hypoglykæmi (unawareness) og skal kunne opdage og reagere i tide, hvis BG-niveauet falder.
+Ved T1D kan der ikke anbefales kørekort til Erhverv D1 eller D (lille eller stor bus til erhvervsmæssig personbefordring) eller til personer, som fører udrykningskøretøjer.
+Ved T1D (insulinbehandling) anbefales kørekortet sædvanligvis udstedt med et vilkår om en individuelt fastsat tidsbegrænsning på højst 3 år.
+Hypoglykæmi og kørselsforbud:
+Gruppe 1
+Ved alvorlig hypoglykæmi (behov for assistance fra anden person) nedlægges kørselsforbud på sædvanligvis 3 måneder (”symptomfri observationsperiode”). Hvis hypoglykæmitilfældet kan forklares ud fra forhold, som har en minimal risiko for gentagelse, og sygdommen i øvrigt er velkontrolleret, kan et kørselsforbud forkortes eller evt. helt undlades.
+Ved recidiverende tilfælde af alvorlig hypoglykæmi i vågen tilstand (mere end ét alvorligt tilfælde på 12 måneder) bør der udstedes et lægeligt kørselsforbud i mindst 3 måneder. Ved hypoglykæmi unawareness nedlægges kørselsforbud indtil problemstillingen er afhjulpet (se afsnittet om hypoglykæmi).
+Gruppe 2
+Hvis der optræder tilfælde af alvorlig hypoglykæmi i vågen eller sovende tilstand, bør der udstedes et lægeligt kørselsforbud i op til 12 måneder, og kørsel med gruppe 2 køretøjer kan først genoptages, når problemstillingen er afhjulpet. Patienten må ikke lide af unawareness.
+I ”Vejledning om helbredskrav til kørekort” fra Styrelsen for patientsikkerhed omtales reglerne for kørekort og kørselsforbud ved diabetes under pkt. 6: https://stps.dk/da/udgivelser/2017/vejledning-om-helbredskrav-til-koerekort/~/media/9BE267FAC6AE4BE3ABB93FAA6E7C2347.ashx3.
+
+ Rejser
+
+Generelle regler vedrørende rejser i udlandet for patienter med kronisk sygdom er også gældende for patienter med T1D. Således skal sygdommen have været stabil uden behov for indlæggelse eller væsentlige behandlingsændringer indenfor de seneste to måneder inden afrejse. To måneder efter indlæggelse eller skadestuekontakt på grund af diabetes dysregulation (hypoglykæmi eller ketoacidose/ketoacidose obs pro) samt ved visse tilfælde af akut forværring af diabetiske følgesygdomme dækker sundhedskortet således ikke. Ved nydiagnosticeret T1D tillægges yderligere 1 måned til reglen om manglende dækning – dvs. i alt 3 måneder fra diagnosetidspunktet. Ved tvivl skal patienten anbefales kontakt til SOS mhp. afklaring. Såfremt SOS’s læge vurderer at sundhedskortet er fuldt dækkende på trods af nylige hændelser udstedes et ”skriftligt forhåndsbevis”. Det er således alene SOS’s læger der udsteder forhåndsbevis uanset diabetesbehandlerens vurdering. Ved tvivl kan SOS’s læge bede patienten om at indhente erklæring fra behandleren.
+Daglige justeringer af insulindosis, skift af insulintype, start på insulinpumpebehandling, justering af eller start på antihypertensiv, kolesterolsænkende eller antitrombotisk behandling betragtes vanligvis ikke som væsentlig behandlingsændring, men patienten bør ved tvivl anbefales at indhente forhåndserklæring fra SOS.
+4.1 Diabetes rejsebrev (”insulinattest”/”pumpepas”)
+Udstedes på engelsk af diabetesbehandler-teams og anbefales medbragt af alle personer med insulinbehandlet diabetes på flyrejser mhp. verifikation af behovet for medtagelse af insulin, nåle og fingerprikker i håndbagagen. Kan med fordel kombineres med bevis for pumpe- og/eller sensorbehandling.
+4.2 Medicinpas (”pillepas”)
+Er beregnet til patienter der medbringer lægeordinerede narkotiske stoffer o.l. på udlandsrejser. Det er derfor normalt ikke nødvendigt for personer med T1D at medbringe medicinpas – specielt hvis diabetes rejsebrev kan fremvises. Til mere eksotiske rejsemål kan medicinpas dog anbefales. Medicinpas kan udskrives fra sundhed.dk. I tvivlstilfælde anbefales kontakt til rejsemålets ambassade.
+
+ Graviditet Link til graviditet og diabetes NBV
+
+## Organisation
+Optimal behandling af T1D er en kompleks multimodal sundhedsydelse, som indebærer et tæt samspil mellem en række faggrupper, hvorfor den bør udføres i hospitalsregi i et specialiseret diabetesambulatorium.
+Der er ikke evidens for, hvor hyppigt patienterne skal ses, men patienten bør have kontakt til diabetesteamet efter behov, dog anbefales det at patienten ses mindst 1 gang årligt i ambulatoriet mhp. lipidstatus, måling af urinalbuminudskillelse og registrering af kvalitetsdata til Dansk Voksen Diabetes Database.
+
+ Nødvendige ressourcer:
+
+1.1 Diabetesambulatoriet
+Patienten bør modtage behandling fra et team omfattende speciallæge i endokrinologi, diabetessygeplejerske, klinisk diætist og fodterapeut.
+1.2 Eksterne samarbejdspartnere
+Der bør være etableret et formaliseret samarbejde med øjenklinik med henblik på regelmæssig fotoscreening og behandling af øjenkomplikationer. Ved udredning og behandling af øvrige senkomplikationer bør der være mulighed for henvisning til ortopædkirurg, karkirurg, kardiolog, nefrolog, neurolog, anæstesiolog (smerteklinik), samt psykolog/psykiater med speciel interesse i diabetes og andre relevante specialer.
+
+ Forløbsorganisering:
+
+Ved første kontakt med patienter med T1D anbefales det at der udføres objektiv undersøgelse og tages blodprøver:HbA1c, lipidstatus, levertal, væsketal samt urin-ACR. Der skal screenes for senkomplikationer og ved behov henvises til relevante specialister. Patienten skal tilbydes livslang regelmæssig opfølgning i diabetesambulatorium efter individuelt behov.
+2.1 Opstartsforløb
+Det er af største vigtighed, at patienten når diagnosen er stillet, gennemgår et struktureret patientuddannelsesprogram for at give viden og færdigheder til at træffe bevidste valg ud fra egne værdier og mål. Sammen med patienten udfærdiges en individuel behandlingsplan. Den skal tage hensyn til alder, skole- eller arbejdstid, spisevaner, fysisk aktivitet, social situation, personlige og kulturelle faktorer, komplikationer og andre sygdomme. Pårørende bør medtænkes i patientuddannelsen.
+2.2 Kronisk forløb
+Hyppigheden af ambulante besøg og interval for besøg hos læge frem for diabetessygeplejerske kan differentieres afhængig af den metaboliske regulation og komplikationsstatus. For voksne hvis glykæmiske profil er stabil og behandlingsmålet er nået, kan ét årligt besøg være tilstrækkeligt. Hyppigere besøg er relevant ved dysregulation og behandlingsskift, f.eks. til insulinpumpe. Telemedicinske kontakter kan anvendes mellem besøgene. Brugen af telemedicin bør individualiseres afhængig af personlige behov og tekniske kompetencer. Før konsultationen bør personen med T1D modtage information om behandlerens forventning til indholdet af konsultationen og gøre sig tanker om egne ønsker til indhold. Personen med T1D bør uddannes i upload af diabetes teknologi, hvor dette er relevant, og evt. i udførelse og indsendelse af prøve til HbA1c måling. Personen med T1D opfordres til at måle sit blodtryk og veje sig inden konsultationen.
+Ved alle besøg:
+
+Måles HbA1c, BT og vægtRegistreres forekomsten af hypoglykæmiGennemgås hjemme BG målinger, data fra FGM/CGM eller insulinpumper med patientenJusteres om nødvendigt i medicinen og behandlingen sammen med patienten
+
+Én gang årligt:
+
+Måles lipidprofil og urin-albuminudskillelsenForetages fod-undersøgelseKvalitetsdata til Dansk Voksen Diabetes Database
+
+Med maksimum to års intervaller anbefales det at der:
+
+Afholdes samtale om livsstilsfaktorer (kost, motion, tobak) og stillingtagen til evt. ændringAfholdes samtale om egenomsorg, psykosociale aspekter, behov for yderligere patientuddannelse m.v.Foretages/registreres øjenscreening (første gang efter 5 års diabetesvarighed). Screeningsinterval i henhold til National retningslinje for screening for diabetisk retinopati https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdfVurderes symptomer på autonom neuropatiVurderes symptomer og kliniske tegn på iskæmisk hjerte-, hjerne- og perifer karsygdomSikres at patienten modtager relevante tilskudVurderes hypoglykæmi awarenessJusteres i behandlingsmål og plan
+
+ Uddannelse og egenomsorg:
+
+Patienterne skal straks ved diagnosen undervises. Derudover skal undervisningen ske kontinuerlig ved kompetente fagpersoner for at patienterne kan opretholde deres evne til egenomsorg og kan orienteres om nye behandlingstiltag. Følgende emner bør være indeholdt i undervisningen af patienter med T1D:
+
+Sygdommens naturAt leve med diabetesSymptomer på hypoglykæmiKost til type 1Fysisk aktivitetMetabolisk regulationInsulinbehandlingTilstødende sygdomme og stressFodpleje og -behandlingDiabetiske senkomplikationerGraviditetSociale forholdRejser
+
+3.1 Psykosocial omsorg:
+Diabetes er en kronisk sygdom, som stiller store krav til den enkelte patient om at deltage aktivt i behandlingen. De psykosociale aspekter såsom angst for fremtiden, angst for senkomplikationer, angst for hypoglykæmi, ansvaret og de mange krav, der er forbundet med egenomsorg og ikke mindst andres reaktioner på sygdommen, har stor indflydelse på, om den enkelte lever godt og længe med sygdommen.
+På den baggrund anbefales:
+
+At psykosocial belastning indgår i patientundervisningenAt psykosociale behandlingsbehov regelmæssigt skal afdækkes, f.eks. ved statusbesøgAt der henvises til relevant behandling hos f.eks. psykolog eller psykiater ved afdækket behov.At der i de enkelte afdelinger implementeres metoder til screening og afdækning af psykosociale problemer. Dette kan f.eks. være i form af spørgeskemaer som f.eks.: “Problem Areas in Diabetes (PAID)” der kan anvendes til afdækning og screening af de psykosociale aspekter i relation til at leve med diabetes. “WHO-Fem Trivselsindeks” kan også anvendes til afdækning af screening af psykosociale aspekter
+
+Referenceliste
+
+Holt RIG, DeVries JH, Hess-Fischl A, Hirsch IB, Kirkman MS, Klupa T, et al. The Management of Type 1 Diabetes in Adults. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2021;44(11):2589-625.Committee ADAPP. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes—2022. Diabetes Care. 2021;45(Supplement_1):S125-S43.The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus. New England Journal of Medicine. 1993;329(14):977-86.Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, et al. Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. 2019;42(5):731-54.Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, et al. Exercise management in type 1 diabetes: a consensus statement. The Lancet Diabetes & Endocrinology. 2017;5(5):377-90.Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European heart journal. 2018;39(33):3021-104.Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al. Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials. Bmj. 2021;372:n135.Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. New England Journal of Medicine. 2018;379(16):1529-39.Pedersen-Bjergaard U, Pramming S, Thorsteinsson B. Recall of severe hypoglycaemia and self-estimated state of awareness in type 1 diabetes. Diabetes Metab Res Rev. 2003;19(3):232-40.
+
+Tovholder
+Esben Søndergaard
+Øvrige forfattere
+Peter Gustenhoff Henrik Ullits Andersen Kirsten Nørgaard Ulrik Pedersen-Bjergaard Claus Bogh Juhl Lena Sønder Snogdal Isabelle Steineck Mads Svart Rakel Fuglsang
+Herudover bidrag fra:
+Sabine Schade Jacobsen, klinisk ernæringsspecialist, Steno Diabetes Center Copenhagen (kost-afsnit)
+Overlæge Søren Tang Knudsen, Steno Diabetes Center Aarhus (diabetisk nyresygdom)
+Oprettet: 2013 Senest revideret: 2022 Næste revision: 2025
+
+Den medicinske behandling af patienter med T1D omfatter glukose-, blodtryks- og lipid-sænkende behandling med det formål at forebygge akutte komplikationer og diabetiske senkomplikationer (1-3).
+Link til Patienten med nykonstateret T1D
+
+## 1. Glukosesænkende behandling
+Ved T1D er egenproduktionen af insulin hos de fleste ophørt, og behandlingen er derfor insulinsubstitution, som tilstræbes at være så nærfysiologisk som mulig. I praksis opnås dette ved basal-bolus behandling med en kombination af langsomt- og hurtigtvirkende insulin administreret med pen eller ved insulinpumpebehandling. Den overordnede behandlingseffekt vurderes ved måling af HbA1c, som er associeret med risikoen for udvikling af senkomplikationer, mens den daglige effekt og behandlingskvalitet vurderes ud fra målinger af blod- eller vævsglukose, primært ved brug af kontinuerlig glukosemonitorering eller ved selvmålte BG-niveauer.
+1.1 Glykæmiske behandlingsmål (Tabel 1):
+Tabel 1: Glykæmiske behandlingsmål:
+
+ Ukompliceret patientKompliceret patientHbA1c<53 mmol/mol<58-64 mmol/molPræprandiale BG/SG4-7 mmol/l5-8 mmol/lPostprandiale BG/SG<10 mmol/l<12 mmol/lBG/SG ved sengetid5-8 mmol/l5-8 mmol/lCGM/isCGM data–        Tid i målområde (3,9-10 mmol/l)>70%>50%–        Tid under 3,9 mmol/l<4%<1%–        Tid under 3,0 mmol/l<1%–        Tid over 10 mmol/l<25%–        Tid over 13,9 mmol/l<5%<10%–        Variationskoefficient (CV)<36%<36%BG: blodglukose, SG: sensorglukose
+
+Traditionelt har det primære behandlingsmål ved T1D været defineret ved HbA1c. Da anvendelsen af sensorbaseret glukosemålingsteknologi (kontinuerlige glukose målere (CGM) og intermitterende scannede CGM (isCGM) er steget markant inkluderes nu – sidestillet med HbA1c – andre glykæmiske mål. Selvom disse er mindre veldokumenterede ift. forebyggelse af senkomplikationer, er de relevante for hverdagen med diabetes og tillader i højere grad konsultationer uden fremmøde eller forudgående blodprøver.
+Både BG-målinger og sensormålinger bør evalueres løbende af patienten og ved konsultationer anbefales dataupload for en fælles vurdering med behandler.
+Mål for HbA1c:
+Behandlingsmålet vil for de fleste patienter med T1D være HbA1c ≤ 53 mmol/mol (1, 2).
+HbA1c er den primære prædiktor for udvikling og forværring af komplikationer, og sænkning af HbA1c reducerer risikoen for senere mikro- og makrovaskulære komplikationer. HbA1c giver ingen oplysninger om glykæmiske udsving og er desuden afhængig af en række faktorer såsom erythrocytlevetid m.m. HbA1c skal derfor altid vurderes i sammenhæng med sensorværdier eller patientens egne BG-målinger.
+Mål for BG:
+Behandlingsmålet vil for de fleste patienter være præprandielt BG mellem 4 og 7 mmol/l og et postprandielt BG under 10 mmol/L (1, 2)
+For patienter, der er i behandling med multiple insulin injektioner eller insulinpumpe anbefales generelt måling af BG før alle hovedmåltider så måltidsinsulindosis kan tilpasses BG niveau og kulhydratindtag.  Desuden BG-måling før sengetid, før, under og efter fysisk aktivitet, før bilkørsel (for at forebygge og opdage hypoglykæmi) og ved symptomer på hypoglykæmi. Postprandielle BG-målinger 1-2 timer efter måltidet anbefales, hvis præprandielle BG-værdier er inden for behandlingsmålet, men HbA1c fortsat er for høj.
+Behovet for måling af BG er individuelt og afhænger af variationen i patientens livsstil. Dog anbefales minimum 4 målinger dagligt, men erfaringsmæssigt er 6-12 daglige målinger ofte nødvendigt for at nå behandlingsmålet.
+Sensorbaseret glukosemåling (CGM/isCGM) Link til CGM NBV
+Bør tilbydes alle, som er motiverede, og som vil bruge CGM dagligt. Internationalt er der sat standarder for optimale værdier ved anvendelsen af CGM (tabel 1)8. Ud over tid i målområderne bidrager en vurdering af gennemsnits sensorglukose og variabiliteten (SD og variationskoefficienten CV) til den fulde forståelse af glukosedata.
+Ketoner i blod
+Måling af β-hydroxy-butyrat i blodet kan gennemføres som hjemmemålinger i tilfælde hvor begyndende ketoacidose mistænkes (f.eks. BG>15 og samtidig interkurrent sygdom).
+I ikke fastende tilstand er β-hydroxy-butyrat i blodet < 0,6 mmol/L.
+1.2 Insulin
+For at imødekomme det fysiologiske insulinbehov er standardbehandlingen basal-bolus regime bestående af 1-2 doser langtidsvirkende insulinanalog dagligt afhængig af typen og hurtigvirkende insulinanalog til hovedmåltider og evt. mellemmåltider eller korrektion, dvs. typisk 3-5 gange dagligt.
+
+Basalinsulindosis vil ofte være konstant fra dag til dag og bør ved normal kost ikke overstige 50% af døgndosis.Bolusinsulin anbefales justeret til hvert enkelt måltid baseret på kulhydrattælling og præprandielt BG.
+
+Patienter med reduceret egenomsorg kan undtagelsesvis behandles med et simplere regime (blandingsinsulin 2-3 gange daglig eller basalinsulin én gang dagligt).
+Hos motiverede personer kan insulinpumpe anvendes, hvor der udelukkende anvendes hurtigtvirkende og ultrahurtigtvirkende insulinanaloger. Der foreligger særlige kriterier for hvornår insulinpumpebehandling kan tilbydes. Insulinpumpebehandling kan tilbydes ved:
+
+Udtalt dawn-fænomenHypoglykæmi unawarenessUtilfredsstillende glykæmisk regulation trods forsøg på optimeringMange tilfælde med hypoglykæmi trods forsøg på optimeringUdtalt stikkeangst hos børn
+
+Anvendes der samtidig CGM af en type der kan kobles til insulinpumpen, vil de fleste sensorintegrerede insulinpumper have en form for automatisering af insulinafgivelsen. Den simpleste er at basalraten stopper, før en selvdefineret lav sensorglukoseværdi forudsiges. De mest avancerede (hybrid closed-loop systemer) øger og reducerer basalinfusionen med korte intervaller og giver automatiseret bolus ved behov.
+For alle insulinpumpetyper gælder, at patienten skal anvende kulhydrattælling og give måltidsinsulin udregnet af pumpen.
+Insulintyper
+Risikoen ved intensiv insulinbehandling er forekomst af hypoglykæmi, som er lavere ved anvendelse af insulinanaloger i forhold til human insulin. Særligt insulin degludec og insulin glargin U300 kan nedsætte risikoen for – især natlig – hypoglykæmi. Har patienten tilbøjelighed til store postprandiale glukosestigninger på grund af for sen virkning af måltidsinsulin kan der forsøges med et ultrahurtigt virkende insulinanalog:
+
+ InsulinTid til virkningVirkningsvarighedHurtigtvirkende insulinUltrahurtigvirkende insulinanalog Insulin Fiasp≈ 10 minutter ≈ 3½ timeHurtigtvirkende insulinanaloger*Insulin aspart (Insulin aspart “Sanofi”, NovoRapid®)Insulin glulisin (Apidra®)Insulin lispro (Humalog®) ≈ 15 minutter ≈ 4 timer Hurtigtvirkende human insulin Actrapid®Humulin® RegularInsuman® Rapid≈ 30 minutter. ≈ 8 timerLangtidsvirkendeinsulinLangtidsvirkende insulinanaloger* Insulin glargin U100 (Abasaglar®, Semglee®, Lantus®)Insulin detemir (Levemir®)Insulin degludec (Tresiba®)Insulin glargin U300 (Toujeo®) ≈ 4 timer≈ 24 timer> 42 timer for insulin degludec≈ 36 timer for insulin glargin U300Intermediært virkende human insulin Insulin NPH (Humulin® NPH, Insulatard®) ≈ 1,5 timer Op til 24 timerBlandingsinsulin** Kombination af hurtigt- og intermediært/langtidsvirkende insulinInsulin aspart og insulin aspart protamin (NovoMix®)Insulin og insulin NPH (Mixtard® 30)Insulin lispro og insulin lispro protamin (Humalog Mix25®)Insulin aspart og insulin degludec (Ryzodeg®)≈ 15 minutter Afhængig af type af langtidsvirkende insulin
+
+* Er førstevalg til T1D
+** Bør kun undtagelsesvist benyttes til T1D
+1.3 Faktorer, som påvirker effekten af insulinbehandling
+Insulinbehandlingen påvirkes af en lang række forskellige faktorer, som gør det vanskeligt at opnå ensartede glukoseprofiler fra dag til dag, herunder:
+
+InjektionsteknikMåltidssammensætning (forholdet mellem kulhydrater, fedt og protein)VentrikeltømningshastighedFysisk aktivitetPsykisk stressInterkurrent sygdom med feberStørre vægttab
+
+Selv ved standardiserede injektionsomstændigheder er der betydelig variation i effekten af en insulininjektion.
+1.4 Kost
+Kostbehandling for personer med T1D følger de internationale guidelines fra, Diabetes Nutrition Study Group (DNSG) under European Association of Study of Diabetes (EASD) og the American Diabetes Association (ADA) (4).
+Det anbefales at personer med T1D vejledes af klinisk diætist med speciale i diabetes for at lære at håndtere maden i livet med diabetes.
+Overordnede mål for kostbehandlingen
+At medvirke til: – HbA1c og Time-in-range indenfor det individuelt aftalte målområde. – Kropsvægt indenfor anbefalet BMI referenceområde (18,5-25,0 kg/m2) – Normalisering af lipidprofil – Normalisering af blodtrykket – Undgå eller minimere antallet af hypoglykæmiske episoder
+Specifikke mål for kostbehandlingen – At patienten opnår kendskab og forståelse for overordnede diabetes kostprincipper – At patienten opnår størst mulig livskvalitet, herunder at anbefalinger og eventuelle restriktioner og begrænsninger i kosten sker på baggrund af videnskabelig evidens.
+Dosering af måltidsinsulin Målet for kostbehandlingen er at opnå tryghed i håndtering af insulindosering i forhold til indtaget af forskellige fødevarer og måltider ud fra principper i kulhydrattælling.
+Patienter, som uddannes i at justere deres hurtigvirkende analog insulindosis, så det matcher deres indtag primært af kulhydrater i et måltid (jf. kulhydrattællingsmetoden), vil kunne opnå en øget frihed og mulighed for variation i indholdet og antallet af dagens måltider samt forbedret glykæmisk kontrol.
+Kulhydrattælling kan inddeles i to niveauer. Uddannelse heri afhænger af diabetestype, patientens motivation, kompetencer og muligheder for at udvikle sine færdigheder indenfor området:
+
+Basal Kulhydrattælling: Fokus på mængder og typer af kulhydrat, at få en forståelse for kulhydratmængder ift. måltidsinsulin.Udvidet kulhydrattælling: bygger videre på principperne i basal kulhydrattælling. Her arbejdes med dosering af måltidsinsulin ud fra kulhydratratio (g kulhydrat per IE insulin) og insulinfølsomhed (PG-reduktion (mmol/l) per IE insulin). Enten udregnet ved 500- (kulhydratratio (gram kulhydrat per enhed insulin) = 500/total daglig insulindosis) og 100-reglen (insulinfølsomhed (blodglukosefald ved én enhed insulin) = 100/total daglig insulindosis) eller ved individuelle udregninger på baggrund af registreringsskemaer.
+
+Kulhydrattællingsværktøjer: Diabetes Foreningens app ”Kulhydrattælling” kan anvendes eller beregne ud fra varedeklarationer. Arbejder patienten med udvidet kulhydrattælling kan bolusberegner-app anvendes; f.eks. Hedia eller MyLife/MySugar.
+Kulhydrattælling er en forudsætning for behandling med insulinpumpe. Personer i behandling med insulinpumpe skal indtaste antal gram kulhydrat i insulinpumpens bolusberegner for at få forslag til bolusdosering.
+Udover kulhydratkvantitet er det vigtigt at have fokus på kulhydratkvalitet ift. postprandielle BG-stigninger og timing af måltidsinsulin. Der vejledes i glykæmisk indeks der er et udtryk for hvor stor glukosestigning der ses efter indtag af et fødemiddel. I de fleste situationer anbefales det at tage måltidsinsulin 10-15 min før måltidet. Indtages kulhydrater med højt glykæmisk indeks anbefales det at måltidsinsulinen tages 20-30 min før måltidet. Har måltidet et højt indhold af fedt og protein i kombination med kulhydrat (såsom ved pizza), kan der være behov for at måltidsinsulin deles i 2 (70 % med det samme og 30 % efter 2 timer) eller at der tages en kombineret bolus (pumpebehandlede).
+Særlige kostformer
+Low-carb og very low-carb: Low-carb definers som <45 E% kulhydrat. Very-low-carb (populært også kaldet ”keto diæt”) defineres som <50 g kulhydrat/dag. ADA angiver mulige fordele i forhold til reduktion af udsving i PG ved low-carb, men der er ikke nok evidens til at det indgår i anbefalingerne. Very-low-carb anbefales ikke grundet risiko for DKA. Low-carb frarådes ved nyresygdom, børn, gravide, ammende og forstyrret spisning.
+1.5 Fysisk aktivitet
+Regelmæssig fysisk aktivitet forbedrer helbred, glykæmisk kontrol og kropssammensætning ved T1D og anbefales som en integreret del af behandlingen. Fysisk aktivitet synes også at nedsætte diabetes-relateret komorbiditet og kardiovaskulære risikofaktorer (5).
+Det er vigtigt at patienter får detaljeret vejledning i, hvilken indflydelse den fysiske aktivitet har på BG og hvordan kost og insulin kan justeres for at undgå hypo- og hyperglykæmi under og efter fysisk aktivitet.
+Som behandler er nogle af de vigtigste budskaber til patienterne, at de før træning skal gøre sig overvejelser om 1) type og varighed af fysisk aktivitet, 2) start-BG, 3) kulhydrater og insulin
+Intensitet og BG
+Ved kontinuerlig aerob træning forventes BG at falde, ved kombineret træning (såsom f.eks. boldspil) forventes BG at ligge stabilt og ved hård anaerob træning, forventes BG at stige. Ved anaerob træning anbefales derfor et start-BG mellem 5 og 7 mmol/l og ved aerob træning et BG mellem 7 og 10 mmol/l. Måles et BG over 15 mmol/l, bør man overveje at tage insulin, evt. måle ketoner og evt. skære ned på aktiviteten. Ligger BG under henholdsvis 5 og 7 mmol/l forud anaerob og aerob træning, indtages 10-20 g kulhydrat inden træningen påbegyndes (afvent BG-stigning).
+Kulhydrater og insulin
+I forbindelse med træning vil der typisk være behov for henholdsvis 10-30 eller 30-60 g kulhydrat per time, afhængig af, om der er lidt eller meget aktivt insulin i kroppen. Ved kontinuerlig træning over en times varighed, vil der være et stigende kulhydratbehov.
+Kulhydrater inden træning kan modvirke hypoglykæmi, men bolusinsulin tæt på træning bør enten nedjusteres eller udelades. Ved måltider indenfor 2 timer inden træning, anbefales det at nedsætte måltidsinsulin med 25-75 procent, afhængig af intensitet og varighed af træning.
+Ved pumpebrugere anbefales en 50-80 % reduktion i basalrate op til 2 timer forud for og under træning, i nogle sammenhænge kan der være behov helt at stoppe pumpen ved træningsstart (obs: pumpen må ikke stoppes i mere end 2 timer).
+Efter en længere træning anbefales et måltid (indenfor 90 minutter) med 1-1,2 g kulhydrater/kg legemsvægt sammen med 50 % reduceret måltidsbolus. For at reducere risikoen for natlig hypoglykæmi ved træning sidst på dagen, kan en 20 % reduktion i basalinsulin eller en snack (10-20 g komplekse KH) ved sengetid uden insulin overvejes.
+Ved neuropati skal der rådgives om hensigtsmæssigt fodtøj og fod inspektion og vægtbærende træning bør undgås ved fodsår. Hård fysisk aktivitet ved proliferativ retinopati eller udtalt nonproliferativ retinopati kan være kontraindiceret pga. risiko for blødning eller retina løsning.
+
+ Antihypertensiv behandling
+
+Reproducerbarheden af enkelt-målinger af blodtryk er ringe, og det er derfor vigtigt at supplere med døgn- eller hjemme-blodtryksmåling, for at sikre en pålidelig fastlæggelse af niveauet og for at undgå overbehandling af patienter med white-coat hypertension (6).
+2.1 Behandlingsmål
+
+Blodtryk <130/80 mmHgDet generelle behandlingsmål for blodtrykket ved T1D målt ved konsultations-, hjemme- og døgnblodtryksmålinger. Blodtryk <140/85 mmHgVærdier op til 140/85 accepteres ved yngre patienter (<40 år) med normoalbuminuri og en meget lav kardiovaskulær risiko, ligesom de højere BT-værdier kan accepteres ved iskæmisk hjertesygdom, langvarig diabetes, høj biologisk alder og behandlingsresistens for at undgå bivirkninger.
+
+2.2 Behandlingsvalg
+Er blodtrykket mere end 150/90 mmHg initialt, kan behandlingen indledes med både 1. og 2. valg i kombination.
+
+ valg: AT2-receptorantagonist (ARB) eller ACE-hæmmer (ACE-I)
+
+Vær opmærksom på:
+
+Kalium og eGFR kontrolleres 3-4 uger efter behandlingsstart og ved dosisændring af ARB eller ACE-hæmmere.Ved behandlingsstart med ARB eller ACE-I ses ofte fald i eGFR og et fald på op til 30 % kan accepteres.
+
+ og 3. valg: Calciumantagonist eller thiazid-diuretikum
+
+Vær opmærksom på:
+
+eGFR, natrium og kalium kontrolleres 3-4 uger efter start af thiazid-diuretikum
+
+ og 5. valg: Beta-blokker, aldosteron-antagonist eller alfa-beta-blokker
+
+Vær opmærksom på:
+
+Ved anvendelse af aldosteron-antagonist kontrolleres eGFR, natrium og kalium før start, efter 1 måned og herefter 1-2 gange årligt.
+
+ valg: Moxonidin eller alfa-blokker
+
+Vær opmærksom på:
+
+Ved anvendelse af moxonidin måles eGFR før start med henblik på dosisjustering.
+
+Behandling med mere end 4-5 lægemidler vil ofte være en endokrinologisk, nefrologisk eller kardiologisk speciallægeopgave.
+
+ Lipidsænkende behandling
+
+Evidensen for lipidsænkende behandling ved T1D er begrænset og der anbefales en individualiseret tilgang baseret på risikoprofil.
+Det anbefales derfor at lave en individuel vurdering af den absolutte risiko forud for opstart af behandling (www.sdcc.dk/T1riskengine). Der anbefales statinbehandling ved medium (10-20%) eller høj (>20%) 10 års risiko for at udvikle hjertekarsygdom.
+3.1 Behandlingsmål
+
+LDL-kolesterol <2,6 mmol/l og mindst 50% reduktion fra udgangsniveau–   Medium (10-20%) 10 års risiko for at udvikle hjertekarsygdom.LDL-kolesterol <1,8 mmol/l og mindst 50% reduktion fra udgangsniveau –   Kendt hjertekarsygdom (iskæmisk hjertesygdom, cerebral iskæmi, perifer arteriel insufficiens)–   Høj (>20%) 10 års risiko for at udvikle hjertekarsygdom–   Moderat til svært forhøjet albuminuri–   Flere risikofaktorer som hypertension, rygning og arvelig dispositionLDL-kolesterol < 1,4 mmol/l og mindst 50 % reduktion fra udgangsniveau–   Patienter med dokumenteret iskæmisk hjertesygdom.
+
+3.2 Behandlingsvalg
+Begynd behandling med atorvastatin 40 mg dagligt eller rosuvastatin 20 mg dagligt.
+Atorvastatin og rosuvastatin kan øges til henholdsvis 80 mg og 40 mg ved behov for yderligere effekt. Ved diabetes og samtidig iskæmisk hjertesygdom anbefales det at behandle med maksimal dosis. Til patienter med nedsat eGFR anbefales primært atorvastatin.
+Bivirkninger til statinbehandling
+Forekomsten af bivirkninger til statinbehandling er meget lav. Myopati forekommer på placebo-niveau. Et nyligt studie viste, at patienter der var statin-intolerante ikke havde flere bivirkninger på behandling end på placebo (7).
+Ved muskelsmerter (myalgi) uden klinisk betydningsfuld muskelenzymstigning anbefales der derfor behandlingsforsøg med flere forskellige statiner (mindst 3) og i reducerede doser, inden man kan tale om reel statin-intolerans. I enkelte tilfælde med vedvarende symptomer kan man opnå et acceptabelt resultat med lave doser atorvastatin eller rosuvastatin nogle få gange om ugen.
+3.3 Øvrige behandlinger:
+Ezetemibe: 
+Kan tilføjes hvis der er behov for supplerende behandling for at nå behandlingsmålet. Kan desuden anvendes til patienter der er veldokumenteret statin-intolerante.
+PCSK9 inhibitorer: 
+Kan overvejes ved:
+
+LDL-kolesterol >3,0 mmol/l trods maksimal tolereret lipidsænkende behandling og diabetes med albuminuriLDL-kolesterol >2,6 mmol/l trods maksimal tolereret lipidsænkende behandling og diabetes med iskæmisk hjertesygdom, perifer arteriel sygdom eller iskæmisk apopleksi/TCI.
+
+Der vil være en gruppe af patienter som ikke har nået deres behandlingsmål, men som ikke vil opfylde kriterierne for PCSK-9-hæmmer behandling.
+Behandling med PCSK-9-hæmmere er specialistbehandling, og kan iværksættes via henvisning til specialafdeling i kardiologi eller endokrinologi, hvorfra medicinen udleveres.
+3.4 Monitorering:
+Lipidprofil bestemmes før opstart af behandling. Herefter anbefales kontrol af lipid profil én gang årligt for at monitorere virkning og compliance.
+
+ Antitrombotisk behandling
+
+Der anbefales ikke rutinemæssig primær profylakse med acetylsalicylsyre (ASA) ved T1D, idet risikoen for bivirkninger, f.eks. blødning fra mave-tarmkanalen, anses for at være betydelig (8).
+
+Behandling med acetylsalicylsyre 75 mg/dag bør tilbydes diabetespatienter med:–   Kendt hjertekarsygdom (iskæmisk hjertesygdom, cerebral iskæmi, perifer arteriel insufficiens)–   Diabetisk nyresygdom (Svært forhøjet albuminuri (ACR > 300 mg/g) med eller uden nedsat eGFR)Behandling med acetylsalicylsyre 75 mg/dag kan overvejes til diabetespatienter med:–   Høj (>20%) 10 års risiko for at udvikle hjertekarsygdom (www.sdcc.dk/T1riskengine)–   Moderat albuminuri (ACR 30-300 mg/g)–   Flere risikofaktorer som hypertension, rygning og arvelig disposition
+
+Clopidogrel kan anvendes som alternativ, hvis acetylsalicylsyre ikke tåles.
+Akutte komplikationer til diabetes
+
+ Hypoglykæmi
+
+Hypoglykæmi er den væsentligste begrænsende faktor for opnåelse af optimal glykæmisk kontrol ved T1D. Der skelnes mellem 2 niveauer af hypoglykæmi: Klinisk signifikant hypoglykæmi ved PG < 3 mmol/l og en alarmværdi: PG <3,9 mmol/l. Klinisk skelnes desuden mellem:
+
+Asymptomatisk hypoglykæmiInsulinfølingerSvær hypoglykæmi (insulintilfælde/insulinshock)
+
+Hyppigt forekommende asymptomatisk hypoglykæmi kan have betydning for svækkelse af varslingssymptomerne (hypoglykæmi-unawareness). Insulinfølinger håndteres af patienten selv, men er generende og kan bidrage til glykæmisk instabilitet og kompliansproblemer. Ved svær hypoglykæmi er patienten afhængig af hjælp fra andre, og alvorlige insulintilfælde kan medføre langvarig dysregulation på grund af angst eller bekymring for nye tilfælde. Insulintilfælde kan desuden medføre ulykker og restriktioner i forhold til erhvervelse og opretholdelse af kørekort.
+De væsentligste risikofaktorer for insulintilfælde er tidligere insulintilfælde og unawareness. Hypoglykæmi-awareness svækkes hos mange med årene (irreversibelt), men kan også svækkes reversibelt ved for stram glykæmisk kontrol eller udsættelse for hyppige hypoglykæmiske episoder.
+1.1 Symptomer
+Bleghed, sveden, rysten, hjertebanken, sultfornemmelse, uro, koncentrationsbesvær, irritation, træthed, syns- og føleforstyrrelser, kramper, bevidstløshed.
+1.2 Akut behandling af hypoglykæmi
+BG er typisk < 4 mmol/l
+Mild hypoglykæmi
+
+10-15 g hurtigt resorberbart kulhydrat i form af f.eks. juice (100-150 ml) eller druesukkertabletter (3-4 tbl.). Hvis ikke et måltid er nært forestående kan suppleres med samme mængde langsomt resorberbart kulhydrat, f.eks. 1 skive rugbrød.
+
+Alvorlig hypoglykæmi
+Vågen/halvvågen patient med evne til at synke:
+
+Hurtigtvirkende kulhydrater som f.eks. druesukker svarende til 20-25 g glukose eller 200-250 ml frugtjuice svarende til 20-25 g kulhydrat per os. Af hensyn til håndterbarhed gerne druesukker i tabletform og juice som brikker. I nogle tilfælde kan der være brug for større mængder af kulhydrat.Retter patienten sig inden for 10-15 minutter, gives langsomt resorberbart kulhydrat peroralt, f.eks. en skive rugbrød sv.t. 10-20 g kulhydrat.Retter patienten sig ikke, behandles som nedenfor.
+
+Svært bevidsthedspåvirket patient:
+
+50-100 ml 10-20 % glukose (= 10-20 g glukose) eller evt. isoton glukose intravenøst i en stor underarmsvene.Alternativt 1 mg glukagon (GlucaGen®) intramuskulært, såfremt intravenøs adgang ikke kan etableres (virker dog ikke hos patienter med sparsomme hepatiske glykogendepoter som f.eks. hos alkoholikere eller efter ekstrem sportsudøvelse).Retter patienten sig, gives langsomt resorberbart kulhydrat peroralt, f.eks. brød. Retter patienten sig ikke, fortsættes med infusion af 10 % glukose.Ved vedvarende uklarhed overvejes andre årsager hertil.
+
+Observation
+Patienter med insulininduceret hypoglykæmi kan normalt udskrives efter nogle timers recidivfri observation, såfremt egenomsorg og/eller netværk er i orden. Dog skal man være opmærksom på risikoen for recidiv som ofte ses f.eks. ved injektionsinfiltrater. I sådanne tilfælde må patienten indlægges til observation.
+1.3 Forebyggelse af hypoglykæmi
+Forudsætningen for at kunne forebygge hypoglykæmi er en løbende dialog med patienten om forekomsten af hypoglykæmi i dagligdagen.
+1.4 Registrering af hypoglykæmi
+Forekomsten af hypoglykæmi bør monitoreres hos alle patienter med T1D:
+
+Antal insulintilfælde (siden sidst): vurderes ved hver rutinekontrolAktuel frekvens af insulinfølinger per uge: vurderes ved hver rutinekontrolAsymptomatisk hypoglykæmi: vurderes jævnligt ud fra CGM downloads eller hjemme- BG målinger (Selfmonitoring of Blood Glucose – SMBG)
+
+1.5 Registrering af hypoglykæmi-awareness
+Hypoglykæmi-awareness estimeres jævnligt, f.eks. ved årsstatus ved et simpelt screeningsspørgsmål (9):
+”Kan du mærke, når dit blodsukker er lavt” med 4 svar muligheder:
+
+”Altid” = normal awareness”Oftest” = intermediær awareness”Sjældent” = unawareness”Aldrig” = unawareness
+
+1.6 Intervention mod hypoglykæmi
+Uacceptabel forekomst af hypoglykæmi bør give anledning til kritisk revurdering af alle aspekter af diabetesbehandlingen, og der bør være mulighed for forløb med specifikt fokus på hypoglykæmi. Forekomst af hyppig asymptomatisk hypoglykæmi med BG < 3mmol/l er forbundet med øget risiko for alvorlig hypoglykæmi (nedsat awareness).
+
+Er insulindoseringen hensigtsmæssig?Er insulinregimet hensigtsmæssigt?Er det glykæmiske mål hensigtsmæssigt?Er patientens oplæring i egenbehandling i orden (injektionsteknik, injektionsinfiltrater)?Er livsstilen hensigtsmæssig (måltidsmønster, motion, rusmidler, CGM eller tilstrækkeligt antal BG målinger per dag, korrektionsadfærd m.m.)?Nyopstået konkurrerende tilstand (malign sygdom, anoreksi, demens, hjertesvigt, binyreinsufficiens m.m.)?
+
+På baggrund af denne vurdering tilrettelægges selve interventionen som omfatter brug af alle relevante undervisnings-, monitorerings- og behandlingsmæssige modaliteter. Ved hypoglykæmi unawareness bør der tilbydes kunstig awareness i form af CGM system med alarmfunktion og evt. optimal nærfysiologisk insulinbehandling i form af hybrid closed loop system.
+
+ Indlagte med diabetes:
+
+Link NBV for Indlagte med diabetes
+Ved behov for faste: Link NBV for Diabetes og kirurgi.
+
+ Diabetisk ketoacidose
+
+## Senkomplikationer
+ Diabetisk nyresygdom
+
+Diabetisk nyresygdom er årsag til 20-25% af tilfælde med terminalt nyresvigt (ESRD) i Danmark. Tilstanden er kompliceret med høj kardiovaskulær morbiditet, generende neuropati, blindhed og gangræn. Forebyggelse, screening og tidlig behandling er derfor afgørende.
+1.1 Screening
+Alle diabetespatienter bør undersøges årligt for urin-albumin udskillelse (kvantitativt). Det anbefales at der anvendes urin albumin/kreatinin ratio (UACR) på morgenurin. Ved førstegangsdiagnose af forhøjet albuminuri (UACR > 30 mg/g), undersøges urinen for infektion og hæmaturi, og undersøgelsen gentages på grund af intraindividuel dag-til-dag variation på ca. 30-40%. P-kreatinin og elektrolytter bestemmes ligeledes årligt ved alle diabetespatienter.
+Når undersøgelsesresultatet foreligger, klassificeres patienten som følger:
+
+Normal til let forhøjet albuminuri med UACR < 30 mg/gModerat forhøjet albuminuri med UACR 30-300 mg/g (tidligere benævnt mikroalbuminuri)Svært forhøjet albuminuri med UACR > 300 mg/g (tidligere benævnt makroalbuminuri)
+
+Ved fravær af retinopati, ved hæmaturi eller ved atypisk aggressivt forløb overvejes anden årsag til nyresygdommen.
+1.2 Undersøgelser ved diabetisk nyresygdom
+Vurdering af nyrefunktion årligt (P-kreatinin og eGFR). Er P-kreatinin > 200 μmol/l og/eller eGFR < 40 ml/min/1.73 m2 bestemmes hæmoglobin, P-carbamid, S-albumin, S-ioniseret calcium, S-fosfat og PTH 1 x årligt.
+1.3 Behandling
+Ved moderat forhøjet albuminuri (ACR 30-300 mg/g) gælder følgende anbefalinger:
+
+Optimering af glykæmisk kontrol. Målet er som i øvrigt: HbA1c < 53mmol/mol.Opstart af ACE-hæmmer / AT 2-receptorantagonist, også hos normotensive.Optimering af blodtryk (behandlingsmål: BT<130/80).På grund af forhøjet risiko for hjertekarsygdom anbefales statin og acetylsalicylsyre. Specifikke data for patienter med albuminuri er dog begrænsede.
+
+Ved svært forhøjet albuminuri (urin ACR > 300 mg/g) gælder desuden:
+
+Kostændringer: Der tilstræbes en kost med lavt saltindhold (Natrium-udskillelse < 100 mmol/24t). Der stiles mod et indhold af protein i kosten på 0,8 g/kg legemsvægt per døgn.
+
+I modsætning til type 2 diabetes, foreligger der ikke dokumentation for en positiv effekt af tillæg af SGLT-2 hæmmere eller finerenone ved type 1 diabetes.
+1.4 Henvisning til nefrologisk afdeling
+Henvisning til nefrolog skal overvejes ved ukontrolleret hypertension, nefrotisk syndrom (proteinuri > 3,5 g/døgn og ødemer), hurtig progression (fald i eGFR> 5 ml/min/år, og senest ved eGFR < 30 ml/min. mhp. tidlig intervention mod forstyrrelser i calcium-fosfat stofskiftet og anæmi. Patienterne skal have god tid til at lære om diæt- og andre livsstilsmæssige forventninger til livet som patient med terminal nyreinsufficiens. De skal udredes med henblik på muligheder for transplantation, eventuelt udrede levende donorer, undervises i valgmuligheder omkring dialyseformer og få etableret dialyseadgange.
+
+ Retinopati
+
+Se ”National retningslinje for screening for diabetisk retinopati” https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdf
+
+ Neuropati
+
+Se særskilt NBV link
+
+ Kardiovaskulær sygdom
+
+Hos alle voksne patienter med diabetes anbefales EKG på diagnosetidspunktet. Der anbefales årlig anamnese med henblik på kardiovaskulære symptomer (primært dyspnø og ubehag i brystet), samt EKG ved kardiovaskulære symptomer. Ved mistanke om hjerteinsufficiens bør dette primært vurderes med ekkokardiografi, men kan evt. udelukkes med fund af normalt BNP/NTproBNP niveau. Ved kardiovaskulære symptomer henvises til hjerteafdeling eller kardiolog med henblik på nærmere undersøgelse, der kan omfatte ekkokardiografi, myokardiescintigrafi, hjerte-CT eller koronararteriografi.
+
+ Diabetisk fodsygdom
+
+Se særskilt NBV. link
+
+##  Særlige behandlingsbehov
+ Patienten med nykonstateret T1D
+
+Efter at diagnosen T1D er stillet, er det i den akutte fase vigtigt at udelukke ketoacidose Link til DKA NBV. Såfremt ketoacidose kan afkræftes og/eller patienten har overstået den akutte fase af ketoacidosen, påbegyndes insulinbehandling ved at initiere fast insulinregime. Hvis patienten er fastende eller ikke kan spise og drikke, vil det være indiceret med supplerende glukoseinfusion. (Link NBV for Diabetes og kirurgi).
+1.1 Påbegyndelse af insulinbehandling
+Patienten med nykonstateret T1D påbegynder typisk insulin svarende til 0,3 IE/kg. Denne dosis deles typisk op i halvdelen som langtidsvirkende insulin til aftensmåltidet eller sengetid, mens den anden halvdel fordeles over tre doser hurtigtvirkende insulin før hvert hovedmåltid. Der suppleres med hurtigtvirkende insulin efter behov jf. afsnit om hyperglykæmi.
+Patienter kan efter opstart af insulin behandling opleve reduceret eller evt. helt ophørt insulinbehov som udtryk for delvist bevaret egenproduktion (remissions-fase). Det er vigtigt at oplyse patienterne om at dette er forbigående, at BG-monitorering bør fortsætte og at der altid på længere sigt bliver behov for eksogent tilført insulin. På baggrund af målte BG og mængden af supplerende insulin justeres insulinbehandlingen løbende. Generelt gælder, at den langtidsvirkende insulin ikke justeres hyppigere end hver 3. døgn, grundet den lange halveringstid og dag-til-dag variation. Det er afgørende, at justering af insulinbehandlingen, foregår samtidig med en vurdering, justering og undervisning i patientens kostindtag.
+1.2 Mål for behandling
+Ved en patient med nyopdaget T1D stiles der mod et BG på 7-12 mmol/L præprandialt i den første periode, idet man gradvist kan tilnærme sig de generelle behandlingsmål. Mere eller mindre stramme behandlingsmål kan være relevant for den enkelte person. Ved meget svær dysregulation vil en for hurtig normalisering medføre risiko for akut neuropati og retinopati.
+
+ Transition
+
+Transition er en planlagt og struktureret overgang fra behandling i pædiatrisk til voksen endokrinologisk regi. Formålet med transitionen er at sikre den unge selv over tid får øget forståelse af T1D, kompetence til at handle på diabetesbehandlingen og gradvist overtager ansvaret for egenomsorg uden behov for væsentlig støtte fra forældre/pårørende. Under transitionen sikres fortsat god glykæmisk kontrol og der foretages screening for sendiabetiske komplikationer, psykosociale- og spisemæssige forstyrrelser i overgangen. Transitions/unge-klinikker er oprettet/er under oprettelse regionalt og der henvises til lokale retningslinjer fra disse.
+
+ T1D og kørekort
+
+Generelle krav til helbred og førlighed ved ansøgning om/fornyelse af kørekort gælder også for personer med T1D med særlig opmærksomhed på hypoglykæmi og tilstedeværelsen af betydende diabetes senkomplikationer.
+Generel helbredsattest (”kørekortsattest”) udfyldes altid ved den praktiserende læge.
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” vil i nogle tilfælde skulle udfyldes og da altid af den diabetesbehandlingsansvarlige læge. Attesten findes her: https://stps.dk/~/media/601159C3313240E9BA67276CE537D5DB.ashx
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” er ikke nødvendig ved ”stabil” sygdom og/eller fravær af diabetes senkomplikationer, hvis der søges om ”lille kørekort” = gruppe 1 kørekort = A (Motorcykel) + B (Alm.bil).
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” skal medsendes kørekortsansøgning for at få udstedt/fornyet ”lille kørekort” hvis der er ”ustabil” sygdom og/eller betydende diabetes senkomplikationer og altid ved ansøgning om ”stort kørekort” = gruppe 2 kørekort = C (Lastbil) + D (Bus, mere end 8 siddepladser) + E (stor anhænger).
+Ansøgeren må ikke have nedsat erkendelse af hypoglykæmi (unawareness) og skal kunne opdage og reagere i tide, hvis BG-niveauet falder.
+Ved T1D kan der ikke anbefales kørekort til Erhverv D1 eller D (lille eller stor bus til erhvervsmæssig personbefordring) eller til personer, som fører udrykningskøretøjer.
+Ved T1D (insulinbehandling) anbefales kørekortet sædvanligvis udstedt med et vilkår om en individuelt fastsat tidsbegrænsning på højst 3 år.
+Hypoglykæmi og kørselsforbud:
+Gruppe 1
+Ved alvorlig hypoglykæmi (behov for assistance fra anden person) nedlægges kørselsforbud på sædvanligvis 3 måneder (”symptomfri observationsperiode”). Hvis hypoglykæmitilfældet kan forklares ud fra forhold, som har en minimal risiko for gentagelse, og sygdommen i øvrigt er velkontrolleret, kan et kørselsforbud forkortes eller evt. helt undlades.
+Ved recidiverende tilfælde af alvorlig hypoglykæmi i vågen tilstand (mere end ét alvorligt tilfælde på 12 måneder) bør der udstedes et lægeligt kørselsforbud i mindst 3 måneder. Ved hypoglykæmi unawareness nedlægges kørselsforbud indtil problemstillingen er afhjulpet (se afsnittet om hypoglykæmi).
+Gruppe 2
+Hvis der optræder tilfælde af alvorlig hypoglykæmi i vågen eller sovende tilstand, bør der udstedes et lægeligt kørselsforbud i op til 12 måneder, og kørsel med gruppe 2 køretøjer kan først genoptages, når problemstillingen er afhjulpet. Patienten må ikke lide af unawareness.
+I ”Vejledning om helbredskrav til kørekort” fra Styrelsen for patientsikkerhed omtales reglerne for kørekort og kørselsforbud ved diabetes under pkt. 6: https://stps.dk/da/udgivelser/2017/vejledning-om-helbredskrav-til-koerekort/~/media/9BE267FAC6AE4BE3ABB93FAA6E7C2347.ashx3.
+
+ Rejser
+
+Generelle regler vedrørende rejser i udlandet for patienter med kronisk sygdom er også gældende for patienter med T1D. Således skal sygdommen have været stabil uden behov for indlæggelse eller væsentlige behandlingsændringer indenfor de seneste to måneder inden afrejse. To måneder efter indlæggelse eller skadestuekontakt på grund af diabetes dysregulation (hypoglykæmi eller ketoacidose/ketoacidose obs pro) samt ved visse tilfælde af akut forværring af diabetiske følgesygdomme dækker sundhedskortet således ikke. Ved nydiagnosticeret T1D tillægges yderligere 1 måned til reglen om manglende dækning – dvs. i alt 3 måneder fra diagnosetidspunktet. Ved tvivl skal patienten anbefales kontakt til SOS mhp. afklaring. Såfremt SOS’s læge vurderer at sundhedskortet er fuldt dækkende på trods af nylige hændelser udstedes et ”skriftligt forhåndsbevis”. Det er således alene SOS’s læger der udsteder forhåndsbevis uanset diabetesbehandlerens vurdering. Ved tvivl kan SOS’s læge bede patienten om at indhente erklæring fra behandleren.
+Daglige justeringer af insulindosis, skift af insulintype, start på insulinpumpebehandling, justering af eller start på antihypertensiv, kolesterolsænkende eller antitrombotisk behandling betragtes vanligvis ikke som væsentlig behandlingsændring, men patienten bør ved tvivl anbefales at indhente forhåndserklæring fra SOS.
+4.1 Diabetes rejsebrev (”insulinattest”/”pumpepas”)
+Udstedes på engelsk af diabetesbehandler-teams og anbefales medbragt af alle personer med insulinbehandlet diabetes på flyrejser mhp. verifikation af behovet for medtagelse af insulin, nåle og fingerprikker i håndbagagen. Kan med fordel kombineres med bevis for pumpe- og/eller sensorbehandling.
+4.2 Medicinpas (”pillepas”)
+Er beregnet til patienter der medbringer lægeordinerede narkotiske stoffer o.l. på udlandsrejser. Det er derfor normalt ikke nødvendigt for personer med T1D at medbringe medicinpas – specielt hvis diabetes rejsebrev kan fremvises. Til mere eksotiske rejsemål kan medicinpas dog anbefales. Medicinpas kan udskrives fra sundhed.dk. I tvivlstilfælde anbefales kontakt til rejsemålets ambassade.
+
+ Graviditet Link til graviditet og diabetes NBV
+
+## Organisation
+Optimal behandling af T1D er en kompleks multimodal sundhedsydelse, som indebærer et tæt samspil mellem en række faggrupper, hvorfor den bør udføres i hospitalsregi i et specialiseret diabetesambulatorium.
+Der er ikke evidens for, hvor hyppigt patienterne skal ses, men patienten bør have kontakt til diabetesteamet efter behov, dog anbefales det at patienten ses mindst 1 gang årligt i ambulatoriet mhp. lipidstatus, måling af urinalbuminudskillelse og registrering af kvalitetsdata til Dansk Voksen Diabetes Database.
+
+ Nødvendige ressourcer:
+
+1.1 Diabetesambulatoriet
+Patienten bør modtage behandling fra et team omfattende speciallæge i endokrinologi, diabetessygeplejerske, klinisk diætist og fodterapeut.
+1.2 Eksterne samarbejdspartnere
+Der bør være etableret et formaliseret samarbejde med øjenklinik med henblik på regelmæssig fotoscreening og behandling af øjenkomplikationer. Ved udredning og behandling af øvrige senkomplikationer bør der være mulighed for henvisning til ortopædkirurg, karkirurg, kardiolog, nefrolog, neurolog, anæstesiolog (smerteklinik), samt psykolog/psykiater med speciel interesse i diabetes og andre relevante specialer.
+
+ Forløbsorganisering:
+
+Ved første kontakt med patienter med T1D anbefales det at der udføres objektiv undersøgelse og tages blodprøver:HbA1c, lipidstatus, levertal, væsketal samt urin-ACR. Der skal screenes for senkomplikationer og ved behov henvises til relevante specialister. Patienten skal tilbydes livslang regelmæssig opfølgning i diabetesambulatorium efter individuelt behov.
+2.1 Opstartsforløb
+Det er af største vigtighed, at patienten når diagnosen er stillet, gennemgår et struktureret patientuddannelsesprogram for at give viden og færdigheder til at træffe bevidste valg ud fra egne værdier og mål. Sammen med patienten udfærdiges en individuel behandlingsplan. Den skal tage hensyn til alder, skole- eller arbejdstid, spisevaner, fysisk aktivitet, social situation, personlige og kulturelle faktorer, komplikationer og andre sygdomme. Pårørende bør medtænkes i patientuddannelsen.
+2.2 Kronisk forløb
+Hyppigheden af ambulante besøg og interval for besøg hos læge frem for diabetessygeplejerske kan differentieres afhængig af den metaboliske regulation og komplikationsstatus. For voksne hvis glykæmiske profil er stabil og behandlingsmålet er nået, kan ét årligt besøg være tilstrækkeligt. Hyppigere besøg er relevant ved dysregulation og behandlingsskift, f.eks. til insulinpumpe. Telemedicinske kontakter kan anvendes mellem besøgene. Brugen af telemedicin bør individualiseres afhængig af personlige behov og tekniske kompetencer. Før konsultationen bør personen med T1D modtage information om behandlerens forventning til indholdet af konsultationen og gøre sig tanker om egne ønsker til indhold. Personen med T1D bør uddannes i upload af diabetes teknologi, hvor dette er relevant, og evt. i udførelse og indsendelse af prøve til HbA1c måling. Personen med T1D opfordres til at måle sit blodtryk og veje sig inden konsultationen.
+Ved alle besøg:
+
+Måles HbA1c, BT og vægtRegistreres forekomsten af hypoglykæmiGennemgås hjemme BG målinger, data fra FGM/CGM eller insulinpumper med patientenJusteres om nødvendigt i medicinen og behandlingen sammen med patienten
+
+Én gang årligt:
+
+Måles lipidprofil og urin-albuminudskillelsenForetages fod-undersøgelseKvalitetsdata til Dansk Voksen Diabetes Database
+
+Med maksimum to års intervaller anbefales det at der:
+
+Afholdes samtale om livsstilsfaktorer (kost, motion, tobak) og stillingtagen til evt. ændringAfholdes samtale om egenomsorg, psykosociale aspekter, behov for yderligere patientuddannelse m.v.Foretages/registreres øjenscreening (første gang efter 5 års diabetesvarighed). Screeningsinterval i henhold til National retningslinje for screening for diabetisk retinopati https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdfVurderes symptomer på autonom neuropatiVurderes symptomer og kliniske tegn på iskæmisk hjerte-, hjerne- og perifer karsygdomSikres at patienten modtager relevante tilskudVurderes hypoglykæmi awarenessJusteres i behandlingsmål og plan
+
+ Uddannelse og egenomsorg:
+
+Patienterne skal straks ved diagnosen undervises. Derudover skal undervisningen ske kontinuerlig ved kompetente fagpersoner for at patienterne kan opretholde deres evne til egenomsorg og kan orienteres om nye behandlingstiltag. Følgende emner bør være indeholdt i undervisningen af patienter med T1D:
+
+Sygdommens naturAt leve med diabetesSymptomer på hypoglykæmiKost til type 1Fysisk aktivitetMetabolisk regulationInsulinbehandlingTilstødende sygdomme og stressFodpleje og -behandlingDiabetiske senkomplikationerGraviditetSociale forholdRejser
+
+3.1 Psykosocial omsorg:
+Diabetes er en kronisk sygdom, som stiller store krav til den enkelte patient om at deltage aktivt i behandlingen. De psykosociale aspekter såsom angst for fremtiden, angst for senkomplikationer, angst for hypoglykæmi, ansvaret og de mange krav, der er forbundet med egenomsorg og ikke mindst andres reaktioner på sygdommen, har stor indflydelse på, om den enkelte lever godt og længe med sygdommen.
+På den baggrund anbefales:
+
+At psykosocial belastning indgår i patientundervisningenAt psykosociale behandlingsbehov regelmæssigt skal afdækkes, f.eks. ved statusbesøgAt der henvises til relevant behandling hos f.eks. psykolog eller psykiater ved afdækket behov.At der i de enkelte afdelinger implementeres metoder til screening og afdækning af psykosociale problemer. Dette kan f.eks. være i form af spørgeskemaer som f.eks.: “Problem Areas in Diabetes (PAID)” der kan anvendes til afdækning og screening af de psykosociale aspekter i relation til at leve med diabetes. “WHO-Fem Trivselsindeks” kan også anvendes til afdækning af screening af psykosociale aspekter
+
+Referenceliste
+
+Holt RIG, DeVries JH, Hess-Fischl A, Hirsch IB, Kirkman MS, Klupa T, et al. The Management of Type 1 Diabetes in Adults. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2021;44(11):2589-625.Committee ADAPP. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes—2022. Diabetes Care. 2021;45(Supplement_1):S125-S43.The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus. New England Journal of Medicine. 1993;329(14):977-86.Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, et al. Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. 2019;42(5):731-54.Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, et al. Exercise management in type 1 diabetes: a consensus statement. The Lancet Diabetes & Endocrinology. 2017;5(5):377-90.Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European heart journal. 2018;39(33):3021-104.Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al. Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials. Bmj. 2021;372:n135.Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. New England Journal of Medicine. 2018;379(16):1529-39.Pedersen-Bjergaard U, Pramming S, Thorsteinsson B. Recall of severe hypoglycaemia and self-estimated state of awareness in type 1 diabetes. Diabetes Metab Res Rev. 2003;19(3):232-40.
+
+Tovholder
+Esben Søndergaard
+Øvrige forfattere
+Peter Gustenhoff Henrik Ullits Andersen Kirsten Nørgaard Ulrik Pedersen-Bjergaard Claus Bogh Juhl Lena Sønder Snogdal Isabelle Steineck Mads Svart Rakel Fuglsang
+Herudover bidrag fra:
+Sabine Schade Jacobsen, klinisk ernæringsspecialist, Steno Diabetes Center Copenhagen (kost-afsnit)
+Overlæge Søren Tang Knudsen, Steno Diabetes Center Aarhus (diabetisk nyresygdom)
+Oprettet: 2013 Senest revideret: 2022 Næste revision: 2025
+
+Ved T1D er egenproduktionen af insulin hos de fleste ophørt, og behandlingen er derfor insulinsubstitution, som tilstræbes at være så nærfysiologisk som mulig. I praksis opnås dette ved basal-bolus behandling med en kombination af langsomt- og hurtigtvirkende insulin administreret med pen eller ved insulinpumpebehandling. Den overordnede behandlingseffekt vurderes ved måling af HbA1c, som er associeret med risikoen for udvikling af senkomplikationer, mens den daglige effekt og behandlingskvalitet vurderes ud fra målinger af blod- eller vævsglukose, primært ved brug af kontinuerlig glukosemonitorering eller ved selvmålte BG-niveauer.
+1.1 Glykæmiske behandlingsmål (Tabel 1):
+Tabel 1: Glykæmiske behandlingsmål:
+
+ Ukompliceret patientKompliceret patientHbA1c<53 mmol/mol<58-64 mmol/molPræprandiale BG/SG4-7 mmol/l5-8 mmol/lPostprandiale BG/SG<10 mmol/l<12 mmol/lBG/SG ved sengetid5-8 mmol/l5-8 mmol/lCGM/isCGM data–        Tid i målområde (3,9-10 mmol/l)>70%>50%–        Tid under 3,9 mmol/l<4%<1%–        Tid under 3,0 mmol/l<1%–        Tid over 10 mmol/l<25%–        Tid over 13,9 mmol/l<5%<10%–        Variationskoefficient (CV)<36%<36%BG: blodglukose, SG: sensorglukose
+
+Traditionelt har det primære behandlingsmål ved T1D været defineret ved HbA1c. Da anvendelsen af sensorbaseret glukosemålingsteknologi (kontinuerlige glukose målere (CGM) og intermitterende scannede CGM (isCGM) er steget markant inkluderes nu – sidestillet med HbA1c – andre glykæmiske mål. Selvom disse er mindre veldokumenterede ift. forebyggelse af senkomplikationer, er de relevante for hverdagen med diabetes og tillader i højere grad konsultationer uden fremmøde eller forudgående blodprøver.
+Både BG-målinger og sensormålinger bør evalueres løbende af patienten og ved konsultationer anbefales dataupload for en fælles vurdering med behandler.
+Mål for HbA1c:
+Behandlingsmålet vil for de fleste patienter med T1D være HbA1c ≤ 53 mmol/mol (1, 2).
+HbA1c er den primære prædiktor for udvikling og forværring af komplikationer, og sænkning af HbA1c reducerer risikoen for senere mikro- og makrovaskulære komplikationer. HbA1c giver ingen oplysninger om glykæmiske udsving og er desuden afhængig af en række faktorer såsom erythrocytlevetid m.m. HbA1c skal derfor altid vurderes i sammenhæng med sensorværdier eller patientens egne BG-målinger.
+Mål for BG:
+Behandlingsmålet vil for de fleste patienter være præprandielt BG mellem 4 og 7 mmol/l og et postprandielt BG under 10 mmol/L (1, 2)
+For patienter, der er i behandling med multiple insulin injektioner eller insulinpumpe anbefales generelt måling af BG før alle hovedmåltider så måltidsinsulindosis kan tilpasses BG niveau og kulhydratindtag.  Desuden BG-måling før sengetid, før, under og efter fysisk aktivitet, før bilkørsel (for at forebygge og opdage hypoglykæmi) og ved symptomer på hypoglykæmi. Postprandielle BG-målinger 1-2 timer efter måltidet anbefales, hvis præprandielle BG-værdier er inden for behandlingsmålet, men HbA1c fortsat er for høj.
+Behovet for måling af BG er individuelt og afhænger af variationen i patientens livsstil. Dog anbefales minimum 4 målinger dagligt, men erfaringsmæssigt er 6-12 daglige målinger ofte nødvendigt for at nå behandlingsmålet.
+Sensorbaseret glukosemåling (CGM/isCGM) Link til CGM NBV
+Bør tilbydes alle, som er motiverede, og som vil bruge CGM dagligt. Internationalt er der sat standarder for optimale værdier ved anvendelsen af CGM (tabel 1)8. Ud over tid i målområderne bidrager en vurdering af gennemsnits sensorglukose og variabiliteten (SD og variationskoefficienten CV) til den fulde forståelse af glukosedata.
+Ketoner i blod
+Måling af β-hydroxy-butyrat i blodet kan gennemføres som hjemmemålinger i tilfælde hvor begyndende ketoacidose mistænkes (f.eks. BG>15 og samtidig interkurrent sygdom).
+I ikke fastende tilstand er β-hydroxy-butyrat i blodet < 0,6 mmol/L.
+1.2 Insulin
+For at imødekomme det fysiologiske insulinbehov er standardbehandlingen basal-bolus regime bestående af 1-2 doser langtidsvirkende insulinanalog dagligt afhængig af typen og hurtigvirkende insulinanalog til hovedmåltider og evt. mellemmåltider eller korrektion, dvs. typisk 3-5 gange dagligt.
+
+Basalinsulindosis vil ofte være konstant fra dag til dag og bør ved normal kost ikke overstige 50% af døgndosis.Bolusinsulin anbefales justeret til hvert enkelt måltid baseret på kulhydrattælling og præprandielt BG.
+
+Patienter med reduceret egenomsorg kan undtagelsesvis behandles med et simplere regime (blandingsinsulin 2-3 gange daglig eller basalinsulin én gang dagligt).
+Hos motiverede personer kan insulinpumpe anvendes, hvor der udelukkende anvendes hurtigtvirkende og ultrahurtigtvirkende insulinanaloger. Der foreligger særlige kriterier for hvornår insulinpumpebehandling kan tilbydes. Insulinpumpebehandling kan tilbydes ved:
+
+Udtalt dawn-fænomenHypoglykæmi unawarenessUtilfredsstillende glykæmisk regulation trods forsøg på optimeringMange tilfælde med hypoglykæmi trods forsøg på optimeringUdtalt stikkeangst hos børn
+
+Anvendes der samtidig CGM af en type der kan kobles til insulinpumpen, vil de fleste sensorintegrerede insulinpumper have en form for automatisering af insulinafgivelsen. Den simpleste er at basalraten stopper, før en selvdefineret lav sensorglukoseværdi forudsiges. De mest avancerede (hybrid closed-loop systemer) øger og reducerer basalinfusionen med korte intervaller og giver automatiseret bolus ved behov.
+For alle insulinpumpetyper gælder, at patienten skal anvende kulhydrattælling og give måltidsinsulin udregnet af pumpen.
+Insulintyper
+Risikoen ved intensiv insulinbehandling er forekomst af hypoglykæmi, som er lavere ved anvendelse af insulinanaloger i forhold til human insulin. Særligt insulin degludec og insulin glargin U300 kan nedsætte risikoen for – især natlig – hypoglykæmi. Har patienten tilbøjelighed til store postprandiale glukosestigninger på grund af for sen virkning af måltidsinsulin kan der forsøges med et ultrahurtigt virkende insulinanalog:
+
+ InsulinTid til virkningVirkningsvarighedHurtigtvirkende insulinUltrahurtigvirkende insulinanalog Insulin Fiasp≈ 10 minutter ≈ 3½ timeHurtigtvirkende insulinanaloger*Insulin aspart (Insulin aspart “Sanofi”, NovoRapid®)Insulin glulisin (Apidra®)Insulin lispro (Humalog®) ≈ 15 minutter ≈ 4 timer Hurtigtvirkende human insulin Actrapid®Humulin® RegularInsuman® Rapid≈ 30 minutter. ≈ 8 timerLangtidsvirkendeinsulinLangtidsvirkende insulinanaloger* Insulin glargin U100 (Abasaglar®, Semglee®, Lantus®)Insulin detemir (Levemir®)Insulin degludec (Tresiba®)Insulin glargin U300 (Toujeo®) ≈ 4 timer≈ 24 timer> 42 timer for insulin degludec≈ 36 timer for insulin glargin U300Intermediært virkende human insulin Insulin NPH (Humulin® NPH, Insulatard®) ≈ 1,5 timer Op til 24 timerBlandingsinsulin** Kombination af hurtigt- og intermediært/langtidsvirkende insulinInsulin aspart og insulin aspart protamin (NovoMix®)Insulin og insulin NPH (Mixtard® 30)Insulin lispro og insulin lispro protamin (Humalog Mix25®)Insulin aspart og insulin degludec (Ryzodeg®)≈ 15 minutter Afhængig af type af langtidsvirkende insulin
+
+* Er førstevalg til T1D
+** Bør kun undtagelsesvist benyttes til T1D
+1.3 Faktorer, som påvirker effekten af insulinbehandling
+Insulinbehandlingen påvirkes af en lang række forskellige faktorer, som gør det vanskeligt at opnå ensartede glukoseprofiler fra dag til dag, herunder:
+
+InjektionsteknikMåltidssammensætning (forholdet mellem kulhydrater, fedt og protein)VentrikeltømningshastighedFysisk aktivitetPsykisk stressInterkurrent sygdom med feberStørre vægttab
+
+Selv ved standardiserede injektionsomstændigheder er der betydelig variation i effekten af en insulininjektion.
+1.4 Kost
+Kostbehandling for personer med T1D følger de internationale guidelines fra, Diabetes Nutrition Study Group (DNSG) under European Association of Study of Diabetes (EASD) og the American Diabetes Association (ADA) (4).
+Det anbefales at personer med T1D vejledes af klinisk diætist med speciale i diabetes for at lære at håndtere maden i livet med diabetes.
+Overordnede mål for kostbehandlingen
+At medvirke til: – HbA1c og Time-in-range indenfor det individuelt aftalte målområde. – Kropsvægt indenfor anbefalet BMI referenceområde (18,5-25,0 kg/m2) – Normalisering af lipidprofil – Normalisering af blodtrykket – Undgå eller minimere antallet af hypoglykæmiske episoder
+Specifikke mål for kostbehandlingen – At patienten opnår kendskab og forståelse for overordnede diabetes kostprincipper – At patienten opnår størst mulig livskvalitet, herunder at anbefalinger og eventuelle restriktioner og begrænsninger i kosten sker på baggrund af videnskabelig evidens.
+Dosering af måltidsinsulin Målet for kostbehandlingen er at opnå tryghed i håndtering af insulindosering i forhold til indtaget af forskellige fødevarer og måltider ud fra principper i kulhydrattælling.
+Patienter, som uddannes i at justere deres hurtigvirkende analog insulindosis, så det matcher deres indtag primært af kulhydrater i et måltid (jf. kulhydrattællingsmetoden), vil kunne opnå en øget frihed og mulighed for variation i indholdet og antallet af dagens måltider samt forbedret glykæmisk kontrol.
+Kulhydrattælling kan inddeles i to niveauer. Uddannelse heri afhænger af diabetestype, patientens motivation, kompetencer og muligheder for at udvikle sine færdigheder indenfor området:
+
+Basal Kulhydrattælling: Fokus på mængder og typer af kulhydrat, at få en forståelse for kulhydratmængder ift. måltidsinsulin.Udvidet kulhydrattælling: bygger videre på principperne i basal kulhydrattælling. Her arbejdes med dosering af måltidsinsulin ud fra kulhydratratio (g kulhydrat per IE insulin) og insulinfølsomhed (PG-reduktion (mmol/l) per IE insulin). Enten udregnet ved 500- (kulhydratratio (gram kulhydrat per enhed insulin) = 500/total daglig insulindosis) og 100-reglen (insulinfølsomhed (blodglukosefald ved én enhed insulin) = 100/total daglig insulindosis) eller ved individuelle udregninger på baggrund af registreringsskemaer.
+
+Kulhydrattællingsværktøjer: Diabetes Foreningens app ”Kulhydrattælling” kan anvendes eller beregne ud fra varedeklarationer. Arbejder patienten med udvidet kulhydrattælling kan bolusberegner-app anvendes; f.eks. Hedia eller MyLife/MySugar.
+Kulhydrattælling er en forudsætning for behandling med insulinpumpe. Personer i behandling med insulinpumpe skal indtaste antal gram kulhydrat i insulinpumpens bolusberegner for at få forslag til bolusdosering.
+Udover kulhydratkvantitet er det vigtigt at have fokus på kulhydratkvalitet ift. postprandielle BG-stigninger og timing af måltidsinsulin. Der vejledes i glykæmisk indeks der er et udtryk for hvor stor glukosestigning der ses efter indtag af et fødemiddel. I de fleste situationer anbefales det at tage måltidsinsulin 10-15 min før måltidet. Indtages kulhydrater med højt glykæmisk indeks anbefales det at måltidsinsulinen tages 20-30 min før måltidet. Har måltidet et højt indhold af fedt og protein i kombination med kulhydrat (såsom ved pizza), kan der være behov for at måltidsinsulin deles i 2 (70 % med det samme og 30 % efter 2 timer) eller at der tages en kombineret bolus (pumpebehandlede).
+Særlige kostformer
+Low-carb og very low-carb: Low-carb definers som <45 E% kulhydrat. Very-low-carb (populært også kaldet ”keto diæt”) defineres som <50 g kulhydrat/dag. ADA angiver mulige fordele i forhold til reduktion af udsving i PG ved low-carb, men der er ikke nok evidens til at det indgår i anbefalingerne. Very-low-carb anbefales ikke grundet risiko for DKA. Low-carb frarådes ved nyresygdom, børn, gravide, ammende og forstyrret spisning.
+1.5 Fysisk aktivitet
+Regelmæssig fysisk aktivitet forbedrer helbred, glykæmisk kontrol og kropssammensætning ved T1D og anbefales som en integreret del af behandlingen. Fysisk aktivitet synes også at nedsætte diabetes-relateret komorbiditet og kardiovaskulære risikofaktorer (5).
+Det er vigtigt at patienter får detaljeret vejledning i, hvilken indflydelse den fysiske aktivitet har på BG og hvordan kost og insulin kan justeres for at undgå hypo- og hyperglykæmi under og efter fysisk aktivitet.
+Som behandler er nogle af de vigtigste budskaber til patienterne, at de før træning skal gøre sig overvejelser om 1) type og varighed af fysisk aktivitet, 2) start-BG, 3) kulhydrater og insulin
+Intensitet og BG
+Ved kontinuerlig aerob træning forventes BG at falde, ved kombineret træning (såsom f.eks. boldspil) forventes BG at ligge stabilt og ved hård anaerob træning, forventes BG at stige. Ved anaerob træning anbefales derfor et start-BG mellem 5 og 7 mmol/l og ved aerob træning et BG mellem 7 og 10 mmol/l. Måles et BG over 15 mmol/l, bør man overveje at tage insulin, evt. måle ketoner og evt. skære ned på aktiviteten. Ligger BG under henholdsvis 5 og 7 mmol/l forud anaerob og aerob træning, indtages 10-20 g kulhydrat inden træningen påbegyndes (afvent BG-stigning).
+Kulhydrater og insulin
+I forbindelse med træning vil der typisk være behov for henholdsvis 10-30 eller 30-60 g kulhydrat per time, afhængig af, om der er lidt eller meget aktivt insulin i kroppen. Ved kontinuerlig træning over en times varighed, vil der være et stigende kulhydratbehov.
+Kulhydrater inden træning kan modvirke hypoglykæmi, men bolusinsulin tæt på træning bør enten nedjusteres eller udelades. Ved måltider indenfor 2 timer inden træning, anbefales det at nedsætte måltidsinsulin med 25-75 procent, afhængig af intensitet og varighed af træning.
+Ved pumpebrugere anbefales en 50-80 % reduktion i basalrate op til 2 timer forud for og under træning, i nogle sammenhænge kan der være behov helt at stoppe pumpen ved træningsstart (obs: pumpen må ikke stoppes i mere end 2 timer).
+Efter en længere træning anbefales et måltid (indenfor 90 minutter) med 1-1,2 g kulhydrater/kg legemsvægt sammen med 50 % reduceret måltidsbolus. For at reducere risikoen for natlig hypoglykæmi ved træning sidst på dagen, kan en 20 % reduktion i basalinsulin eller en snack (10-20 g komplekse KH) ved sengetid uden insulin overvejes.
+Ved neuropati skal der rådgives om hensigtsmæssigt fodtøj og fod inspektion og vægtbærende træning bør undgås ved fodsår. Hård fysisk aktivitet ved proliferativ retinopati eller udtalt nonproliferativ retinopati kan være kontraindiceret pga. risiko for blødning eller retina løsning.
+
+ Antihypertensiv behandling
+
+Reproducerbarheden af enkelt-målinger af blodtryk er ringe, og det er derfor vigtigt at supplere med døgn- eller hjemme-blodtryksmåling, for at sikre en pålidelig fastlæggelse af niveauet og for at undgå overbehandling af patienter med white-coat hypertension (6).
+2.1 Behandlingsmål
+
+Blodtryk <130/80 mmHgDet generelle behandlingsmål for blodtrykket ved T1D målt ved konsultations-, hjemme- og døgnblodtryksmålinger. Blodtryk <140/85 mmHgVærdier op til 140/85 accepteres ved yngre patienter (<40 år) med normoalbuminuri og en meget lav kardiovaskulær risiko, ligesom de højere BT-værdier kan accepteres ved iskæmisk hjertesygdom, langvarig diabetes, høj biologisk alder og behandlingsresistens for at undgå bivirkninger.
+
+2.2 Behandlingsvalg
+Er blodtrykket mere end 150/90 mmHg initialt, kan behandlingen indledes med både 1. og 2. valg i kombination.
+
+ valg: AT2-receptorantagonist (ARB) eller ACE-hæmmer (ACE-I)
+
+Vær opmærksom på:
+
+Kalium og eGFR kontrolleres 3-4 uger efter behandlingsstart og ved dosisændring af ARB eller ACE-hæmmere.Ved behandlingsstart med ARB eller ACE-I ses ofte fald i eGFR og et fald på op til 30 % kan accepteres.
+
+ og 3. valg: Calciumantagonist eller thiazid-diuretikum
+
+Vær opmærksom på:
+
+eGFR, natrium og kalium kontrolleres 3-4 uger efter start af thiazid-diuretikum
+
+ og 5. valg: Beta-blokker, aldosteron-antagonist eller alfa-beta-blokker
+
+Vær opmærksom på:
+
+Ved anvendelse af aldosteron-antagonist kontrolleres eGFR, natrium og kalium før start, efter 1 måned og herefter 1-2 gange årligt.
+
+ valg: Moxonidin eller alfa-blokker
+
+Vær opmærksom på:
+
+Ved anvendelse af moxonidin måles eGFR før start med henblik på dosisjustering.
+
+Behandling med mere end 4-5 lægemidler vil ofte være en endokrinologisk, nefrologisk eller kardiologisk speciallægeopgave.
+
+ Lipidsænkende behandling
+
+Evidensen for lipidsænkende behandling ved T1D er begrænset og der anbefales en individualiseret tilgang baseret på risikoprofil.
+Det anbefales derfor at lave en individuel vurdering af den absolutte risiko forud for opstart af behandling (www.sdcc.dk/T1riskengine). Der anbefales statinbehandling ved medium (10-20%) eller høj (>20%) 10 års risiko for at udvikle hjertekarsygdom.
+3.1 Behandlingsmål
+
+LDL-kolesterol <2,6 mmol/l og mindst 50% reduktion fra udgangsniveau–   Medium (10-20%) 10 års risiko for at udvikle hjertekarsygdom.LDL-kolesterol <1,8 mmol/l og mindst 50% reduktion fra udgangsniveau –   Kendt hjertekarsygdom (iskæmisk hjertesygdom, cerebral iskæmi, perifer arteriel insufficiens)–   Høj (>20%) 10 års risiko for at udvikle hjertekarsygdom–   Moderat til svært forhøjet albuminuri–   Flere risikofaktorer som hypertension, rygning og arvelig dispositionLDL-kolesterol < 1,4 mmol/l og mindst 50 % reduktion fra udgangsniveau–   Patienter med dokumenteret iskæmisk hjertesygdom.
+
+3.2 Behandlingsvalg
+Begynd behandling med atorvastatin 40 mg dagligt eller rosuvastatin 20 mg dagligt.
+Atorvastatin og rosuvastatin kan øges til henholdsvis 80 mg og 40 mg ved behov for yderligere effekt. Ved diabetes og samtidig iskæmisk hjertesygdom anbefales det at behandle med maksimal dosis. Til patienter med nedsat eGFR anbefales primært atorvastatin.
+Bivirkninger til statinbehandling
+Forekomsten af bivirkninger til statinbehandling er meget lav. Myopati forekommer på placebo-niveau. Et nyligt studie viste, at patienter der var statin-intolerante ikke havde flere bivirkninger på behandling end på placebo (7).
+Ved muskelsmerter (myalgi) uden klinisk betydningsfuld muskelenzymstigning anbefales der derfor behandlingsforsøg med flere forskellige statiner (mindst 3) og i reducerede doser, inden man kan tale om reel statin-intolerans. I enkelte tilfælde med vedvarende symptomer kan man opnå et acceptabelt resultat med lave doser atorvastatin eller rosuvastatin nogle få gange om ugen.
+3.3 Øvrige behandlinger:
+Ezetemibe: 
+Kan tilføjes hvis der er behov for supplerende behandling for at nå behandlingsmålet. Kan desuden anvendes til patienter der er veldokumenteret statin-intolerante.
+PCSK9 inhibitorer: 
+Kan overvejes ved:
+
+LDL-kolesterol >3,0 mmol/l trods maksimal tolereret lipidsænkende behandling og diabetes med albuminuriLDL-kolesterol >2,6 mmol/l trods maksimal tolereret lipidsænkende behandling og diabetes med iskæmisk hjertesygdom, perifer arteriel sygdom eller iskæmisk apopleksi/TCI.
+
+Der vil være en gruppe af patienter som ikke har nået deres behandlingsmål, men som ikke vil opfylde kriterierne for PCSK-9-hæmmer behandling.
+Behandling med PCSK-9-hæmmere er specialistbehandling, og kan iværksættes via henvisning til specialafdeling i kardiologi eller endokrinologi, hvorfra medicinen udleveres.
+3.4 Monitorering:
+Lipidprofil bestemmes før opstart af behandling. Herefter anbefales kontrol af lipid profil én gang årligt for at monitorere virkning og compliance.
+
+ Antitrombotisk behandling
+
+Der anbefales ikke rutinemæssig primær profylakse med acetylsalicylsyre (ASA) ved T1D, idet risikoen for bivirkninger, f.eks. blødning fra mave-tarmkanalen, anses for at være betydelig (8).
+
+Behandling med acetylsalicylsyre 75 mg/dag bør tilbydes diabetespatienter med:–   Kendt hjertekarsygdom (iskæmisk hjertesygdom, cerebral iskæmi, perifer arteriel insufficiens)–   Diabetisk nyresygdom (Svært forhøjet albuminuri (ACR > 300 mg/g) med eller uden nedsat eGFR)Behandling med acetylsalicylsyre 75 mg/dag kan overvejes til diabetespatienter med:–   Høj (>20%) 10 års risiko for at udvikle hjertekarsygdom (www.sdcc.dk/T1riskengine)–   Moderat albuminuri (ACR 30-300 mg/g)–   Flere risikofaktorer som hypertension, rygning og arvelig disposition
+
+Clopidogrel kan anvendes som alternativ, hvis acetylsalicylsyre ikke tåles.
+Akutte komplikationer til diabetes
+
+ Hypoglykæmi
+
+Hypoglykæmi er den væsentligste begrænsende faktor for opnåelse af optimal glykæmisk kontrol ved T1D. Der skelnes mellem 2 niveauer af hypoglykæmi: Klinisk signifikant hypoglykæmi ved PG < 3 mmol/l og en alarmværdi: PG <3,9 mmol/l. Klinisk skelnes desuden mellem:
+
+Asymptomatisk hypoglykæmiInsulinfølingerSvær hypoglykæmi (insulintilfælde/insulinshock)
+
+Hyppigt forekommende asymptomatisk hypoglykæmi kan have betydning for svækkelse af varslingssymptomerne (hypoglykæmi-unawareness). Insulinfølinger håndteres af patienten selv, men er generende og kan bidrage til glykæmisk instabilitet og kompliansproblemer. Ved svær hypoglykæmi er patienten afhængig af hjælp fra andre, og alvorlige insulintilfælde kan medføre langvarig dysregulation på grund af angst eller bekymring for nye tilfælde. Insulintilfælde kan desuden medføre ulykker og restriktioner i forhold til erhvervelse og opretholdelse af kørekort.
+De væsentligste risikofaktorer for insulintilfælde er tidligere insulintilfælde og unawareness. Hypoglykæmi-awareness svækkes hos mange med årene (irreversibelt), men kan også svækkes reversibelt ved for stram glykæmisk kontrol eller udsættelse for hyppige hypoglykæmiske episoder.
+1.1 Symptomer
+Bleghed, sveden, rysten, hjertebanken, sultfornemmelse, uro, koncentrationsbesvær, irritation, træthed, syns- og føleforstyrrelser, kramper, bevidstløshed.
+1.2 Akut behandling af hypoglykæmi
+BG er typisk < 4 mmol/l
+Mild hypoglykæmi
+
+10-15 g hurtigt resorberbart kulhydrat i form af f.eks. juice (100-150 ml) eller druesukkertabletter (3-4 tbl.). Hvis ikke et måltid er nært forestående kan suppleres med samme mængde langsomt resorberbart kulhydrat, f.eks. 1 skive rugbrød.
+
+Alvorlig hypoglykæmi
+Vågen/halvvågen patient med evne til at synke:
+
+Hurtigtvirkende kulhydrater som f.eks. druesukker svarende til 20-25 g glukose eller 200-250 ml frugtjuice svarende til 20-25 g kulhydrat per os. Af hensyn til håndterbarhed gerne druesukker i tabletform og juice som brikker. I nogle tilfælde kan der være brug for større mængder af kulhydrat.Retter patienten sig inden for 10-15 minutter, gives langsomt resorberbart kulhydrat peroralt, f.eks. en skive rugbrød sv.t. 10-20 g kulhydrat.Retter patienten sig ikke, behandles som nedenfor.
+
+Svært bevidsthedspåvirket patient:
+
+50-100 ml 10-20 % glukose (= 10-20 g glukose) eller evt. isoton glukose intravenøst i en stor underarmsvene.Alternativt 1 mg glukagon (GlucaGen®) intramuskulært, såfremt intravenøs adgang ikke kan etableres (virker dog ikke hos patienter med sparsomme hepatiske glykogendepoter som f.eks. hos alkoholikere eller efter ekstrem sportsudøvelse).Retter patienten sig, gives langsomt resorberbart kulhydrat peroralt, f.eks. brød. Retter patienten sig ikke, fortsættes med infusion af 10 % glukose.Ved vedvarende uklarhed overvejes andre årsager hertil.
+
+Observation
+Patienter med insulininduceret hypoglykæmi kan normalt udskrives efter nogle timers recidivfri observation, såfremt egenomsorg og/eller netværk er i orden. Dog skal man være opmærksom på risikoen for recidiv som ofte ses f.eks. ved injektionsinfiltrater. I sådanne tilfælde må patienten indlægges til observation.
+1.3 Forebyggelse af hypoglykæmi
+Forudsætningen for at kunne forebygge hypoglykæmi er en løbende dialog med patienten om forekomsten af hypoglykæmi i dagligdagen.
+1.4 Registrering af hypoglykæmi
+Forekomsten af hypoglykæmi bør monitoreres hos alle patienter med T1D:
+
+Antal insulintilfælde (siden sidst): vurderes ved hver rutinekontrolAktuel frekvens af insulinfølinger per uge: vurderes ved hver rutinekontrolAsymptomatisk hypoglykæmi: vurderes jævnligt ud fra CGM downloads eller hjemme- BG målinger (Selfmonitoring of Blood Glucose – SMBG)
+
+1.5 Registrering af hypoglykæmi-awareness
+Hypoglykæmi-awareness estimeres jævnligt, f.eks. ved årsstatus ved et simpelt screeningsspørgsmål (9):
+”Kan du mærke, når dit blodsukker er lavt” med 4 svar muligheder:
+
+”Altid” = normal awareness”Oftest” = intermediær awareness”Sjældent” = unawareness”Aldrig” = unawareness
+
+1.6 Intervention mod hypoglykæmi
+Uacceptabel forekomst af hypoglykæmi bør give anledning til kritisk revurdering af alle aspekter af diabetesbehandlingen, og der bør være mulighed for forløb med specifikt fokus på hypoglykæmi. Forekomst af hyppig asymptomatisk hypoglykæmi med BG < 3mmol/l er forbundet med øget risiko for alvorlig hypoglykæmi (nedsat awareness).
+
+Er insulindoseringen hensigtsmæssig?Er insulinregimet hensigtsmæssigt?Er det glykæmiske mål hensigtsmæssigt?Er patientens oplæring i egenbehandling i orden (injektionsteknik, injektionsinfiltrater)?Er livsstilen hensigtsmæssig (måltidsmønster, motion, rusmidler, CGM eller tilstrækkeligt antal BG målinger per dag, korrektionsadfærd m.m.)?Nyopstået konkurrerende tilstand (malign sygdom, anoreksi, demens, hjertesvigt, binyreinsufficiens m.m.)?
+
+På baggrund af denne vurdering tilrettelægges selve interventionen som omfatter brug af alle relevante undervisnings-, monitorerings- og behandlingsmæssige modaliteter. Ved hypoglykæmi unawareness bør der tilbydes kunstig awareness i form af CGM system med alarmfunktion og evt. optimal nærfysiologisk insulinbehandling i form af hybrid closed loop system.
+
+ Indlagte med diabetes:
+
+Link NBV for Indlagte med diabetes
+Ved behov for faste: Link NBV for Diabetes og kirurgi.
+
+ Diabetisk ketoacidose
+
+## Senkomplikationer
+ Diabetisk nyresygdom
+
+Diabetisk nyresygdom er årsag til 20-25% af tilfælde med terminalt nyresvigt (ESRD) i Danmark. Tilstanden er kompliceret med høj kardiovaskulær morbiditet, generende neuropati, blindhed og gangræn. Forebyggelse, screening og tidlig behandling er derfor afgørende.
+1.1 Screening
+Alle diabetespatienter bør undersøges årligt for urin-albumin udskillelse (kvantitativt). Det anbefales at der anvendes urin albumin/kreatinin ratio (UACR) på morgenurin. Ved førstegangsdiagnose af forhøjet albuminuri (UACR > 30 mg/g), undersøges urinen for infektion og hæmaturi, og undersøgelsen gentages på grund af intraindividuel dag-til-dag variation på ca. 30-40%. P-kreatinin og elektrolytter bestemmes ligeledes årligt ved alle diabetespatienter.
+Når undersøgelsesresultatet foreligger, klassificeres patienten som følger:
+
+Normal til let forhøjet albuminuri med UACR < 30 mg/gModerat forhøjet albuminuri med UACR 30-300 mg/g (tidligere benævnt mikroalbuminuri)Svært forhøjet albuminuri med UACR > 300 mg/g (tidligere benævnt makroalbuminuri)
+
+Ved fravær af retinopati, ved hæmaturi eller ved atypisk aggressivt forløb overvejes anden årsag til nyresygdommen.
+1.2 Undersøgelser ved diabetisk nyresygdom
+Vurdering af nyrefunktion årligt (P-kreatinin og eGFR). Er P-kreatinin > 200 μmol/l og/eller eGFR < 40 ml/min/1.73 m2 bestemmes hæmoglobin, P-carbamid, S-albumin, S-ioniseret calcium, S-fosfat og PTH 1 x årligt.
+1.3 Behandling
+Ved moderat forhøjet albuminuri (ACR 30-300 mg/g) gælder følgende anbefalinger:
+
+Optimering af glykæmisk kontrol. Målet er som i øvrigt: HbA1c < 53mmol/mol.Opstart af ACE-hæmmer / AT 2-receptorantagonist, også hos normotensive.Optimering af blodtryk (behandlingsmål: BT<130/80).På grund af forhøjet risiko for hjertekarsygdom anbefales statin og acetylsalicylsyre. Specifikke data for patienter med albuminuri er dog begrænsede.
+
+Ved svært forhøjet albuminuri (urin ACR > 300 mg/g) gælder desuden:
+
+Kostændringer: Der tilstræbes en kost med lavt saltindhold (Natrium-udskillelse < 100 mmol/24t). Der stiles mod et indhold af protein i kosten på 0,8 g/kg legemsvægt per døgn.
+
+I modsætning til type 2 diabetes, foreligger der ikke dokumentation for en positiv effekt af tillæg af SGLT-2 hæmmere eller finerenone ved type 1 diabetes.
+1.4 Henvisning til nefrologisk afdeling
+Henvisning til nefrolog skal overvejes ved ukontrolleret hypertension, nefrotisk syndrom (proteinuri > 3,5 g/døgn og ødemer), hurtig progression (fald i eGFR> 5 ml/min/år, og senest ved eGFR < 30 ml/min. mhp. tidlig intervention mod forstyrrelser i calcium-fosfat stofskiftet og anæmi. Patienterne skal have god tid til at lære om diæt- og andre livsstilsmæssige forventninger til livet som patient med terminal nyreinsufficiens. De skal udredes med henblik på muligheder for transplantation, eventuelt udrede levende donorer, undervises i valgmuligheder omkring dialyseformer og få etableret dialyseadgange.
+
+ Retinopati
+
+Se ”National retningslinje for screening for diabetisk retinopati” https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdf
+
+ Neuropati
+
+Se særskilt NBV link
+
+ Kardiovaskulær sygdom
+
+Hos alle voksne patienter med diabetes anbefales EKG på diagnosetidspunktet. Der anbefales årlig anamnese med henblik på kardiovaskulære symptomer (primært dyspnø og ubehag i brystet), samt EKG ved kardiovaskulære symptomer. Ved mistanke om hjerteinsufficiens bør dette primært vurderes med ekkokardiografi, men kan evt. udelukkes med fund af normalt BNP/NTproBNP niveau. Ved kardiovaskulære symptomer henvises til hjerteafdeling eller kardiolog med henblik på nærmere undersøgelse, der kan omfatte ekkokardiografi, myokardiescintigrafi, hjerte-CT eller koronararteriografi.
+
+ Diabetisk fodsygdom
+
+Se særskilt NBV. link
+
+##  Særlige behandlingsbehov
+ Patienten med nykonstateret T1D
+
+Efter at diagnosen T1D er stillet, er det i den akutte fase vigtigt at udelukke ketoacidose Link til DKA NBV. Såfremt ketoacidose kan afkræftes og/eller patienten har overstået den akutte fase af ketoacidosen, påbegyndes insulinbehandling ved at initiere fast insulinregime. Hvis patienten er fastende eller ikke kan spise og drikke, vil det være indiceret med supplerende glukoseinfusion. (Link NBV for Diabetes og kirurgi).
+1.1 Påbegyndelse af insulinbehandling
+Patienten med nykonstateret T1D påbegynder typisk insulin svarende til 0,3 IE/kg. Denne dosis deles typisk op i halvdelen som langtidsvirkende insulin til aftensmåltidet eller sengetid, mens den anden halvdel fordeles over tre doser hurtigtvirkende insulin før hvert hovedmåltid. Der suppleres med hurtigtvirkende insulin efter behov jf. afsnit om hyperglykæmi.
+Patienter kan efter opstart af insulin behandling opleve reduceret eller evt. helt ophørt insulinbehov som udtryk for delvist bevaret egenproduktion (remissions-fase). Det er vigtigt at oplyse patienterne om at dette er forbigående, at BG-monitorering bør fortsætte og at der altid på længere sigt bliver behov for eksogent tilført insulin. På baggrund af målte BG og mængden af supplerende insulin justeres insulinbehandlingen løbende. Generelt gælder, at den langtidsvirkende insulin ikke justeres hyppigere end hver 3. døgn, grundet den lange halveringstid og dag-til-dag variation. Det er afgørende, at justering af insulinbehandlingen, foregår samtidig med en vurdering, justering og undervisning i patientens kostindtag.
+1.2 Mål for behandling
+Ved en patient med nyopdaget T1D stiles der mod et BG på 7-12 mmol/L præprandialt i den første periode, idet man gradvist kan tilnærme sig de generelle behandlingsmål. Mere eller mindre stramme behandlingsmål kan være relevant for den enkelte person. Ved meget svær dysregulation vil en for hurtig normalisering medføre risiko for akut neuropati og retinopati.
+
+ Transition
+
+Transition er en planlagt og struktureret overgang fra behandling i pædiatrisk til voksen endokrinologisk regi. Formålet med transitionen er at sikre den unge selv over tid får øget forståelse af T1D, kompetence til at handle på diabetesbehandlingen og gradvist overtager ansvaret for egenomsorg uden behov for væsentlig støtte fra forældre/pårørende. Under transitionen sikres fortsat god glykæmisk kontrol og der foretages screening for sendiabetiske komplikationer, psykosociale- og spisemæssige forstyrrelser i overgangen. Transitions/unge-klinikker er oprettet/er under oprettelse regionalt og der henvises til lokale retningslinjer fra disse.
+
+ T1D og kørekort
+
+Generelle krav til helbred og førlighed ved ansøgning om/fornyelse af kørekort gælder også for personer med T1D med særlig opmærksomhed på hypoglykæmi og tilstedeværelsen af betydende diabetes senkomplikationer.
+Generel helbredsattest (”kørekortsattest”) udfyldes altid ved den praktiserende læge.
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” vil i nogle tilfælde skulle udfyldes og da altid af den diabetesbehandlingsansvarlige læge. Attesten findes her: https://stps.dk/~/media/601159C3313240E9BA67276CE537D5DB.ashx
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” er ikke nødvendig ved ”stabil” sygdom og/eller fravær af diabetes senkomplikationer, hvis der søges om ”lille kørekort” = gruppe 1 kørekort = A (Motorcykel) + B (Alm.bil).
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” skal medsendes kørekortsansøgning for at få udstedt/fornyet ”lille kørekort” hvis der er ”ustabil” sygdom og/eller betydende diabetes senkomplikationer og altid ved ansøgning om ”stort kørekort” = gruppe 2 kørekort = C (Lastbil) + D (Bus, mere end 8 siddepladser) + E (stor anhænger).
+Ansøgeren må ikke have nedsat erkendelse af hypoglykæmi (unawareness) og skal kunne opdage og reagere i tide, hvis BG-niveauet falder.
+Ved T1D kan der ikke anbefales kørekort til Erhverv D1 eller D (lille eller stor bus til erhvervsmæssig personbefordring) eller til personer, som fører udrykningskøretøjer.
+Ved T1D (insulinbehandling) anbefales kørekortet sædvanligvis udstedt med et vilkår om en individuelt fastsat tidsbegrænsning på højst 3 år.
+Hypoglykæmi og kørselsforbud:
+Gruppe 1
+Ved alvorlig hypoglykæmi (behov for assistance fra anden person) nedlægges kørselsforbud på sædvanligvis 3 måneder (”symptomfri observationsperiode”). Hvis hypoglykæmitilfældet kan forklares ud fra forhold, som har en minimal risiko for gentagelse, og sygdommen i øvrigt er velkontrolleret, kan et kørselsforbud forkortes eller evt. helt undlades.
+Ved recidiverende tilfælde af alvorlig hypoglykæmi i vågen tilstand (mere end ét alvorligt tilfælde på 12 måneder) bør der udstedes et lægeligt kørselsforbud i mindst 3 måneder. Ved hypoglykæmi unawareness nedlægges kørselsforbud indtil problemstillingen er afhjulpet (se afsnittet om hypoglykæmi).
+Gruppe 2
+Hvis der optræder tilfælde af alvorlig hypoglykæmi i vågen eller sovende tilstand, bør der udstedes et lægeligt kørselsforbud i op til 12 måneder, og kørsel med gruppe 2 køretøjer kan først genoptages, når problemstillingen er afhjulpet. Patienten må ikke lide af unawareness.
+I ”Vejledning om helbredskrav til kørekort” fra Styrelsen for patientsikkerhed omtales reglerne for kørekort og kørselsforbud ved diabetes under pkt. 6: https://stps.dk/da/udgivelser/2017/vejledning-om-helbredskrav-til-koerekort/~/media/9BE267FAC6AE4BE3ABB93FAA6E7C2347.ashx3.
+
+ Rejser
+
+Generelle regler vedrørende rejser i udlandet for patienter med kronisk sygdom er også gældende for patienter med T1D. Således skal sygdommen have været stabil uden behov for indlæggelse eller væsentlige behandlingsændringer indenfor de seneste to måneder inden afrejse. To måneder efter indlæggelse eller skadestuekontakt på grund af diabetes dysregulation (hypoglykæmi eller ketoacidose/ketoacidose obs pro) samt ved visse tilfælde af akut forværring af diabetiske følgesygdomme dækker sundhedskortet således ikke. Ved nydiagnosticeret T1D tillægges yderligere 1 måned til reglen om manglende dækning – dvs. i alt 3 måneder fra diagnosetidspunktet. Ved tvivl skal patienten anbefales kontakt til SOS mhp. afklaring. Såfremt SOS’s læge vurderer at sundhedskortet er fuldt dækkende på trods af nylige hændelser udstedes et ”skriftligt forhåndsbevis”. Det er således alene SOS’s læger der udsteder forhåndsbevis uanset diabetesbehandlerens vurdering. Ved tvivl kan SOS’s læge bede patienten om at indhente erklæring fra behandleren.
+Daglige justeringer af insulindosis, skift af insulintype, start på insulinpumpebehandling, justering af eller start på antihypertensiv, kolesterolsænkende eller antitrombotisk behandling betragtes vanligvis ikke som væsentlig behandlingsændring, men patienten bør ved tvivl anbefales at indhente forhåndserklæring fra SOS.
+4.1 Diabetes rejsebrev (”insulinattest”/”pumpepas”)
+Udstedes på engelsk af diabetesbehandler-teams og anbefales medbragt af alle personer med insulinbehandlet diabetes på flyrejser mhp. verifikation af behovet for medtagelse af insulin, nåle og fingerprikker i håndbagagen. Kan med fordel kombineres med bevis for pumpe- og/eller sensorbehandling.
+4.2 Medicinpas (”pillepas”)
+Er beregnet til patienter der medbringer lægeordinerede narkotiske stoffer o.l. på udlandsrejser. Det er derfor normalt ikke nødvendigt for personer med T1D at medbringe medicinpas – specielt hvis diabetes rejsebrev kan fremvises. Til mere eksotiske rejsemål kan medicinpas dog anbefales. Medicinpas kan udskrives fra sundhed.dk. I tvivlstilfælde anbefales kontakt til rejsemålets ambassade.
+
+ Graviditet Link til graviditet og diabetes NBV
+
+## Organisation
+Optimal behandling af T1D er en kompleks multimodal sundhedsydelse, som indebærer et tæt samspil mellem en række faggrupper, hvorfor den bør udføres i hospitalsregi i et specialiseret diabetesambulatorium.
+Der er ikke evidens for, hvor hyppigt patienterne skal ses, men patienten bør have kontakt til diabetesteamet efter behov, dog anbefales det at patienten ses mindst 1 gang årligt i ambulatoriet mhp. lipidstatus, måling af urinalbuminudskillelse og registrering af kvalitetsdata til Dansk Voksen Diabetes Database.
+
+ Nødvendige ressourcer:
+
+1.1 Diabetesambulatoriet
+Patienten bør modtage behandling fra et team omfattende speciallæge i endokrinologi, diabetessygeplejerske, klinisk diætist og fodterapeut.
+1.2 Eksterne samarbejdspartnere
+Der bør være etableret et formaliseret samarbejde med øjenklinik med henblik på regelmæssig fotoscreening og behandling af øjenkomplikationer. Ved udredning og behandling af øvrige senkomplikationer bør der være mulighed for henvisning til ortopædkirurg, karkirurg, kardiolog, nefrolog, neurolog, anæstesiolog (smerteklinik), samt psykolog/psykiater med speciel interesse i diabetes og andre relevante specialer.
+
+ Forløbsorganisering:
+
+Ved første kontakt med patienter med T1D anbefales det at der udføres objektiv undersøgelse og tages blodprøver:HbA1c, lipidstatus, levertal, væsketal samt urin-ACR. Der skal screenes for senkomplikationer og ved behov henvises til relevante specialister. Patienten skal tilbydes livslang regelmæssig opfølgning i diabetesambulatorium efter individuelt behov.
+2.1 Opstartsforløb
+Det er af største vigtighed, at patienten når diagnosen er stillet, gennemgår et struktureret patientuddannelsesprogram for at give viden og færdigheder til at træffe bevidste valg ud fra egne værdier og mål. Sammen med patienten udfærdiges en individuel behandlingsplan. Den skal tage hensyn til alder, skole- eller arbejdstid, spisevaner, fysisk aktivitet, social situation, personlige og kulturelle faktorer, komplikationer og andre sygdomme. Pårørende bør medtænkes i patientuddannelsen.
+2.2 Kronisk forløb
+Hyppigheden af ambulante besøg og interval for besøg hos læge frem for diabetessygeplejerske kan differentieres afhængig af den metaboliske regulation og komplikationsstatus. For voksne hvis glykæmiske profil er stabil og behandlingsmålet er nået, kan ét årligt besøg være tilstrækkeligt. Hyppigere besøg er relevant ved dysregulation og behandlingsskift, f.eks. til insulinpumpe. Telemedicinske kontakter kan anvendes mellem besøgene. Brugen af telemedicin bør individualiseres afhængig af personlige behov og tekniske kompetencer. Før konsultationen bør personen med T1D modtage information om behandlerens forventning til indholdet af konsultationen og gøre sig tanker om egne ønsker til indhold. Personen med T1D bør uddannes i upload af diabetes teknologi, hvor dette er relevant, og evt. i udførelse og indsendelse af prøve til HbA1c måling. Personen med T1D opfordres til at måle sit blodtryk og veje sig inden konsultationen.
+Ved alle besøg:
+
+Måles HbA1c, BT og vægtRegistreres forekomsten af hypoglykæmiGennemgås hjemme BG målinger, data fra FGM/CGM eller insulinpumper med patientenJusteres om nødvendigt i medicinen og behandlingen sammen med patienten
+
+Én gang årligt:
+
+Måles lipidprofil og urin-albuminudskillelsenForetages fod-undersøgelseKvalitetsdata til Dansk Voksen Diabetes Database
+
+Med maksimum to års intervaller anbefales det at der:
+
+Afholdes samtale om livsstilsfaktorer (kost, motion, tobak) og stillingtagen til evt. ændringAfholdes samtale om egenomsorg, psykosociale aspekter, behov for yderligere patientuddannelse m.v.Foretages/registreres øjenscreening (første gang efter 5 års diabetesvarighed). Screeningsinterval i henhold til National retningslinje for screening for diabetisk retinopati https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdfVurderes symptomer på autonom neuropatiVurderes symptomer og kliniske tegn på iskæmisk hjerte-, hjerne- og perifer karsygdomSikres at patienten modtager relevante tilskudVurderes hypoglykæmi awarenessJusteres i behandlingsmål og plan
+
+ Uddannelse og egenomsorg:
+
+Patienterne skal straks ved diagnosen undervises. Derudover skal undervisningen ske kontinuerlig ved kompetente fagpersoner for at patienterne kan opretholde deres evne til egenomsorg og kan orienteres om nye behandlingstiltag. Følgende emner bør være indeholdt i undervisningen af patienter med T1D:
+
+Sygdommens naturAt leve med diabetesSymptomer på hypoglykæmiKost til type 1Fysisk aktivitetMetabolisk regulationInsulinbehandlingTilstødende sygdomme og stressFodpleje og -behandlingDiabetiske senkomplikationerGraviditetSociale forholdRejser
+
+3.1 Psykosocial omsorg:
+Diabetes er en kronisk sygdom, som stiller store krav til den enkelte patient om at deltage aktivt i behandlingen. De psykosociale aspekter såsom angst for fremtiden, angst for senkomplikationer, angst for hypoglykæmi, ansvaret og de mange krav, der er forbundet med egenomsorg og ikke mindst andres reaktioner på sygdommen, har stor indflydelse på, om den enkelte lever godt og længe med sygdommen.
+På den baggrund anbefales:
+
+At psykosocial belastning indgår i patientundervisningenAt psykosociale behandlingsbehov regelmæssigt skal afdækkes, f.eks. ved statusbesøgAt der henvises til relevant behandling hos f.eks. psykolog eller psykiater ved afdækket behov.At der i de enkelte afdelinger implementeres metoder til screening og afdækning af psykosociale problemer. Dette kan f.eks. være i form af spørgeskemaer som f.eks.: “Problem Areas in Diabetes (PAID)” der kan anvendes til afdækning og screening af de psykosociale aspekter i relation til at leve med diabetes. “WHO-Fem Trivselsindeks” kan også anvendes til afdækning af screening af psykosociale aspekter
+
+Referenceliste
+
+Holt RIG, DeVries JH, Hess-Fischl A, Hirsch IB, Kirkman MS, Klupa T, et al. The Management of Type 1 Diabetes in Adults. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2021;44(11):2589-625.Committee ADAPP. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes—2022. Diabetes Care. 2021;45(Supplement_1):S125-S43.The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus. New England Journal of Medicine. 1993;329(14):977-86.Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, et al. Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. 2019;42(5):731-54.Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, et al. Exercise management in type 1 diabetes: a consensus statement. The Lancet Diabetes & Endocrinology. 2017;5(5):377-90.Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European heart journal. 2018;39(33):3021-104.Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al. Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials. Bmj. 2021;372:n135.Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. New England Journal of Medicine. 2018;379(16):1529-39.Pedersen-Bjergaard U, Pramming S, Thorsteinsson B. Recall of severe hypoglycaemia and self-estimated state of awareness in type 1 diabetes. Diabetes Metab Res Rev. 2003;19(3):232-40.
+
+Tovholder
+Esben Søndergaard
+Øvrige forfattere
+Peter Gustenhoff Henrik Ullits Andersen Kirsten Nørgaard Ulrik Pedersen-Bjergaard Claus Bogh Juhl Lena Sønder Snogdal Isabelle Steineck Mads Svart Rakel Fuglsang
+Herudover bidrag fra:
+Sabine Schade Jacobsen, klinisk ernæringsspecialist, Steno Diabetes Center Copenhagen (kost-afsnit)
+Overlæge Søren Tang Knudsen, Steno Diabetes Center Aarhus (diabetisk nyresygdom)
+Oprettet: 2013 Senest revideret: 2022 Næste revision: 2025
+
+ Diabetisk nyresygdom
+
+Diabetisk nyresygdom er årsag til 20-25% af tilfælde med terminalt nyresvigt (ESRD) i Danmark. Tilstanden er kompliceret med høj kardiovaskulær morbiditet, generende neuropati, blindhed og gangræn. Forebyggelse, screening og tidlig behandling er derfor afgørende.
+1.1 Screening
+Alle diabetespatienter bør undersøges årligt for urin-albumin udskillelse (kvantitativt). Det anbefales at der anvendes urin albumin/kreatinin ratio (UACR) på morgenurin. Ved førstegangsdiagnose af forhøjet albuminuri (UACR > 30 mg/g), undersøges urinen for infektion og hæmaturi, og undersøgelsen gentages på grund af intraindividuel dag-til-dag variation på ca. 30-40%. P-kreatinin og elektrolytter bestemmes ligeledes årligt ved alle diabetespatienter.
+Når undersøgelsesresultatet foreligger, klassificeres patienten som følger:
+
+Normal til let forhøjet albuminuri med UACR < 30 mg/gModerat forhøjet albuminuri med UACR 30-300 mg/g (tidligere benævnt mikroalbuminuri)Svært forhøjet albuminuri med UACR > 300 mg/g (tidligere benævnt makroalbuminuri)
+
+Ved fravær af retinopati, ved hæmaturi eller ved atypisk aggressivt forløb overvejes anden årsag til nyresygdommen.
+1.2 Undersøgelser ved diabetisk nyresygdom
+Vurdering af nyrefunktion årligt (P-kreatinin og eGFR). Er P-kreatinin > 200 μmol/l og/eller eGFR < 40 ml/min/1.73 m2 bestemmes hæmoglobin, P-carbamid, S-albumin, S-ioniseret calcium, S-fosfat og PTH 1 x årligt.
+1.3 Behandling
+Ved moderat forhøjet albuminuri (ACR 30-300 mg/g) gælder følgende anbefalinger:
+
+Optimering af glykæmisk kontrol. Målet er som i øvrigt: HbA1c < 53mmol/mol.Opstart af ACE-hæmmer / AT 2-receptorantagonist, også hos normotensive.Optimering af blodtryk (behandlingsmål: BT<130/80).På grund af forhøjet risiko for hjertekarsygdom anbefales statin og acetylsalicylsyre. Specifikke data for patienter med albuminuri er dog begrænsede.
+
+Ved svært forhøjet albuminuri (urin ACR > 300 mg/g) gælder desuden:
+
+Kostændringer: Der tilstræbes en kost med lavt saltindhold (Natrium-udskillelse < 100 mmol/24t). Der stiles mod et indhold af protein i kosten på 0,8 g/kg legemsvægt per døgn.
+
+I modsætning til type 2 diabetes, foreligger der ikke dokumentation for en positiv effekt af tillæg af SGLT-2 hæmmere eller finerenone ved type 1 diabetes.
+1.4 Henvisning til nefrologisk afdeling
+Henvisning til nefrolog skal overvejes ved ukontrolleret hypertension, nefrotisk syndrom (proteinuri > 3,5 g/døgn og ødemer), hurtig progression (fald i eGFR> 5 ml/min/år, og senest ved eGFR < 30 ml/min. mhp. tidlig intervention mod forstyrrelser i calcium-fosfat stofskiftet og anæmi. Patienterne skal have god tid til at lære om diæt- og andre livsstilsmæssige forventninger til livet som patient med terminal nyreinsufficiens. De skal udredes med henblik på muligheder for transplantation, eventuelt udrede levende donorer, undervises i valgmuligheder omkring dialyseformer og få etableret dialyseadgange.
+
+ Retinopati
+
+Se ”National retningslinje for screening for diabetisk retinopati” https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdf
+
+ Neuropati
+
+Se særskilt NBV link
+
+ Kardiovaskulær sygdom
+
+Hos alle voksne patienter med diabetes anbefales EKG på diagnosetidspunktet. Der anbefales årlig anamnese med henblik på kardiovaskulære symptomer (primært dyspnø og ubehag i brystet), samt EKG ved kardiovaskulære symptomer. Ved mistanke om hjerteinsufficiens bør dette primært vurderes med ekkokardiografi, men kan evt. udelukkes med fund af normalt BNP/NTproBNP niveau. Ved kardiovaskulære symptomer henvises til hjerteafdeling eller kardiolog med henblik på nærmere undersøgelse, der kan omfatte ekkokardiografi, myokardiescintigrafi, hjerte-CT eller koronararteriografi.
+
+ Diabetisk fodsygdom
+
+Se særskilt NBV. link
+
+##  Særlige behandlingsbehov
+ Patienten med nykonstateret T1D
+
+Efter at diagnosen T1D er stillet, er det i den akutte fase vigtigt at udelukke ketoacidose Link til DKA NBV. Såfremt ketoacidose kan afkræftes og/eller patienten har overstået den akutte fase af ketoacidosen, påbegyndes insulinbehandling ved at initiere fast insulinregime. Hvis patienten er fastende eller ikke kan spise og drikke, vil det være indiceret med supplerende glukoseinfusion. (Link NBV for Diabetes og kirurgi).
+1.1 Påbegyndelse af insulinbehandling
+Patienten med nykonstateret T1D påbegynder typisk insulin svarende til 0,3 IE/kg. Denne dosis deles typisk op i halvdelen som langtidsvirkende insulin til aftensmåltidet eller sengetid, mens den anden halvdel fordeles over tre doser hurtigtvirkende insulin før hvert hovedmåltid. Der suppleres med hurtigtvirkende insulin efter behov jf. afsnit om hyperglykæmi.
+Patienter kan efter opstart af insulin behandling opleve reduceret eller evt. helt ophørt insulinbehov som udtryk for delvist bevaret egenproduktion (remissions-fase). Det er vigtigt at oplyse patienterne om at dette er forbigående, at BG-monitorering bør fortsætte og at der altid på længere sigt bliver behov for eksogent tilført insulin. På baggrund af målte BG og mængden af supplerende insulin justeres insulinbehandlingen løbende. Generelt gælder, at den langtidsvirkende insulin ikke justeres hyppigere end hver 3. døgn, grundet den lange halveringstid og dag-til-dag variation. Det er afgørende, at justering af insulinbehandlingen, foregår samtidig med en vurdering, justering og undervisning i patientens kostindtag.
+1.2 Mål for behandling
+Ved en patient med nyopdaget T1D stiles der mod et BG på 7-12 mmol/L præprandialt i den første periode, idet man gradvist kan tilnærme sig de generelle behandlingsmål. Mere eller mindre stramme behandlingsmål kan være relevant for den enkelte person. Ved meget svær dysregulation vil en for hurtig normalisering medføre risiko for akut neuropati og retinopati.
+
+ Transition
+
+Transition er en planlagt og struktureret overgang fra behandling i pædiatrisk til voksen endokrinologisk regi. Formålet med transitionen er at sikre den unge selv over tid får øget forståelse af T1D, kompetence til at handle på diabetesbehandlingen og gradvist overtager ansvaret for egenomsorg uden behov for væsentlig støtte fra forældre/pårørende. Under transitionen sikres fortsat god glykæmisk kontrol og der foretages screening for sendiabetiske komplikationer, psykosociale- og spisemæssige forstyrrelser i overgangen. Transitions/unge-klinikker er oprettet/er under oprettelse regionalt og der henvises til lokale retningslinjer fra disse.
+
+ T1D og kørekort
+
+Generelle krav til helbred og førlighed ved ansøgning om/fornyelse af kørekort gælder også for personer med T1D med særlig opmærksomhed på hypoglykæmi og tilstedeværelsen af betydende diabetes senkomplikationer.
+Generel helbredsattest (”kørekortsattest”) udfyldes altid ved den praktiserende læge.
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” vil i nogle tilfælde skulle udfyldes og da altid af den diabetesbehandlingsansvarlige læge. Attesten findes her: https://stps.dk/~/media/601159C3313240E9BA67276CE537D5DB.ashx
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” er ikke nødvendig ved ”stabil” sygdom og/eller fravær af diabetes senkomplikationer, hvis der søges om ”lille kørekort” = gruppe 1 kørekort = A (Motorcykel) + B (Alm.bil).
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” skal medsendes kørekortsansøgning for at få udstedt/fornyet ”lille kørekort” hvis der er ”ustabil” sygdom og/eller betydende diabetes senkomplikationer og altid ved ansøgning om ”stort kørekort” = gruppe 2 kørekort = C (Lastbil) + D (Bus, mere end 8 siddepladser) + E (stor anhænger).
+Ansøgeren må ikke have nedsat erkendelse af hypoglykæmi (unawareness) og skal kunne opdage og reagere i tide, hvis BG-niveauet falder.
+Ved T1D kan der ikke anbefales kørekort til Erhverv D1 eller D (lille eller stor bus til erhvervsmæssig personbefordring) eller til personer, som fører udrykningskøretøjer.
+Ved T1D (insulinbehandling) anbefales kørekortet sædvanligvis udstedt med et vilkår om en individuelt fastsat tidsbegrænsning på højst 3 år.
+Hypoglykæmi og kørselsforbud:
+Gruppe 1
+Ved alvorlig hypoglykæmi (behov for assistance fra anden person) nedlægges kørselsforbud på sædvanligvis 3 måneder (”symptomfri observationsperiode”). Hvis hypoglykæmitilfældet kan forklares ud fra forhold, som har en minimal risiko for gentagelse, og sygdommen i øvrigt er velkontrolleret, kan et kørselsforbud forkortes eller evt. helt undlades.
+Ved recidiverende tilfælde af alvorlig hypoglykæmi i vågen tilstand (mere end ét alvorligt tilfælde på 12 måneder) bør der udstedes et lægeligt kørselsforbud i mindst 3 måneder. Ved hypoglykæmi unawareness nedlægges kørselsforbud indtil problemstillingen er afhjulpet (se afsnittet om hypoglykæmi).
+Gruppe 2
+Hvis der optræder tilfælde af alvorlig hypoglykæmi i vågen eller sovende tilstand, bør der udstedes et lægeligt kørselsforbud i op til 12 måneder, og kørsel med gruppe 2 køretøjer kan først genoptages, når problemstillingen er afhjulpet. Patienten må ikke lide af unawareness.
+I ”Vejledning om helbredskrav til kørekort” fra Styrelsen for patientsikkerhed omtales reglerne for kørekort og kørselsforbud ved diabetes under pkt. 6: https://stps.dk/da/udgivelser/2017/vejledning-om-helbredskrav-til-koerekort/~/media/9BE267FAC6AE4BE3ABB93FAA6E7C2347.ashx3.
+
+ Rejser
+
+Generelle regler vedrørende rejser i udlandet for patienter med kronisk sygdom er også gældende for patienter med T1D. Således skal sygdommen have været stabil uden behov for indlæggelse eller væsentlige behandlingsændringer indenfor de seneste to måneder inden afrejse. To måneder efter indlæggelse eller skadestuekontakt på grund af diabetes dysregulation (hypoglykæmi eller ketoacidose/ketoacidose obs pro) samt ved visse tilfælde af akut forværring af diabetiske følgesygdomme dækker sundhedskortet således ikke. Ved nydiagnosticeret T1D tillægges yderligere 1 måned til reglen om manglende dækning – dvs. i alt 3 måneder fra diagnosetidspunktet. Ved tvivl skal patienten anbefales kontakt til SOS mhp. afklaring. Såfremt SOS’s læge vurderer at sundhedskortet er fuldt dækkende på trods af nylige hændelser udstedes et ”skriftligt forhåndsbevis”. Det er således alene SOS’s læger der udsteder forhåndsbevis uanset diabetesbehandlerens vurdering. Ved tvivl kan SOS’s læge bede patienten om at indhente erklæring fra behandleren.
+Daglige justeringer af insulindosis, skift af insulintype, start på insulinpumpebehandling, justering af eller start på antihypertensiv, kolesterolsænkende eller antitrombotisk behandling betragtes vanligvis ikke som væsentlig behandlingsændring, men patienten bør ved tvivl anbefales at indhente forhåndserklæring fra SOS.
+4.1 Diabetes rejsebrev (”insulinattest”/”pumpepas”)
+Udstedes på engelsk af diabetesbehandler-teams og anbefales medbragt af alle personer med insulinbehandlet diabetes på flyrejser mhp. verifikation af behovet for medtagelse af insulin, nåle og fingerprikker i håndbagagen. Kan med fordel kombineres med bevis for pumpe- og/eller sensorbehandling.
+4.2 Medicinpas (”pillepas”)
+Er beregnet til patienter der medbringer lægeordinerede narkotiske stoffer o.l. på udlandsrejser. Det er derfor normalt ikke nødvendigt for personer med T1D at medbringe medicinpas – specielt hvis diabetes rejsebrev kan fremvises. Til mere eksotiske rejsemål kan medicinpas dog anbefales. Medicinpas kan udskrives fra sundhed.dk. I tvivlstilfælde anbefales kontakt til rejsemålets ambassade.
+
+ Graviditet Link til graviditet og diabetes NBV
+
+## Organisation
+Optimal behandling af T1D er en kompleks multimodal sundhedsydelse, som indebærer et tæt samspil mellem en række faggrupper, hvorfor den bør udføres i hospitalsregi i et specialiseret diabetesambulatorium.
+Der er ikke evidens for, hvor hyppigt patienterne skal ses, men patienten bør have kontakt til diabetesteamet efter behov, dog anbefales det at patienten ses mindst 1 gang årligt i ambulatoriet mhp. lipidstatus, måling af urinalbuminudskillelse og registrering af kvalitetsdata til Dansk Voksen Diabetes Database.
+
+ Nødvendige ressourcer:
+
+1.1 Diabetesambulatoriet
+Patienten bør modtage behandling fra et team omfattende speciallæge i endokrinologi, diabetessygeplejerske, klinisk diætist og fodterapeut.
+1.2 Eksterne samarbejdspartnere
+Der bør være etableret et formaliseret samarbejde med øjenklinik med henblik på regelmæssig fotoscreening og behandling af øjenkomplikationer. Ved udredning og behandling af øvrige senkomplikationer bør der være mulighed for henvisning til ortopædkirurg, karkirurg, kardiolog, nefrolog, neurolog, anæstesiolog (smerteklinik), samt psykolog/psykiater med speciel interesse i diabetes og andre relevante specialer.
+
+ Forløbsorganisering:
+
+Ved første kontakt med patienter med T1D anbefales det at der udføres objektiv undersøgelse og tages blodprøver:HbA1c, lipidstatus, levertal, væsketal samt urin-ACR. Der skal screenes for senkomplikationer og ved behov henvises til relevante specialister. Patienten skal tilbydes livslang regelmæssig opfølgning i diabetesambulatorium efter individuelt behov.
+2.1 Opstartsforløb
+Det er af største vigtighed, at patienten når diagnosen er stillet, gennemgår et struktureret patientuddannelsesprogram for at give viden og færdigheder til at træffe bevidste valg ud fra egne værdier og mål. Sammen med patienten udfærdiges en individuel behandlingsplan. Den skal tage hensyn til alder, skole- eller arbejdstid, spisevaner, fysisk aktivitet, social situation, personlige og kulturelle faktorer, komplikationer og andre sygdomme. Pårørende bør medtænkes i patientuddannelsen.
+2.2 Kronisk forløb
+Hyppigheden af ambulante besøg og interval for besøg hos læge frem for diabetessygeplejerske kan differentieres afhængig af den metaboliske regulation og komplikationsstatus. For voksne hvis glykæmiske profil er stabil og behandlingsmålet er nået, kan ét årligt besøg være tilstrækkeligt. Hyppigere besøg er relevant ved dysregulation og behandlingsskift, f.eks. til insulinpumpe. Telemedicinske kontakter kan anvendes mellem besøgene. Brugen af telemedicin bør individualiseres afhængig af personlige behov og tekniske kompetencer. Før konsultationen bør personen med T1D modtage information om behandlerens forventning til indholdet af konsultationen og gøre sig tanker om egne ønsker til indhold. Personen med T1D bør uddannes i upload af diabetes teknologi, hvor dette er relevant, og evt. i udførelse og indsendelse af prøve til HbA1c måling. Personen med T1D opfordres til at måle sit blodtryk og veje sig inden konsultationen.
+Ved alle besøg:
+
+Måles HbA1c, BT og vægtRegistreres forekomsten af hypoglykæmiGennemgås hjemme BG målinger, data fra FGM/CGM eller insulinpumper med patientenJusteres om nødvendigt i medicinen og behandlingen sammen med patienten
+
+Én gang årligt:
+
+Måles lipidprofil og urin-albuminudskillelsenForetages fod-undersøgelseKvalitetsdata til Dansk Voksen Diabetes Database
+
+Med maksimum to års intervaller anbefales det at der:
+
+Afholdes samtale om livsstilsfaktorer (kost, motion, tobak) og stillingtagen til evt. ændringAfholdes samtale om egenomsorg, psykosociale aspekter, behov for yderligere patientuddannelse m.v.Foretages/registreres øjenscreening (første gang efter 5 års diabetesvarighed). Screeningsinterval i henhold til National retningslinje for screening for diabetisk retinopati https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdfVurderes symptomer på autonom neuropatiVurderes symptomer og kliniske tegn på iskæmisk hjerte-, hjerne- og perifer karsygdomSikres at patienten modtager relevante tilskudVurderes hypoglykæmi awarenessJusteres i behandlingsmål og plan
+
+ Uddannelse og egenomsorg:
+
+Patienterne skal straks ved diagnosen undervises. Derudover skal undervisningen ske kontinuerlig ved kompetente fagpersoner for at patienterne kan opretholde deres evne til egenomsorg og kan orienteres om nye behandlingstiltag. Følgende emner bør være indeholdt i undervisningen af patienter med T1D:
+
+Sygdommens naturAt leve med diabetesSymptomer på hypoglykæmiKost til type 1Fysisk aktivitetMetabolisk regulationInsulinbehandlingTilstødende sygdomme og stressFodpleje og -behandlingDiabetiske senkomplikationerGraviditetSociale forholdRejser
+
+3.1 Psykosocial omsorg:
+Diabetes er en kronisk sygdom, som stiller store krav til den enkelte patient om at deltage aktivt i behandlingen. De psykosociale aspekter såsom angst for fremtiden, angst for senkomplikationer, angst for hypoglykæmi, ansvaret og de mange krav, der er forbundet med egenomsorg og ikke mindst andres reaktioner på sygdommen, har stor indflydelse på, om den enkelte lever godt og længe med sygdommen.
+På den baggrund anbefales:
+
+At psykosocial belastning indgår i patientundervisningenAt psykosociale behandlingsbehov regelmæssigt skal afdækkes, f.eks. ved statusbesøgAt der henvises til relevant behandling hos f.eks. psykolog eller psykiater ved afdækket behov.At der i de enkelte afdelinger implementeres metoder til screening og afdækning af psykosociale problemer. Dette kan f.eks. være i form af spørgeskemaer som f.eks.: “Problem Areas in Diabetes (PAID)” der kan anvendes til afdækning og screening af de psykosociale aspekter i relation til at leve med diabetes. “WHO-Fem Trivselsindeks” kan også anvendes til afdækning af screening af psykosociale aspekter
+
+Referenceliste
+
+Holt RIG, DeVries JH, Hess-Fischl A, Hirsch IB, Kirkman MS, Klupa T, et al. The Management of Type 1 Diabetes in Adults. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2021;44(11):2589-625.Committee ADAPP. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes—2022. Diabetes Care. 2021;45(Supplement_1):S125-S43.The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus. New England Journal of Medicine. 1993;329(14):977-86.Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, et al. Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. 2019;42(5):731-54.Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, et al. Exercise management in type 1 diabetes: a consensus statement. The Lancet Diabetes & Endocrinology. 2017;5(5):377-90.Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European heart journal. 2018;39(33):3021-104.Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al. Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials. Bmj. 2021;372:n135.Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. New England Journal of Medicine. 2018;379(16):1529-39.Pedersen-Bjergaard U, Pramming S, Thorsteinsson B. Recall of severe hypoglycaemia and self-estimated state of awareness in type 1 diabetes. Diabetes Metab Res Rev. 2003;19(3):232-40.
+
+Tovholder
+Esben Søndergaard
+Øvrige forfattere
+Peter Gustenhoff Henrik Ullits Andersen Kirsten Nørgaard Ulrik Pedersen-Bjergaard Claus Bogh Juhl Lena Sønder Snogdal Isabelle Steineck Mads Svart Rakel Fuglsang
+Herudover bidrag fra:
+Sabine Schade Jacobsen, klinisk ernæringsspecialist, Steno Diabetes Center Copenhagen (kost-afsnit)
+Overlæge Søren Tang Knudsen, Steno Diabetes Center Aarhus (diabetisk nyresygdom)
+Oprettet: 2013 Senest revideret: 2022 Næste revision: 2025
+
+ Patienten med nykonstateret T1D
+
+Efter at diagnosen T1D er stillet, er det i den akutte fase vigtigt at udelukke ketoacidose Link til DKA NBV. Såfremt ketoacidose kan afkræftes og/eller patienten har overstået den akutte fase af ketoacidosen, påbegyndes insulinbehandling ved at initiere fast insulinregime. Hvis patienten er fastende eller ikke kan spise og drikke, vil det være indiceret med supplerende glukoseinfusion. (Link NBV for Diabetes og kirurgi).
+1.1 Påbegyndelse af insulinbehandling
+Patienten med nykonstateret T1D påbegynder typisk insulin svarende til 0,3 IE/kg. Denne dosis deles typisk op i halvdelen som langtidsvirkende insulin til aftensmåltidet eller sengetid, mens den anden halvdel fordeles over tre doser hurtigtvirkende insulin før hvert hovedmåltid. Der suppleres med hurtigtvirkende insulin efter behov jf. afsnit om hyperglykæmi.
+Patienter kan efter opstart af insulin behandling opleve reduceret eller evt. helt ophørt insulinbehov som udtryk for delvist bevaret egenproduktion (remissions-fase). Det er vigtigt at oplyse patienterne om at dette er forbigående, at BG-monitorering bør fortsætte og at der altid på længere sigt bliver behov for eksogent tilført insulin. På baggrund af målte BG og mængden af supplerende insulin justeres insulinbehandlingen løbende. Generelt gælder, at den langtidsvirkende insulin ikke justeres hyppigere end hver 3. døgn, grundet den lange halveringstid og dag-til-dag variation. Det er afgørende, at justering af insulinbehandlingen, foregår samtidig med en vurdering, justering og undervisning i patientens kostindtag.
+1.2 Mål for behandling
+Ved en patient med nyopdaget T1D stiles der mod et BG på 7-12 mmol/L præprandialt i den første periode, idet man gradvist kan tilnærme sig de generelle behandlingsmål. Mere eller mindre stramme behandlingsmål kan være relevant for den enkelte person. Ved meget svær dysregulation vil en for hurtig normalisering medføre risiko for akut neuropati og retinopati.
+
+ Transition
+
+Transition er en planlagt og struktureret overgang fra behandling i pædiatrisk til voksen endokrinologisk regi. Formålet med transitionen er at sikre den unge selv over tid får øget forståelse af T1D, kompetence til at handle på diabetesbehandlingen og gradvist overtager ansvaret for egenomsorg uden behov for væsentlig støtte fra forældre/pårørende. Under transitionen sikres fortsat god glykæmisk kontrol og der foretages screening for sendiabetiske komplikationer, psykosociale- og spisemæssige forstyrrelser i overgangen. Transitions/unge-klinikker er oprettet/er under oprettelse regionalt og der henvises til lokale retningslinjer fra disse.
+
+ T1D og kørekort
+
+Generelle krav til helbred og førlighed ved ansøgning om/fornyelse af kørekort gælder også for personer med T1D med særlig opmærksomhed på hypoglykæmi og tilstedeværelsen af betydende diabetes senkomplikationer.
+Generel helbredsattest (”kørekortsattest”) udfyldes altid ved den praktiserende læge.
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” vil i nogle tilfælde skulle udfyldes og da altid af den diabetesbehandlingsansvarlige læge. Attesten findes her: https://stps.dk/~/media/601159C3313240E9BA67276CE537D5DB.ashx
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” er ikke nødvendig ved ”stabil” sygdom og/eller fravær af diabetes senkomplikationer, hvis der søges om ”lille kørekort” = gruppe 1 kørekort = A (Motorcykel) + B (Alm.bil).
+”Erklæring om diabetes i forbindelse med helbredsmæssige oplysninger ved udstedelse af kørekort” skal medsendes kørekortsansøgning for at få udstedt/fornyet ”lille kørekort” hvis der er ”ustabil” sygdom og/eller betydende diabetes senkomplikationer og altid ved ansøgning om ”stort kørekort” = gruppe 2 kørekort = C (Lastbil) + D (Bus, mere end 8 siddepladser) + E (stor anhænger).
+Ansøgeren må ikke have nedsat erkendelse af hypoglykæmi (unawareness) og skal kunne opdage og reagere i tide, hvis BG-niveauet falder.
+Ved T1D kan der ikke anbefales kørekort til Erhverv D1 eller D (lille eller stor bus til erhvervsmæssig personbefordring) eller til personer, som fører udrykningskøretøjer.
+Ved T1D (insulinbehandling) anbefales kørekortet sædvanligvis udstedt med et vilkår om en individuelt fastsat tidsbegrænsning på højst 3 år.
+Hypoglykæmi og kørselsforbud:
+Gruppe 1
+Ved alvorlig hypoglykæmi (behov for assistance fra anden person) nedlægges kørselsforbud på sædvanligvis 3 måneder (”symptomfri observationsperiode”). Hvis hypoglykæmitilfældet kan forklares ud fra forhold, som har en minimal risiko for gentagelse, og sygdommen i øvrigt er velkontrolleret, kan et kørselsforbud forkortes eller evt. helt undlades.
+Ved recidiverende tilfælde af alvorlig hypoglykæmi i vågen tilstand (mere end ét alvorligt tilfælde på 12 måneder) bør der udstedes et lægeligt kørselsforbud i mindst 3 måneder. Ved hypoglykæmi unawareness nedlægges kørselsforbud indtil problemstillingen er afhjulpet (se afsnittet om hypoglykæmi).
+Gruppe 2
+Hvis der optræder tilfælde af alvorlig hypoglykæmi i vågen eller sovende tilstand, bør der udstedes et lægeligt kørselsforbud i op til 12 måneder, og kørsel med gruppe 2 køretøjer kan først genoptages, når problemstillingen er afhjulpet. Patienten må ikke lide af unawareness.
+I ”Vejledning om helbredskrav til kørekort” fra Styrelsen for patientsikkerhed omtales reglerne for kørekort og kørselsforbud ved diabetes under pkt. 6: https://stps.dk/da/udgivelser/2017/vejledning-om-helbredskrav-til-koerekort/~/media/9BE267FAC6AE4BE3ABB93FAA6E7C2347.ashx3.
+
+ Rejser
+
+Generelle regler vedrørende rejser i udlandet for patienter med kronisk sygdom er også gældende for patienter med T1D. Således skal sygdommen have været stabil uden behov for indlæggelse eller væsentlige behandlingsændringer indenfor de seneste to måneder inden afrejse. To måneder efter indlæggelse eller skadestuekontakt på grund af diabetes dysregulation (hypoglykæmi eller ketoacidose/ketoacidose obs pro) samt ved visse tilfælde af akut forværring af diabetiske følgesygdomme dækker sundhedskortet således ikke. Ved nydiagnosticeret T1D tillægges yderligere 1 måned til reglen om manglende dækning – dvs. i alt 3 måneder fra diagnosetidspunktet. Ved tvivl skal patienten anbefales kontakt til SOS mhp. afklaring. Såfremt SOS’s læge vurderer at sundhedskortet er fuldt dækkende på trods af nylige hændelser udstedes et ”skriftligt forhåndsbevis”. Det er således alene SOS’s læger der udsteder forhåndsbevis uanset diabetesbehandlerens vurdering. Ved tvivl kan SOS’s læge bede patienten om at indhente erklæring fra behandleren.
+Daglige justeringer af insulindosis, skift af insulintype, start på insulinpumpebehandling, justering af eller start på antihypertensiv, kolesterolsænkende eller antitrombotisk behandling betragtes vanligvis ikke som væsentlig behandlingsændring, men patienten bør ved tvivl anbefales at indhente forhåndserklæring fra SOS.
+4.1 Diabetes rejsebrev (”insulinattest”/”pumpepas”)
+Udstedes på engelsk af diabetesbehandler-teams og anbefales medbragt af alle personer med insulinbehandlet diabetes på flyrejser mhp. verifikation af behovet for medtagelse af insulin, nåle og fingerprikker i håndbagagen. Kan med fordel kombineres med bevis for pumpe- og/eller sensorbehandling.
+4.2 Medicinpas (”pillepas”)
+Er beregnet til patienter der medbringer lægeordinerede narkotiske stoffer o.l. på udlandsrejser. Det er derfor normalt ikke nødvendigt for personer med T1D at medbringe medicinpas – specielt hvis diabetes rejsebrev kan fremvises. Til mere eksotiske rejsemål kan medicinpas dog anbefales. Medicinpas kan udskrives fra sundhed.dk. I tvivlstilfælde anbefales kontakt til rejsemålets ambassade.
+
+ Graviditet Link til graviditet og diabetes NBV
+
+## Organisation
+Optimal behandling af T1D er en kompleks multimodal sundhedsydelse, som indebærer et tæt samspil mellem en række faggrupper, hvorfor den bør udføres i hospitalsregi i et specialiseret diabetesambulatorium.
+Der er ikke evidens for, hvor hyppigt patienterne skal ses, men patienten bør have kontakt til diabetesteamet efter behov, dog anbefales det at patienten ses mindst 1 gang årligt i ambulatoriet mhp. lipidstatus, måling af urinalbuminudskillelse og registrering af kvalitetsdata til Dansk Voksen Diabetes Database.
+
+ Nødvendige ressourcer:
+
+1.1 Diabetesambulatoriet
+Patienten bør modtage behandling fra et team omfattende speciallæge i endokrinologi, diabetessygeplejerske, klinisk diætist og fodterapeut.
+1.2 Eksterne samarbejdspartnere
+Der bør være etableret et formaliseret samarbejde med øjenklinik med henblik på regelmæssig fotoscreening og behandling af øjenkomplikationer. Ved udredning og behandling af øvrige senkomplikationer bør der være mulighed for henvisning til ortopædkirurg, karkirurg, kardiolog, nefrolog, neurolog, anæstesiolog (smerteklinik), samt psykolog/psykiater med speciel interesse i diabetes og andre relevante specialer.
+
+ Forløbsorganisering:
+
+Ved første kontakt med patienter med T1D anbefales det at der udføres objektiv undersøgelse og tages blodprøver:HbA1c, lipidstatus, levertal, væsketal samt urin-ACR. Der skal screenes for senkomplikationer og ved behov henvises til relevante specialister. Patienten skal tilbydes livslang regelmæssig opfølgning i diabetesambulatorium efter individuelt behov.
+2.1 Opstartsforløb
+Det er af største vigtighed, at patienten når diagnosen er stillet, gennemgår et struktureret patientuddannelsesprogram for at give viden og færdigheder til at træffe bevidste valg ud fra egne værdier og mål. Sammen med patienten udfærdiges en individuel behandlingsplan. Den skal tage hensyn til alder, skole- eller arbejdstid, spisevaner, fysisk aktivitet, social situation, personlige og kulturelle faktorer, komplikationer og andre sygdomme. Pårørende bør medtænkes i patientuddannelsen.
+2.2 Kronisk forløb
+Hyppigheden af ambulante besøg og interval for besøg hos læge frem for diabetessygeplejerske kan differentieres afhængig af den metaboliske regulation og komplikationsstatus. For voksne hvis glykæmiske profil er stabil og behandlingsmålet er nået, kan ét årligt besøg være tilstrækkeligt. Hyppigere besøg er relevant ved dysregulation og behandlingsskift, f.eks. til insulinpumpe. Telemedicinske kontakter kan anvendes mellem besøgene. Brugen af telemedicin bør individualiseres afhængig af personlige behov og tekniske kompetencer. Før konsultationen bør personen med T1D modtage information om behandlerens forventning til indholdet af konsultationen og gøre sig tanker om egne ønsker til indhold. Personen med T1D bør uddannes i upload af diabetes teknologi, hvor dette er relevant, og evt. i udførelse og indsendelse af prøve til HbA1c måling. Personen med T1D opfordres til at måle sit blodtryk og veje sig inden konsultationen.
+Ved alle besøg:
+
+Måles HbA1c, BT og vægtRegistreres forekomsten af hypoglykæmiGennemgås hjemme BG målinger, data fra FGM/CGM eller insulinpumper med patientenJusteres om nødvendigt i medicinen og behandlingen sammen med patienten
+
+Én gang årligt:
+
+Måles lipidprofil og urin-albuminudskillelsenForetages fod-undersøgelseKvalitetsdata til Dansk Voksen Diabetes Database
+
+Med maksimum to års intervaller anbefales det at der:
+
+Afholdes samtale om livsstilsfaktorer (kost, motion, tobak) og stillingtagen til evt. ændringAfholdes samtale om egenomsorg, psykosociale aspekter, behov for yderligere patientuddannelse m.v.Foretages/registreres øjenscreening (første gang efter 5 års diabetesvarighed). Screeningsinterval i henhold til National retningslinje for screening for diabetisk retinopati https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdfVurderes symptomer på autonom neuropatiVurderes symptomer og kliniske tegn på iskæmisk hjerte-, hjerne- og perifer karsygdomSikres at patienten modtager relevante tilskudVurderes hypoglykæmi awarenessJusteres i behandlingsmål og plan
+
+ Uddannelse og egenomsorg:
+
+Patienterne skal straks ved diagnosen undervises. Derudover skal undervisningen ske kontinuerlig ved kompetente fagpersoner for at patienterne kan opretholde deres evne til egenomsorg og kan orienteres om nye behandlingstiltag. Følgende emner bør være indeholdt i undervisningen af patienter med T1D:
+
+Sygdommens naturAt leve med diabetesSymptomer på hypoglykæmiKost til type 1Fysisk aktivitetMetabolisk regulationInsulinbehandlingTilstødende sygdomme og stressFodpleje og -behandlingDiabetiske senkomplikationerGraviditetSociale forholdRejser
+
+3.1 Psykosocial omsorg:
+Diabetes er en kronisk sygdom, som stiller store krav til den enkelte patient om at deltage aktivt i behandlingen. De psykosociale aspekter såsom angst for fremtiden, angst for senkomplikationer, angst for hypoglykæmi, ansvaret og de mange krav, der er forbundet med egenomsorg og ikke mindst andres reaktioner på sygdommen, har stor indflydelse på, om den enkelte lever godt og længe med sygdommen.
+På den baggrund anbefales:
+
+At psykosocial belastning indgår i patientundervisningenAt psykosociale behandlingsbehov regelmæssigt skal afdækkes, f.eks. ved statusbesøgAt der henvises til relevant behandling hos f.eks. psykolog eller psykiater ved afdækket behov.At der i de enkelte afdelinger implementeres metoder til screening og afdækning af psykosociale problemer. Dette kan f.eks. være i form af spørgeskemaer som f.eks.: “Problem Areas in Diabetes (PAID)” der kan anvendes til afdækning og screening af de psykosociale aspekter i relation til at leve med diabetes. “WHO-Fem Trivselsindeks” kan også anvendes til afdækning af screening af psykosociale aspekter
+
+Referenceliste
+
+Holt RIG, DeVries JH, Hess-Fischl A, Hirsch IB, Kirkman MS, Klupa T, et al. The Management of Type 1 Diabetes in Adults. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2021;44(11):2589-625.Committee ADAPP. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes—2022. Diabetes Care. 2021;45(Supplement_1):S125-S43.The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus. New England Journal of Medicine. 1993;329(14):977-86.Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, et al. Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. 2019;42(5):731-54.Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, et al. Exercise management in type 1 diabetes: a consensus statement. The Lancet Diabetes & Endocrinology. 2017;5(5):377-90.Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European heart journal. 2018;39(33):3021-104.Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al. Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials. Bmj. 2021;372:n135.Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. New England Journal of Medicine. 2018;379(16):1529-39.Pedersen-Bjergaard U, Pramming S, Thorsteinsson B. Recall of severe hypoglycaemia and self-estimated state of awareness in type 1 diabetes. Diabetes Metab Res Rev. 2003;19(3):232-40.
+
+Tovholder
+Esben Søndergaard
+Øvrige forfattere
+Peter Gustenhoff Henrik Ullits Andersen Kirsten Nørgaard Ulrik Pedersen-Bjergaard Claus Bogh Juhl Lena Sønder Snogdal Isabelle Steineck Mads Svart Rakel Fuglsang
+Herudover bidrag fra:
+Sabine Schade Jacobsen, klinisk ernæringsspecialist, Steno Diabetes Center Copenhagen (kost-afsnit)
+Overlæge Søren Tang Knudsen, Steno Diabetes Center Aarhus (diabetisk nyresygdom)
+Oprettet: 2013 Senest revideret: 2022 Næste revision: 2025
+
+Optimal behandling af T1D er en kompleks multimodal sundhedsydelse, som indebærer et tæt samspil mellem en række faggrupper, hvorfor den bør udføres i hospitalsregi i et specialiseret diabetesambulatorium.
+Der er ikke evidens for, hvor hyppigt patienterne skal ses, men patienten bør have kontakt til diabetesteamet efter behov, dog anbefales det at patienten ses mindst 1 gang årligt i ambulatoriet mhp. lipidstatus, måling af urinalbuminudskillelse og registrering af kvalitetsdata til Dansk Voksen Diabetes Database.
+
+ Nødvendige ressourcer:
+
+1.1 Diabetesambulatoriet
+Patienten bør modtage behandling fra et team omfattende speciallæge i endokrinologi, diabetessygeplejerske, klinisk diætist og fodterapeut.
+1.2 Eksterne samarbejdspartnere
+Der bør være etableret et formaliseret samarbejde med øjenklinik med henblik på regelmæssig fotoscreening og behandling af øjenkomplikationer. Ved udredning og behandling af øvrige senkomplikationer bør der være mulighed for henvisning til ortopædkirurg, karkirurg, kardiolog, nefrolog, neurolog, anæstesiolog (smerteklinik), samt psykolog/psykiater med speciel interesse i diabetes og andre relevante specialer.
+
+ Forløbsorganisering:
+
+Ved første kontakt med patienter med T1D anbefales det at der udføres objektiv undersøgelse og tages blodprøver:HbA1c, lipidstatus, levertal, væsketal samt urin-ACR. Der skal screenes for senkomplikationer og ved behov henvises til relevante specialister. Patienten skal tilbydes livslang regelmæssig opfølgning i diabetesambulatorium efter individuelt behov.
+2.1 Opstartsforløb
+Det er af største vigtighed, at patienten når diagnosen er stillet, gennemgår et struktureret patientuddannelsesprogram for at give viden og færdigheder til at træffe bevidste valg ud fra egne værdier og mål. Sammen med patienten udfærdiges en individuel behandlingsplan. Den skal tage hensyn til alder, skole- eller arbejdstid, spisevaner, fysisk aktivitet, social situation, personlige og kulturelle faktorer, komplikationer og andre sygdomme. Pårørende bør medtænkes i patientuddannelsen.
+2.2 Kronisk forløb
+Hyppigheden af ambulante besøg og interval for besøg hos læge frem for diabetessygeplejerske kan differentieres afhængig af den metaboliske regulation og komplikationsstatus. For voksne hvis glykæmiske profil er stabil og behandlingsmålet er nået, kan ét årligt besøg være tilstrækkeligt. Hyppigere besøg er relevant ved dysregulation og behandlingsskift, f.eks. til insulinpumpe. Telemedicinske kontakter kan anvendes mellem besøgene. Brugen af telemedicin bør individualiseres afhængig af personlige behov og tekniske kompetencer. Før konsultationen bør personen med T1D modtage information om behandlerens forventning til indholdet af konsultationen og gøre sig tanker om egne ønsker til indhold. Personen med T1D bør uddannes i upload af diabetes teknologi, hvor dette er relevant, og evt. i udførelse og indsendelse af prøve til HbA1c måling. Personen med T1D opfordres til at måle sit blodtryk og veje sig inden konsultationen.
+Ved alle besøg:
+
+Måles HbA1c, BT og vægtRegistreres forekomsten af hypoglykæmiGennemgås hjemme BG målinger, data fra FGM/CGM eller insulinpumper med patientenJusteres om nødvendigt i medicinen og behandlingen sammen med patienten
+
+Én gang årligt:
+
+Måles lipidprofil og urin-albuminudskillelsenForetages fod-undersøgelseKvalitetsdata til Dansk Voksen Diabetes Database
+
+Med maksimum to års intervaller anbefales det at der:
+
+Afholdes samtale om livsstilsfaktorer (kost, motion, tobak) og stillingtagen til evt. ændringAfholdes samtale om egenomsorg, psykosociale aspekter, behov for yderligere patientuddannelse m.v.Foretages/registreres øjenscreening (første gang efter 5 års diabetesvarighed). Screeningsinterval i henhold til National retningslinje for screening for diabetisk retinopati https://dansk-oftalmologisk-selskab.dk/wp-content/uploads/2021/05/National-retningslinje-for-screening-af-diabetisk-retinopati.pdfVurderes symptomer på autonom neuropatiVurderes symptomer og kliniske tegn på iskæmisk hjerte-, hjerne- og perifer karsygdomSikres at patienten modtager relevante tilskudVurderes hypoglykæmi awarenessJusteres i behandlingsmål og plan
+
+ Uddannelse og egenomsorg:
+
+Patienterne skal straks ved diagnosen undervises. Derudover skal undervisningen ske kontinuerlig ved kompetente fagpersoner for at patienterne kan opretholde deres evne til egenomsorg og kan orienteres om nye behandlingstiltag. Følgende emner bør være indeholdt i undervisningen af patienter med T1D:
+
+Sygdommens naturAt leve med diabetesSymptomer på hypoglykæmiKost til type 1Fysisk aktivitetMetabolisk regulationInsulinbehandlingTilstødende sygdomme og stressFodpleje og -behandlingDiabetiske senkomplikationerGraviditetSociale forholdRejser
+
+3.1 Psykosocial omsorg:
+Diabetes er en kronisk sygdom, som stiller store krav til den enkelte patient om at deltage aktivt i behandlingen. De psykosociale aspekter såsom angst for fremtiden, angst for senkomplikationer, angst for hypoglykæmi, ansvaret og de mange krav, der er forbundet med egenomsorg og ikke mindst andres reaktioner på sygdommen, har stor indflydelse på, om den enkelte lever godt og længe med sygdommen.
+På den baggrund anbefales:
+
+At psykosocial belastning indgår i patientundervisningenAt psykosociale behandlingsbehov regelmæssigt skal afdækkes, f.eks. ved statusbesøgAt der henvises til relevant behandling hos f.eks. psykolog eller psykiater ved afdækket behov.At der i de enkelte afdelinger implementeres metoder til screening og afdækning af psykosociale problemer. Dette kan f.eks. være i form af spørgeskemaer som f.eks.: “Problem Areas in Diabetes (PAID)” der kan anvendes til afdækning og screening af de psykosociale aspekter i relation til at leve med diabetes. “WHO-Fem Trivselsindeks” kan også anvendes til afdækning af screening af psykosociale aspekter
+
+Referenceliste
+
+Holt RIG, DeVries JH, Hess-Fischl A, Hirsch IB, Kirkman MS, Klupa T, et al. The Management of Type 1 Diabetes in Adults. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2021;44(11):2589-625.Committee ADAPP. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes—2022. Diabetes Care. 2021;45(Supplement_1):S125-S43.The Effect of Intensive Treatment of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent Diabetes Mellitus. New England Journal of Medicine. 1993;329(14):977-86.Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, et al. Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. 2019;42(5):731-54.Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, et al. Exercise management in type 1 diabetes: a consensus statement. The Lancet Diabetes & Endocrinology. 2017;5(5):377-90.Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European heart journal. 2018;39(33):3021-104.Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al. Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials. Bmj. 2021;372:n135.Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. New England Journal of Medicine. 2018;379(16):1529-39.Pedersen-Bjergaard U, Pramming S, Thorsteinsson B. Recall of severe hypoglycaemia and self-estimated state of awareness in type 1 diabetes. Diabetes Metab Res Rev. 2003;19(3):232-40.
+
+Tovholder
+Esben Søndergaard
+Øvrige forfattere
+Peter Gustenhoff Henrik Ullits Andersen Kirsten Nørgaard Ulrik Pedersen-Bjergaard Claus Bogh Juhl Lena Sønder Snogdal Isabelle Steineck Mads Svart Rakel Fuglsang
+Herudover bidrag fra:
+Sabine Schade Jacobsen, klinisk ernæringsspecialist, Steno Diabetes Center Copenhagen (kost-afsnit)
+Overlæge Søren Tang Knudsen, Steno Diabetes Center Aarhus (diabetisk nyresygdom)
+Oprettet: 2013 Senest revideret: 2022 Næste revision: 2025
+
